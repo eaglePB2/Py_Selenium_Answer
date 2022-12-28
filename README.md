@@ -16,12 +16,16 @@
 	- 測驗時間：10分鐘；
 
 ## 前置安裝
-你需要pip 安裝兩個bundle：
-Selenium — 就是這個程式的重大核心，也是用來打開網頁，找關鍵字，輸入答案，按按鈕的重要工具
-`pip install selenium`
+你需要pip 安裝兩個bundle：  
+Selenium — 就是這個程式的重大核心，也是用來打開網頁，找關鍵字，輸入答案，按按鈕的重要工具  
+```
+pip install selenium
+```
 
-webdriver-manager — 用來支援Selenium可以打開Chrome, Firefox, Internet Explorer, Opera, Brave, 和 Edge遊覽器
-`pip install webdriver-manager`
+webdriver-manager — 用來支援Selenium可以打開Chrome, Firefox, Internet Explorer, Opera, Brave, 和 Edge遊覽器  
+```
+pip install webdriver-manager
+```
 
 ## 效果預覽
 https://youtu.be/zrECA0TBI4M
