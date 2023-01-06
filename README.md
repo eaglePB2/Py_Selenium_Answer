@@ -1,5 +1,3 @@
-
-
 # Selenium 全自動答案輸入系統 （非100%準確率）
 可以把它當成針對[http://etabc.tw/etest/](http://etabc.tw/etest/)的漏洞來自動輸入的測試系統，但目前沒有想要把它做到很完美的意思，僅供參考用，本人不對因使用該系統而發生的各種事情（包括但不限於：被其他人發現，因某問題導致你成績直接爆炸等）負責，我只是以教育性質和回報漏洞為目的而寫這份程式的。
 
@@ -41,3 +39,7 @@ https://youtu.be/zrECA0TBI4M
 _How to automate filling in web forms with python using selenium_. LambdaTest. (2022, November 7). Retrieved December 28, 2022, from https://www.lambdatest.com/blog/how-to-automate-filling-in-web-forms-with-python-using-selenium/
 
 Muthukadan, B. (2018). _7. Webdriver API¶_. 7. WebDriver API - Selenium Python Bindings 2 documentation. Retrieved December 28, 2022, from https://selenium-python.readthedocs.io/api.html
+
+## 一些酷酷的……徽章？
+虽然我没拿过任何的软体来检测各种安全病毒什么鬼的，但还是谢咯  
+[![Security Status](https://www.murphysec.com/platform3/v3/badge/1609745945815502848.svg)](https://www.murphysec.com/accept?code=7591fc7a6d5fa48571ada882d2d1348d&type=1&from=2&t=1)
