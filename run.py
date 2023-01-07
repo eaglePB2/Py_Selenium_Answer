@@ -8,7 +8,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 import random
 
-driver = webdriver.Edge()
+
 
 # Input
 ClassName = input("班級: ")
@@ -17,9 +17,11 @@ SeatNo = input("座號: ")
 ChooseNo = input("挑選: < 10 | 20 | 25 | 40 | 50 | 80 | 100 | 125 | 150 | 200 | 250>")
 ExamTime = input("測驗時間: < 1 | 3 | 5 | 10 | 15 | 20 | 25 | 30 | 35 | 40>")
 
+driver = webdriver.Edge()
+
 # open tab
 # ... take the code from the options below
-driver.get("http://etabc.tw/etest/default.asp?dt=1&db=3012&ct=%BC%EA%B4%F2&sname=%BC%EA%B4%F2%AE%FC%A8%C6")
+driver.get("http://etabc.tw/etest/default.asp?dt=3&db=G3012")
 
 # Setting up the tests...
 driver.find_element(By.NAME, "endno").send_keys("\ue003\ue003\ue003\ue0033012")

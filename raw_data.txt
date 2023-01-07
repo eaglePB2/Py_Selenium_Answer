@@ -1,0 +1,2373 @@
+1|服務生 (n)|waiter|After the waiter seated us at Table 5, we began to order. 
+2|家庭 (n)|family|We are a happy family and we take care of each other. 
+3|堅守 黏住 (v)|stick|I will stick a note on your door to remind you to buy some bread and milk. 
+4|褓姆 (n)|babysitter|Helen has been a babysitter since she was 18. On one hand, she likes taking care of kids. On the other hand, she saves money for college. 
+5|看 (v)|look|Look at me. I am by the sea. 
+6|笑話 (n)|joke|Our teacher told us a joke in class. No one laughed because it was not funny at all. 
+7|耳環 (n)|earrings|Sandy bought a pair of pearl earrings to match her necklace. 
+8|狼 (n)|wolf|The wolves live in the woods, hunting in group. 
+9|小心的 (adj)|careful|Be very careful when you are using a knife. 
+10|樣式 類型 (n)|pattern|The pattern of the jacket is unique, but the jacket doesn’t sell well. 
+11|男人 (n)|man|The man at the door is my dad. 
+12|鞋子 (n)|shoes|How many pairs of shoes do you have? 
+13|無禮的 (adj)|impolite|An impolite person seldom says sorry, thank you, or please. 
+14|現場的 直播的 (adj)|live|There will be a live baseball game on TV in two hours. 
+15|立即的 即時的 (adj)|instant|The boss asks an instant reply from you. He lost his patience to wait. 
+16|第三十 (num)|thirtieth|At last, I collected my thirtieth stamp. 
+17|姪子 (n)|nephew|My elder brother has two sons. They are both my nephews. 
+18|詭計 騙局 (n)|trick|You can't teach an old dog new tricks. 
+19|春天 (n)|spring|The trees will form in spring. 
+20|古代的 (adj)|ancient|He wears an ancient coat and a modern cap. 
+21|鴿子 (n)|pigeon|In the past, pigeons were used to send messages to people far away. 
+22|目的 意圖 (n)|purpose|The purpose of this survey is to understand how well the general public know our mayor. 
+23|電視 (n)|television|Don't spend too much time watching television. Most TV programs are not as good as you think. 
+24|旗子 (n)|flag|The soldiers standing on the hill are waving flags to send messages. 
+25|存在 (v)|exist|As scientists, we don’t believe that ghosts exist in the world. 
+26|蝸牛 (n)|snail|The snail is climbing up very slowly. Its shell must be very heavy. 
+27|平常的 (adj)|usual|Eric will come over for some tea after work as usual. 
+28|棒狀物 門閂 障礙 (n1)|bar|There is a bar in front of you. Be careful, so you don't get tripped. 
+29|斑馬 (n)|zebra|Zebras are black and white. 
+30|鞠躬 (v)|bow|Players bowed to their fans after the game. 
+31|空氣 (n)|air|Open the window, I need some fresh air. 
+32|信封 (n)|envelope|I wrote your address on the envelope and sent the mail to you. 
+33|送給 給 (v)|give|Mr. Wu gives red roses to his wife. 
+34|十六 (num)|sixteen|Sixteen minus six is ten. 
+35|男孩 (n)|boy|The boy has a big dog. 
+36|取悅 請 (v)|please|Scott bought some roses to please Mary. 
+37|粗心大意的 (adj)|careless|In the math test, I was so careless that I omitted a zero. 
+38|美國人 (n)|American|Arisa has lived in California, USA, ever since she married an American last year. 
+39|好處 優勢 (n)|advantage|Being able to speak different languages is a great advantage at work. 
+40|喧鬧的 (adj)|noisy|The kids outside were so noisy that I couldn't fall asleep. 
+41|包含 容納 裝入 (v)|contain|The package you'll receive contains three T-shirts, seven photos and five books. 
+42|農場 飼養場 (n)|farm|There are many cows and sheep on the farm. 
+43|騎馬 乘車 (v)|ride|It's not safe for a three-year kid to ride his bike on the road alone. 
+44|第八 (num)|eighth|Peter got a bike on his eighth birthday. 
+45|發送 寄出 (v)|send|Computers can be used to send e-mail. 
+46|方法 辦法 (n)|method|It’s the methods that I care most at work. 
+47|指甲 釘子 (n)|nail|Susan paints her finger nails pink. 
+48|像這樣的 (adj)|such|Kelly is such a cute girl that everyone likes her. 
+49|社會 (n)|society|In every society, some people are rich and some people are poor. 
+50|為了 (prep)|for|I buy a toy for you. 
+51|貯存 (v)|store|We store meat in the refrigerator to keep it fresh. 
+52|錄音帶 膠帶 (n)|tape|A tape recorder is used to record sounds. 
+53|吸管 稻草 (n)|straw|He doesn't like to drink milk with a straw. 
+54|毛巾 (n)|towel|I use a towel to dry my hair. 
+55|影響 (n)|influence|Joe used all his influence to get the tickets to A-mei’s concert. 
+56|南瓜 (n)|pumpkin|Pumpkin pie is served on Thanksgiving. 
+57|東方 (n)|east|The sea is to the east of the hill. 
+58|底片 膠捲 (n)|film|The angry cat scratched the film in my hand. How can I develop the pictures now? 
+59|中華民國 (n1)|Republic of China|Having a passport of the Republic of China is convenient, because we don’t need visas to enter Canada and most European countries 
+60|左邊的 (adj)|left|I cannot write with my left hand. 
+61|空白的 (adj)|blank|Robin draws two tigers on the blank pages in his textbook. 
+62|道路 (n)|road|This is the road to my school. 
+63|小時 (n)|hour|We serve you 24 hours a day, 7 days a week. 
+64|山羊 (n)|goat|There are ten goats on the farm. 
+65|牛排 (n)|steak|My friends from India don't eat steak. 
+66|等待 (v)|wait|What are you waiting for? 
+67|近來的 最近的 (adj)|recent|Many scientists have worked hard to study solar power in recent years. 
+68|標準的 (adj)|standard|Security checks are standard procedures at airports. 
+69|有魔力的 (adj)|magic|The fairy placed the magic wand on the ugly frog and it soon became a handsome prince. 
+70|手指 (n)|finger|You have ten fingers. 
+71|大自然 性質 (n)|nature|Nature gives us beautiful scenes, such as rivers, lakes, hills, and oceans. 
+72|出現 (v)|appear|After the heavy rain, a beautiful rainbow appeared in the sky. 
+73|活動 (n)|activity|Recently, biking has become a popular weekend activity. 
+74|寂寞的 孤獨的 (adj)|lonely|The girl doesn't have any friend, so she always feels lonely. 
+75|麵包 (n)|bread|Sam only had a piece of bread for lunch. 
+76|模型 典範模特兒 (n)|model|My son made an airplane model last night. 
+77|突發爆發 (v)|burst|Why do you burst into tears? What makes you so sad? 
+78|老板 (n)|boss|After working hard for ten years, David becomes a boss. 
+79|鏡子 (n)|mirror|The old witch is so ugly that the mirror cracked AGAIN! This is the fifth mirror she has broken. 
+80|挑選 精選 (v)|select|Sara selected some great movies and rented the DVDs. She wanted to enjoy them with her family at home on Christmas Eve. 
+81|年齡 (n)|age|A woman's age is always a big secret. 
+82|罐頭 桶子 (n)|can|Where is the trash can? 
+83|葡萄 (n)|grape|The grapes are small, but they are very sweet and juicy. 
+84|山谷 溪谷 (n)|valley|Slowly, the stream flows through the valley. 
+85|處理 (v)|handle|Facing the crisis that we can’t handle ourselves, we must hire an expert to help us. 
+86|聰明的 (adj)|smart|Smart students always get good grades on math tests. 
+87|奶油 (n)|butter|The cake is decorated with butter. 
+88|鬼鬼祟祟的 (adj)|sneaky|That boy must be playing some tricks. He looks sneaky, hiding himself behind the tree. 
+89|包括 包含 (v)|include|The water activities here include swimming, surfing, and boating. 
+90|情人節 (n1)|Valentine's Day|Joe bought a bouquet of roses and showed up at my apartment on Valentine's Day. How romantic! 
+91|洋梨 (n)|pear|The pears are so sweet. You should try some. 
+92|地面888 (n)|ground|The students sat on the ground, talking and laughing happily. 
+93|航空器 (n)|aircraft|Two aircrafts crashed into the World Trade Center in 2001. 
+94|決定 (v)|decide|Sam decides to study abroad after graduation. 
+95|青少年時期 (n)|youth|Ted’s youth was spent on computer games, and he was not successful in doing anything. 
+96|看法 觀點 點 (n)|point|You made your point clearly in the report. 
+97|出售 (n)|sale|The house was for sale a week ago. 
+98|名字 (n)|name|My name is David. What's yours? 
+99|缺席的 不在場的 (adj)|absent|Mike was absent from school today because he had a serious cold. 
+100|老鷹 (n)|eagle|With strong wings, the eagles can fly high. 
+101|書櫥 架子 (n)|shelf|Lisa put the dictionaries on the top shelf. 
+102|民主政治 (n)|democracy|The ROC is the pioneer of democracy in Asia. 
+103|派對 (n)|party|When and where will the party be held? 
+104|正確的 準確的 (adj)|exact|I need you to be there at the exact time; otherwise, you'll blow up the deal. 
+105|運載 帶著 (v)|carry|I can't carry the big box. It's too heavy. 
+106|甜的 (adj)|sweet|The guava juice isn't sweet enough. Add some sugar for me, would you? 
+107|電子的 (adj)|electric|Darren is checking the electric circuit to find the cause of smoke. 
+108|引擎 發動機 (n)|engine|There is smoke coming out of the engine. I am going to pull over the car. 
+109|歐洲 (n1)|Europe|There are so many countries in Europe that Kevin wants to visit, especially Italy. 
+110|幼年時期 (n)|childhood|The picture reminds me of the good old days in my childhood. 
+111|評論 (n)|comment|As for the scandal, I have no comment. 
+112|出售 賣出 (v)|sell|Emily sells toys at the night market. 
+113|教授 (n)|professor|Professor Smith devoted himself to studying ancient history. 
+114|當..時 (conj)|while|The power went off while Jordan was taking a shower, and he started screaming like a little girl. 
+115|輪子 (n)|wheel|The wheels are hard to move on the muddy road. 
+116|伙伴 拍檔 (n)|partner|You are my best partner, so I’ll support you. 
+117|金屬 (n)|metal|Gold, silver and iron are all metals. 
+118|受歡迎的 (adj)|welcome|You're welcome to visit us anytime! 
+119|閃電 (n)|lightning|Many kids are very afraid of lightning and thunder. 
+120|再(一次) (adv)|again|Don't make the same mistake again. If you do, I won't forgive you. 
+121|射擊 開槍 (v)|shoot|The robbers dropped out the guns, shouting at the police, “Don’t shoot. We surrender.” 
+122|躲避球 (np)|dodge ball|My students like to play dodge ball in PE class. 
+123|森林 (n)|woods|There are many birds living in the woods. 
+124|時間 (n)|time|We spend too much time watching TV. 
+125|日記 (n)|diary|Keeping a diary is a good way to express emotions. 
+126|臉 (n)|face|Joe always wears a big smile on his face. 
+127|下一個 接著的 (adj)|next|Who is the next one? 
+128|已婚的 (adj)|married|The newly married couple will go to Europe for their honeymoon. 
+129|真誠的 (adj)|sincere|What Emily said was not sincere. In fact, it was her mother that forced her to apologize to us. 
+130|垃圾 (n)|trash|My sister took out two bags of trash last night. 
+131|長凳 (n)|bench|I sat on the bench, waiting for my friend. 
+132|手臂 (n)|arm|With strong arms, I can lift heavy things. 
+133|風 (n)|wind|The wind blows the door open. 
+134|牛仔褲 (n)|jeans|Jenny wears jeans every day. 
+135|時期 期間 (n)|period|Jane finished writing her thesis in a period of two years. 
+136|記錄 (n)|record|Sophia ran so fast in the race that she broke the record. 
+137|方式 道路 (n)|way|Don't give up. There are other ways. 
+138|橋 橋樑 (n)|bridge|There is a bridge across the river. 
+139|工業 產業 (n)|industry|The entertainment industry seems to promise a bright future to some teenagers. 
+140|不誠實的 (adj)|dishonest|If you are dishonest with me, how can we be friends? Don’t lie to me any more. 
+141|個人的 (adj)|individual|This is an individual task so you must do it alone. 
+142|(風雨)襲擊 打掃 (v)|sweep|The tornado swept through the town and left no house standing. 
+143|午餐 (n)|lunch|Julia was too busy to have lunch. 
+144|困難的 (adj)|difficult|To stay or to leave is a difficult decision for me to make. 
+145|醜的 難看的 (adj)|ugly|In the fairy tale, an ugly frog was turned into a handsome prince and married a beautiful princess. Would they live happily ever after? 
+146|日本的 日本人 日語 (n1)|Japanese|Sushi is the most representative food of Japanese culture. 
+147|點心 (n)|dessert|Would you like to eat desserts? 
+148|疼痛 痛苦 傷痛 (n)|pain|The pain in Brad’s left leg has troubled him for many years. 
+149|城鎮 市鎮 (n)|town|The people in the town are friendly. 
+150|重的 (adj)|heavy|The box is too heavy for me to lift it up. 
+151|天資 天份 (n)|talent|Mozart had a good talent for music. The melody he created touches my heart. 
+152|季節 (n)|season|There are four seasons in a year: spring, summer, fall, and winter. 
+153|原則 (n)|principle|I stick to my principles. If you are here to change my mind, please leave immediately. 
+154|逮捕 拘捕 (n)|arrest|The man is under arrest for stealing a car. 
+155|微笑 笑容 (v)|smile|Alice smiles at John whenever she sees him. 
+156|球鞋 休閒鞋 (n)|sneakers|The boy lifted his right foot to show off his NIKE sneakers. 
+157|飛機的航程 (n)|flight|Due to the typhoon, my flight was cancelled. The wind was too violent for the plane to fly. 
+158|視覺 視力 (n)|sight|Out of sight, out of mind. 
+159|明亮的 (adj)|bright|At night, you can see bright stars in the sky. 
+160|手腕 腕關節 (n)|wrist|Alison gave me a bracelet, saying “Wear it on your left wrist. It will bring you luck.” 
+161|容易的 (adj)|easy|It's easy for me to do the math homework. 
+162|遙遠的 (adj)|far|Peter lives in a place far away from the city. 
+163|個人的 私人的 (adj)|personal|It's clear that Benny and Bruce have some personal issues. Their interactions were awkward at the party. 
+164|計劃 方案 (n)|plan|Our plan failed because we didn't have enough time to carry it out. 
+165|活潑的 主動的 (adj)|active|Be active on your study and you will learn more. 
+166|青少年 (n)|teenager|To teenagers, friendship is more valuable than anything else. 
+167|陳述 聲明 說明 (v)|state|In his speech, Prof. Ma clearly stated the importance of health . 
+168|句子 (n)|sentence|Making sentences in English is easy for me. 
+169|跑 (v)|run|I have to run away. Someone is running after me. 
+170|漫畫 (n)|comic|Not all children like to read comics. 
+171|市場 市集 (n)|market|In the market, you can buy pork, fish, and so on. 
+172|背後的 後面的 (adj)|back|You need to take the back seat because the passenger seat is full of grocery. 
+173|有力量的 有威力的 (adj)|powerful|The powerful storm destroyed many houses, leaving five thousand people homeless. 
+174|力量 武力 兵力 (n)|force|The force required to move this object is beyond our imagination. 
+175|遙遠的 (adj)|distant|The moon is distant from the Earth. 
+176|有智慧的 (adj)|wise|Only the wise old man can tell us the truth. 
+177|軍官 (n)|officer|The club is for army officers. Soldiers are not allowed to enter. 
+178|沒有 而不會 (prep)|without|We can't live without water and air. 
+179|大量的 大規模的 (adj)|mass|After the big flood, a mass migration of animals took place. 
+180|百貨商店 (np)|department store|Mom bought a new purse when the department store had a sale. 
+181|顧客 消費者 (n)|customer|Customers in the restaurant enjoy the food and service there. 
+182|世紀 一百年 (n)|century|The church was built in the 16th century. 
+183|今晚 (adv)|tonight|Tonight I make a wish that tomorrow will be a better day. 
+184|枕頭 (n)|pillow|My grandmother likes to rest her head on a soft pillow. 
+185|討論 商議 (v)|discuss|I need to be at another meeting soon. Can we discuss more details next time? 
+186|馬 (n)|horse|Horses can run very fast. 
+187|陣雨 淋浴 (n)|shower|My father was caught in a shower on his way home. 
+188|真正地 (adv)|really|What you said really made me angry. 
+189|失敗 (n)|failure|No one is destined to failure unless one gives up easily. 
+190|限制 (n)|limit|We should drive under the speed limit; it's safer that way. 
+191|流動 流逝 漲潮 (n)|flow|Please open the windows, so we can get some air flow in the room. 
+192|攝影師 (n)|photographer|Being a professional photographer sounds really cool, but it requires determination and talent. 
+193|硬幣 錢幣 (n)|coin|How many coins are there on the desk? 
+194|女孩 (n)|girl|The girl with long hair is Jane. 
+195|尚未 還沒有 (adv)|yet|I haven't done my homework yet. I need two more hours. 
+196|波浪 (n)|wave|There are big waves at sea when a storm comes. 
+197|老虎 (n)|tiger|There are two tigers in the zoo. 
+198|胃 (n)|stomach|Don't take the pills on an empty stomach. 
+199|最大的 (adj)|maximum|Mr. Powell, this credit card has reached its maximum amount. Do you have another card or would you like to pay in cash? 
+200|全部的 (adj)|all|All the new toys are red. 
+201|職業 事業 (n)|career|Many college students are uncertain about what they want to do as a career. 
+202|人人 (pron)|everyone|Everyone should follow the school rules. 
+203|玻璃杯 (n)|glass|The glass fell to the floor and broke into pieces. 
+204|美麗的 (adj)|beautiful|Mike sent a bunch of beautiful roses to Sherry. 
+205|暴風雨 騷動 動亂 (n)|storm|There was a furious storm last night. 
+206|作夢 (v)|dream|Last night, I dreamed of my grandma and I missed her so much. 
+207|越過 在更遠處 (prep)|beyond|Zoe lived beyond her income, so she decided to make more money. ? 
+208|澳洲的 澳洲人 (n1)|Australian|Kangaroos and koalas are Australian animals and they are adored by many people. 
+209|建築物 房屋 (n)|building|The tall building is Taipei 101. 
+210|原因 (n)|reason|Jane is talkative. That’s the very reason why I don’t like her. 
+211|愛滋病 (n)|AIDS|AIDS still remains incurable today. 
+212|節省 拯救 保存 (v)|save|We go to school by MRT to save time. 
+213|底部 (n)|bottom|From now on, I can only miss you from the bottom of my heart. 
+214|景色 風景 場景 (n)|scene|The best scene of the play was where Blake decided to betray his friends. The actor was full of emotions. 
+215|記憶力 (n)|memory|Though the old lady is 80 years old, she still has a good memory. She can speak out every name of her grandchildren correctly. 
+216|蛋糕 糕餅 (n)|cake|The cake looks so yummy. Would you like to try? 
+217|富有的 (adj)|rich|Tom is a rich man. He has much money. 
+218|親吻 (v)|kiss|The kid is so cute that I want to kiss him. 
+219|口渴的 (adj)|thirsty|I am very thirsty. I need something to drink. 
+220|冷凍機 (n)|freezer|Put the meat in the freezer to keep it fresh. 
+221|握(手) 搖動 (v)|shake|Wearing a big smile, the host shakes hands with his guests. 
+222|民主政治的 民主的 (adj)|democratic|In democratic nations, people have the right to vote. 
+223|最愛的 (adj)|favorite|Our favorite team lost the game last night but we still cheered the players. 
+224|公司 (n)|firm|In 2013, Nokia, a cellphone firm, faced a merger. It was bought by Microsoft at a high price. 
+225|獨立的 (adj)|independent|Some students lack independent thinking. They spend too much time playing video games and following pop culture. 
+226|油 (n)|oil|Oil doesn't mix with water. 
+227|興趣 (n)|interest|Suddenly, I lost my interest in painting. I don't want to draw any more. 
+228|(專門)技術 技能 技巧 (n)|skill|Living in the wild requires a lot of skills! You city people won’t understand that. 
+229|炸彈 (n)|bomb|In an air raid, the enemy airplanes dropped bombs to destroy the city. 
+230|普通的 (adj)|common|Surfing the Internet with smart phones is very common. 
+231|風箏 (n)|kite|The kids are flying a kite in the park. 
+232|為…歡呼、鼓舞 (v)|cheer|We began to cheer when our school team arrived. 
+233|泥漿 泥巴 (n)|mud|Don't play in the mud, or you'll get dirty. 
+234|以…為基礎、根據 (v)|base|The movie was based on a real story. 
+235|海灘 (n)|beach|In summer, we go to the beach to swim. 
+236|寫 (v)|write|I write my name in chalk on the blackboard. 
+237|打開 (v)|open|Don't open the door for someone you don't know. 
+238|一部分 一小段 (n)|section|A large section of the bridge collapsed during the earthquake. It has to be rebuilt. 
+239|潮濕的 (adj)|humid|Because it often rains a lot in summer, the island is very humid. 
+240|女服務生 (n)|waitress|The waitress seated us at Table 5. 
+241|聽起來 (v)|sound|What you say sounds like a good idea. 
+242|(精神上的)壓力 (n)|stress|When under stress, I might make a wrong decision. 
+243|咖啡 (n)|coffee|Tonight, we have to stay up to get our things done on time. How about some coffee? 
+244|歐洲的 歐洲人 (n1)|European|Eurostar, which started in 2005, connects three European cities; namely, London, Paris and Brussels. 
+245|中午 (n)|noon|We eat lunch at noon. 
+246|一旦 一次 (adv)|once|Once you break Jackson's bag, he will be angry. 
+247|渴望 (v)|long|People who suffer from the war long for peace. 
+248|揚帆 航行 (v)|sail|We sail with the power of wind. 
+249|目標 目的 (n)|aim|Your aim is too high to reach. Be realistic! 
+250|選票 選舉 (v)|vote|Did you vote for Obama in the last election? 
+251|秘書 (n)|secretary|The first task of the secretary was to type a letter for her boss. 
+252|死 (v)|die|When cats come out, the rats die. 
+253|無論如何 不管怎麼說 (adv)|anyway|I am going to tell the police what I saw last night anyway. 
+254|娶 嫁 和…結婚 (v)|marry|Kate married Tom when they were both 18, and they have 2 kids now. 
+255|身材 身影 (n1)|figure|Alice has a slender figure. To be exact, she only weighs 45 kilograms. 
+256|運動 (n)|sports|One of my favorite sports is basketball. 
+257|習俗 慣例 (n)|custom|It's our custom that we give red envelopes to children on Chinese New Year. 
+258|珍貴的 貴重的 (adj)|precious|With time passing, Judy finally realized that the most precious thing to her was love. 
+259|巴士 公車 (n)|bus|We go to school by bus every day. 
+260|按 壓 (v)|press|A contestant can press the button only when he or she is ready to submit answers. 
+261|造成 (v)|cause|I am sorry to cause all the trouble. I will try to make up for my fault. 
+262|毛線衣 (n)|sweater|My grandma is knitting a sweater for me. 
+263|纖細的、苗條的 (adj)|slim|Kitty is tall and slim. She is a famous model 
+264|收藏品 收集 (n)|collection|Megan has a collection of key chains she bought while she traveled to different countries. 
+265|橘子 (n)|tangerine|Tangerines are similar to oranges, but they taste less sweet. 
+266|高的 (adj)|high|The price of the boat is too high. I have no money to buy. 
+267|二手的 (adj2)|used|Students in college buy used textbooks to save money. 
+268|需要 (v)|want|This is what I want. 
+269|發燒 發熱 (n)|fever|Jason had a fever, so he took a day off to see the doctor. 
+270|直接的 (adj)|direct|The direct reason why Tess failed was that she did not trust her co-workers. 
+271|領導 (n)|leader|Who's the class leader of your class? 
+272|便宜的 (adj)|cheap|I spent 50 dollars buying lunch. It was cheap. 
+273|有扶手的椅子 (n)|armchair|The naughty boy hopped in his grandpa’s armchair and fell over. 
+274|第二的 次要的 (adj)|secondary|My grandmother’s health is the most important; money is my secondary concern. 
+275|假的 錯誤的 (adj)|false|Birds live under the water. True or false? 
+276|天生的 (adj)|born|You're a born cook. What you prepare for us looks yummy, smells good and tastes delicious. 
+277|足球 (n)|soccer|Soccer is popular in England 
+278|專家 高手 (n)|expert|We need to hire an expert to handle our problems. 
+279|增加 增強 (v)|increase|To increase the birth rate, the government offers reward for child birth. 
+280|聞起來 (v)|smell|The coffee smells good. 
+281|延誤 耽擱 延後 (v)|delay|The flight to New York will be delayed due to the incoming snowstorm. 
+282|接觸 聯絡 (v)|contact|In order to book a hotel room, you need to contact the hotel receptionist. 
+283|全部 所有 (n)|all|All of the kids are on the bus now. 
+284|關心 看護 (n)|care|Mom has taken care of me since I was born. And, she cares about me very much. 
+285|勝利 (n)|victory|To celebrate their victory, the soccer team went to an expensive restaurant. 
+286|在…裡面 (prep)|inside|Don't put garbage inside your drawer. 
+287|事情 事件 戀情 (n)|affair|The lawyer helped settle the legal affairs for this company. 
+288|購買 採購 (v)|purchase|The tourists purchased some souvenirs for their friends back home. 
+289|銀行家 (n)|banker|The banker successfully runs 3 banks, so he lives a rich life. 
+290|蟲 (n)|worm|Soon, the ugly worms on the leaves will turn into beautiful butterflies. 
+291|校園 校區 (n)|campus|I happened to meet our principal on campus. 
+292|認為 計算 (v)|figure|After the fight with Eric, Henry figured he should not invite Eric to his birthday party to avoid embarrassment. 
+293|列印 印刷 用印刷體寫 (v)|print|This novel has been printed several times. 
+294|想家的 得思鄉病的 (adj)|homesick|After living in Africa for two years, Joe is very homesick. He wants to go home. 
+295|原諒 藉口 (n)|excuse|People like to make excuses when they make mistakes. 
+296|學習 (v)|learn|An old saying goes, “It is never too late to learn.” 
+297|大學 (n)|university|Frank decided not to go to university after high school because he cannot afford the tuition. 
+298|揮舞 揮動 (v)|wave|Dave always waves to us to say goodbye. 
+299|牙齒 (n)|tooth|Be sure to brush your teeth after meals. 
+300|堅持 堅決 (v)|insist|My friend insisted on paying for my dinner this time because I paid for him last time. 
+301|直尺 (n)|ruler|I use a ruler to draw a straight line on the paper. 
+302|衣服 (n)|clothes|Put on your work clothes and begin to work. 
+303|巨大的 龐大的 (adj)|large|The coffee is too large for me to drink up. 
+304|尾巴 尾部 (n)|tail|The bird in the tree has a red tail. 
+305|胖的 (adj)|fat|The pigs are fat. They eat a lot every day. 
+306|正式的 (adj)|formal|In a formal party, men wear tuxedos and behave politely. 
+307|母牛 奶牛 (n)|cow|Cows, oxen and calves are eating grass. 
+308|借(出) (v)|lend|Can you lend me your bike? 
+309|北方的 北部的 (adj)|northern|Taipei is a modem city in northern Taiwan. 
+310|郵差 (n)|mailman|Rain or shine, the mailman delivers mail door to door every day. 
+311|參加 出席 照顧 (v)|attend|I will not attend the meeting due to an emergency. 
+312|運轉 操作 經營 (v)|operate|Nobody knows how to operate this machine because the user manual was recycled by accident. 
+313|國家的 (adj)|national|There are six national parks in Taiwan. They are well preserved. 
+314|相等的 相當的 (adj)|equal|We need to have equal trust in each other, or our relationship will not work out. Do you understand? 
+315|人物 重要人物 (n2)|figure|Barack Obama is a public figure who has great influence on the society. Therefore, he must maintain a good image of himself. 
+316|儀器 器具 (n)|instrument|Both the flute and the violin are western musical instruments. 
+317|網際網路 (n)|Internet|We can get a lot of information on the Internet. 
+318|或許 (adv)|probably|With her terrible attitude, Sue will probably be laid off. 
+319|七月 (n)|July|Dad's birthday is July 4. 
+320|力量 (n)|power|In Taiwan, water power is used widely. 
+321|狹窄的 (adj)|narrow|The narrow alley allows only one person to pass each time, but I think we can both fit in it because we are both skinny. 
+322|自助餐 (n)|buffet|Mike never had buffet before because he firmly believes that the vegetables are not fresh and clean. 
+323|經驗 體驗 (n)|experience|With enough experiences, our boss is able to handle any problems. 
+324|夏天 (n)|summer|It is hot in summer. 
+325|翅膀 機翼 (n)|wing|George saw an eagle spread its wings, flying high in the sky. 
+326|討論 (n)|discussion|I do not want to hear any more discussion on your stupid idea! It's a waste of time! 
+327|整理 安排 (v)|arrange|During the trip to Japan, my father arranged everything. 
+328|打電話給… (v)|dial|Dial 110 to ask the police for help. 
+329|最後的 (adj)|last|This is your last hope. Do your best! 
+330|元 (n)|dollar|The smart phone costs me ten thousand NT dollars. 
+331|星期六 (n)|Saturday|Carl painted his house white on Saturday. 
+332|遊戲 (n)|game|The kids are playing a game happily. 
+333|俱樂部 社團 (n)|club|Students like to join the clubs at school. 
+334|咬 叮 (v)|bite|The dog bites the bone into pieces. 
+335|某事 (pron)|something|There is something in the grass. Be careful! 
+336|繩索 (n)|rope|We hold the rope tight and begin to pull. 
+337|總是 (adv)|always|Jimmy is always late for school. 
+338|瞬間 片刻 (n)|moment|7-ELEVEN serves 24 hours a day. You can go there at any moment. 
+339|螞蟻 (n)|ant|Put away your food. The ants are coming. 
+340|國家 (n)|country|Ask not what your country can do for you, ask what you can do for your country. 
+341|昂貴的 (adj)|expensive|The dress is too expensive. I can't afford it. 
+342|天真的 (adj)|childlike|We all like Cindy because she has a childlike smile. 
+343|尋找 探索 (v)|seek|The dog sought help when its owner was trapped in the cave. Soon, he was saved. 
+344|牛奶 (n)|milk|The cat is drinking its milk. 
+345|棕色的 (adj)|brown|Jane's hair is brown, while my hair is black. 
+346|節日 喜慶日 (n)|festival|On the Mid-Autumn festival, we can appreciate the full moon. ? 
+347|多采多姿的 (adj)|colorful|I love reading Prof. Jones’s colorful adventure stories. I hope one day I can go to Africa with him. 
+348|垃圾 (n)|garbage|Take the garbage with you when you leave. 
+349|六十 (n)|sixty|There are sixty classrooms in my school. 
+350|知道的 意識到的 (adj)|aware|When we are in a closed space, we need to be aware of where the emergency exits are. 
+351|有可能的 (adj)|possible|It's possible for our school team to win. In my opinion, our players are the best. 
+352|排球 (n)|volleyball|Scott hit John's face with a volleyball during PE today. We believed he did it on purpose. 
+353|卡片 (n)|card|I draw a house on the card and give it to Lisa. 
+354|選擇 (v)|choose|We want to choose a sweater for Dad. 
+355|餐館 (n)|restaurant|The service of the restaurant is good. 
+356|傷害 (n)|injury|The physician told Nicole that it will take about 6 months for her daughter to recover from her neck injury. 
+357|衝浪 飆網 (v)|surf|Kids can surf the Internet in class. 
+358|豆腐 (n)|tofu|Do you like to eat stinky tofu? 
+359|節日 假日 (n)|holiday|Halloween is an interesting holiday because I can dress myself as Shrek. 
+360|死亡 (n)|death|The earthquake hit the island, caused 100 deaths, and left many people homeless. 
+361|準備 (v)|prepare|Be sure to prepare well for the interview. 
+362|主婦 (n)|housewife|My mother used to be a housewife. Now, she is a career woman. 
+363|小孩子 (n)|child|I've lived in Taipei since I was a child. 
+364|種子 (n)|seed|We plant rose seeds in the garden. 
+365|焦點 (n)|focus|As soon as Robin Williams appeared on the stage, he became the focus of attention. 
+366|過(河、街) (v)|cross|Don't cross the street until the traffic light turns green. 
+367|天花板 (n)|ceiling|Tom is tall enough to touch the ceiling. 
+368|很快地 不久 (adv)|soon|The sky was cloudy, and it rained soon. 
+369|吃起來 (v)|taste|The cookie tastes like a coin. It's too hard. 
+370|較少的 不重要的 (adj)|minor|The teacher told Alice there was a minor error in her writing. 
+371|武器 (n)|weapon|You need to drop your weapon before we can talk! 
+372|蔬菜 (n)|vegetable|Grandpa grows rice and vegetables on the farm. 
+373|魚 (n)|fish|There are many fishes in the lake. 
+374|腰帶 (安全)帶 (n)|belt|Please fasten your seat belt in the car. 
+375|有規則的 (adj)|regular|Try to live a regular life and you will become healthier. 
+376|道歉 (v)|apologize|Peter broke the vase in the store and he apologized immediately. The clerk didn’t say much but asked him to leave. 
+377|經典作品 (n)|classic|Macbeth is a classic by Shakespeare, and it is also a required reading for many high school students. 
+378|公平的 (adj)|fair|I don't think it is fair to blame John for the accident. He is innocent. 
+379|玩具 (n)|toy|Put away your toys! 
+380|鯊魚 (n)|shark|Swimming fast, sharks are very good at hunting. 
+381|令人愉快的 (adj)|pleasant|I felt a pleasant atmosphere when I entered the classroom. Jimmy smiled to me, saying “Happy birthday!” ? 
+382|選舉 (n)|election|The presidential elections are very intense in Taiwan. 
+383|注射 (n1)|shot|Calvin hates getting a shot at the clinic. He starts to scream whenever he sees a needle. 
+384|溜冰 (v)|skate|Let us go skating after school, would you? 
+385|寧可 (adv)|rather|I would rather stay home than go out alone. 
+386|流行音樂 (np)|pop music|Teenagers enjoy listening to pop music. 
+387|生產 (n)|production|The production of the car cost one million dollars. 
+388|蠟燭 (n)|candle|Don't burn the candles at both ends. 
+389|獵人 (n)|hunter|The hunter hid himself in the tree, waiting for the right moment to shoot. 
+390|必需 (aux)|must|We must go home right away. 
+391|親密的 (adj)|close|John is my close friend, and he will keep my secret. 
+392|喇叭 (n)|trumpet|Wind instruments, such as French horns and trumpets, are necessary in a band. 
+393|書桌 (n)|desk|I write my homework at the desk. 
+394|職員 (n)|clerk|Mr. Kong is a clerk of the bookstore. 
+395|使…興奮 (v)|excite|The news that AKB48 would come to the school to perform excited the students, who screamed with delight. 
+396|第十 (num)|tenth|I live on the tenth floor, so I don't take the stairs. 
+397|最近 近來 (adv)|recently|I haven’t heard from Lewis recently. I hope he is doing well. 
+398|關起來 (v)|close|It's raining cats and dogs. Close the window, would you? 
+399|任何一個 (adj)|any|If you have any questions, please feel free to ask. 
+400|你自己 (pron_R)|yourself|You should behave yourself. 
+401|主題 題目 (n)|topic|The topic of the speech was so boring, but the speaker was very interesting. 
+402|出生的 誕生的 (adj)|born|Kevin was born in 2011. 
+403|蝦子 (n)|shrimp|Are you allergic to seafood? There are some shrimps in this dish. I can eat them for you. 
+404|急忙 倉促 忙亂 (v)|hurry|Tom just hurried to the classroom two minutes ago. 
+405|負的 (adj)|minus|It's minus ten degrees Celsius outside, so I'm going to stay indoors. 
+406|極小的 微小的 (adj)|tiny|It’s beyond my imagination that such a tiny stone costs so much money. 
+407|覆蓋 (v)|cover|The snow covers the top of the mountain. 
+408|庭院 院子 (n)|yard|I drink tea in the yard with my dad. 
+409|食物 (n)|food|Ants have enough food for winter, but do we? 
+410|一張紙 床單 (n)|sheet|Please write down your e-mail address on a sheet of paper. 
+411|電話 (n)|telephone|The telephone is ringing. I should pick it up. 
+412|問題 (n)|question|Raise your hand, if you have any questions. 
+413|幾乎不 簡直不 (adv)|hardly|I am so hungry that I can hardly stand. 
+414|化學 (n)|chemistry|The only thing that I have learned in chemistry class is that H2O means water. 
+415|忽略 省略 (v)|omit|If you see a repeated question, you can omit it and skip to the next one. 
+416|棒球 (n)|baseball|The kids are playing baseball at the park. 
+417|小氣的 (adj)|stingy|Don't be so stingy! You should’ve bought a nicer gift for me. 
+418|手帕 (n)|handkerchief|When Audrey cried, Toby quickly pulled out a handkerchief from his pocket and tenderly wiped her tears away. 
+419|柳橙 (n)|orange|Peel the orange before you eat it. 
+420|幼稚的 (adj)|childish|Kevin was so childish that he creamed in my ears for no reason. 
+421|媒體 (n)|media|Media affect us in both good ways and bad ways. 
+422|井 (n)|well|The farmers in the small village get some water to drink from the water wells. 
+423|運動 活動 (n)|movement|Watch the movements of my legs and arms. And you can dance. 
+424|哪個 (wh)|which|Tell me which book you like best, and I will buy it for you. 
+425|粗魯的 無禮的 (adj)|rude|Yelling at others for no reason is rude. 
+426|這裡 (adv)|here|In winter, we live here in the log cabin to enjoy the snow views. 
+427|時期 階段 (n1)|stage|Let me know when you reach the last stage in this project. 
+428|萬聖節 (n)|Halloween|They held a costume parade on Halloween. 
+429|二十 (num)|twenty|Thirty plus twenty is fifty. 
+430|加上補充 (prep)|plus|Two plus two is four. 
+431|公克 (n)|gram|The package weighs 150 grams. 
+432|友誼 (n)|friendship|The real meaning of Christmas is love, peace, and friendship. 
+433|堆積 堆疊 (n)|pile|Mom puts the plates and dishes in a pile before washing them. 
+434|雖然 (conj)|although|Although Grandpa is 90 years old, he is still very healthy. 
+435|蠟筆 (n)|crayon|The naughty boy used the crayons to draw pictures on the whole wall. His mother was so angry that she almost fainted. 
+436|歸還 返回 (v)|return|If you promise to return the money in a week, I would be glad to lend it to you. 
+437|操作 手術 (n)|operation|The doctor told Mrs. Obama that her husband’s operation was a great success. 
+438|主人 (n)|master|Are you the dog’s master? Take it home! 
+439|受到驚嚇的 (adj)|scared|We were scared by the loud noise. 
+440|體育館 (n)|gym|We play basketball in the gym. 
+441|外套 (n)|coat|It is cold. Put on your coat. 
+442|痊癒 復原 (v)|recover|After a few days, Roy began to recover from the car accident. 
+443|每週的 (adj)|weekly|There is a weekly assignment in my social studies class, and I always finish it long before the due date. 
+444|公車站牌 (n)|stop|There is a bus stop near our school. 
+445|郵票 (n)|stamp|Collecting stamps is my hobby. 
+446|小組 (n)|group|Bats live in the caves. They go hunting in group at night. 
+447|入口 門口 (n)|entrance|There are a lot of people waiting in line at the entrance to the movie theater. 
+448|方式 態度 (n)|manner|Daisy started teaching her children good table manners when they were little. 
+449|風格 作風 (n)|style|The writer shows different styles of writing skills in her latest novel. 
+450|不是的 (adv)|not|I am not Bill. I am Ted. 
+451|現在 (adv)|now|You have to go home now. 
+452|背心 (n)|vest|Mary wears a red vest to match her pink shoes. 
+453|描寫 敘述 (v)|describe|Words can not describe the taste of the cake. You have to try it by yourself. 
+454|正面的 積極的 (adj)|positive|We all need to stay positive in this situation! We will get through this together. Be strong! 
+455|吉他 (n)|guitar|The guitar is easy to carry, but hard to play. 
+456|職業 工作 (n)|job|It is my job to mop the floor. 
+457|愚蠢的 傻的 (adj)|foolish|How foolish I was to have quit my job out of a sudden anger. 
+458|頭髮 (n)|hair|The dog has no hair. It looks very strange. 
+459|主要的 (adj)|main|What’s the main idea of the article? 
+460|公里 (n)|kilometer|In the marathon race, we had to run a distance of 42 kilometers. 
+461|母親節 (n1)|Mother's Day|My brothers and I always get together to celebrate Mother's Day for our mom. 
+462|健談的 (adj)|talkative|Oliver is too talkative. Sometimes, I wish I could just yell “Shut Up!” at him. 
+463|大門 (n)|gate|The gate of the school is open. 
+464|邪惡的 (adj)|evil|How come you have such evil acts? 
+465|手電筒 (n)|flashlight|Prepare flashlights and batteries before the typhoon comes. 
+466|成長 種植 (v)|grow|I want to be an artist when I grow up. 
+467|陸軍上尉 隊長 (n)|captain|Captain Li led his army to fight for freedom. 
+468|需要 要求 (v)|require|This job requires knowledge of computers and biology. 
+469|下雨 (v)|rain|It rains cats and dogs. We have to stay home. 
+470|村莊 村子 (n)|village|There are only 150 people in the village. 
+471|貧困的 (adj)|poor|Mary is very poor. She has no money. 
+472|河馬 (n)|hippo|There's a big hippo lying in the mud. 
+473|首先 (adv)|first|First, I want to thank my dad and mom. 
+474|床 (n)|bed|My cat likes to sleep on my bed. 
+475|強調 著重 (v)|emphasize|When you are talking to Robin, emphasize the mistakes he made; otherwise, he would still think he can handle this project alone. 
+476|辦公室 (n)|office|The people in the office are very busy. 
+477|發生 (v)|happen|Something must have happened to Sam last night. He didn't show up this morning. 
+478|岩石 (n)|rock|The rocks in the mountain are very big. 
+479|妻子 (n)|wife|To please his wife, John bought roses in the flower shop. 
+480|拒絕 (v)|refuse|Bud refused the salesmen to enter his office because he wasn’t interested in their product. 
+481|接觸 聯絡 (n)|contact|You do not want to be in contact with your ex-girlfriend. She is totally crazy! 
+482|打斷 妨礙 (v)|interrupt|Don’t interrupt others when they are talking. 
+483|郊遊 野餐 (n)|picnic|Our family used to go on a picnic on the weekend. 
+484|烤土司 (n)|toast|I don't like to eat toast. It's too dry. 
+485|加熱器 暖氣機 (n)|heater|The temperature was only ten degrees Celsius, so we turned on the heater to keep warm. 
+486|瓦斯氣體 (n)|gas|Turn off the gas before you go out. 
+487|耳朵 (n)|ear|Rabbits have long ears and short tails. 
+488|學生 (n)|student|There are 40 students in my class. 
+489|射籃 (n3)|shot|That's a nice three-point shot! How did you do that? 
+490|袖珍的 小型的 (adj)|pocket|Jordan always keeps a pocket flashlight with him, so he can use it anytime. 
+491|說話者 演講者 (n)|speaker|Our principal invited a famous speaker to tell us how to manage a class. 
+492|鞦韆 (n)|swing|Kids enjoy playing on the swings in the park. 
+493|察覺 查出 偵測 探知 (v)|detect|The radar detected some unknown object approaching our boat. What should we do, Captain Lee? 
+494|得到 獲得 (v)|gain|Marry me and I’ll tell your father that he is not losing a daughter, but gaining a son. 
+495|蒼白的 (adj)|pale|Sharon looked pale because of her illness. 
+496|謙遜的 (adj)|humble|Vickie is such a humble lady. She never brags anything about her wealth, even though she makes a lot of money. 
+497|整理 分類 (v)|sort|Kyle feels like he needs to sort everything out before he can move on to the next step. 
+498|鉛筆 (n)|pencil|In art class, we draw vases in pencil. 
+499|生日 (n)|birthday|Dad gave me a new bike as a birthday present. 
+500|輕輕的 (adj)|light|The box is very light. I can lift it up easily. 
+501|棍子 手杖 (n)|stick|The magician gently held the stick up and disappeared into thin air all of a sudden. He made a perfect exit. 
+502|書架 (n)|bookcase|In the library, you can see many bookcases which are categorized into different topics. 
+503|多雪的 (adj)|snowy|The poor girl sold matches on a snowy day, but no one stopped to buy. 
+504|公民 居民 (n)|citizen|Citizens of Taiwan have the right to vote at the age of 20. 
+505|士兵 (n)|soldier|The soldiers should protect their country. 
+506|十五 (num)|fifteen|Turn to page fifteen. 
+507|海外的 國外的 (adj)|overseas|Every year, many overseas Chinese come back to Taiwan to celebrate Double Tenth Day. 
+508|浪費 廢棄物 (n)|waste|The waste from factories polluted the river. 
+509|項鏈 (n)|necklace|Helen forgot that she had sold her diamond necklace. She was still looking for it. 
+510|鴿子 (n)|dove|The dove is a symbol of peace. 
+511|主修 (v)|major|Leo majors in mathematics because he is very good at numbers. 
+512|地球 (n)|earth|We should protect and save the earth. 
+513|星期四 (n)|Thursday|If the weather is fine on Thursday, Duke will go on a picnic with his family. 
+514|潮濕的 (adj)|wet|When it rains, the roads are wet. 
+515|慾望 渴望 (n)|desire|I am tired. I have no desire to eat anything. 
+516|污染 弄髒 (v)|pollute|Harmful chemicals are polluting the air and the water. People will get sick! 
+517|使用 (v)|use|When Mr. Li writes, he always use a pen. 
+518|通常 (adv)|usually|We usually exercise in the park. 
+519|肚子 (n)|tummy|Chris's tummy is getting bigger and bigger. He needs to take a break from drinking beer. 
+520|感情 (n)|emotion|The singer’s voice is full of emotions. 
+521|乘客 旅客 (n)|passenger|The MRT system is essential in a big city because it can carry mass passengers at a time. 
+522|黑色的 (adj)|black|Zebras are black and white. 
+523|高度 (n)|height|The height of Taipei 101 is 508 meters. 
+524|得到 (v)|get|What can we get if we win the game? 
+525|熱度 (n)|heat|Please turn off the gas. The heat on the stove is too high. 
+526|點 (n)|dot|At night, the small dots in the sky are stars. 
+527|最後的 (adj)|bottom|Eric couldn't find his English textbook because it was on the bottom layer of the bookshelf. 
+528|一月 (n)|January|January is the first month of a year. 
+529|雖然 (conj)|though|Though you have good grades, you should be humble. 
+530|飛行 (v)|fly|Eagles can fly high in the sky. 
+531|一千 (num)|thousand|I spent ten thousand dollars on my new cellphone. 
+532|面試 採訪 (n)|interview|If you want to get the job, don't be late for your interview. 
+533|非常地 (adv)|very|I like math very much. 
+534|音樂 (n)|music|I danced to the music to enjoy myself. 
+535|表示…的意思 (v)|mean|I didn't mean to hurt you. Please forgive me. 
+536|導遊 引導 指導 (n)|guide|I don't need a tour guide when I travel abroad. I prefer to explore foreign cities by myself. 
+537|父母親 (n)|parent|Parents should take care of their children. 
+538|比薩餅 (n)|pizza|It is said that pizza comes from Italy. 
+539|幫忙 援助 (v)|aid|Jack aided his disabled granny to get on the bus. 
+540|大聲的 (adj)|loud|Be quiet! Your voice is too loud. 
+541|案件 (n)|case|The case you talked about is hard to deal with. 
+542|在…下面 (prep)|below|The children swim below the bridge, fearing nothing. 
+543|金銀財寶 (n)|treasure|The pirates were said to have buried their treasure on the island. 
+544|大頭針 別針 (n)|pin|Pick up the pin. It might hurt the kids. 
+545|訊息 消息 (n)|message|You have a message from Mr. Obama. He will call you again soon. 
+546|提供 (v)|provide|The hotel provides tea and coffee for guests. 
+547|依賴 依…而定 (v)|depend|A man's success depends on if he tries his best. 
+548|公司 (n)|company|There are fifty employees in the company. 
+549|麥克筆 (n)|marker|The marker is red. 
+550|習慣 (n)|habit|Tom has a bad habit of biting his finger nails. 
+551|先生 長官 (n)|sir|Are you ready to order, sir? 
+552|日 (n)|day|We work eight hours every day. 
+553|超級市場 (n)|supermarket|With a long shopping list, Jenny went to the supermarket last night. 
+554|網子 網路 (n)|net|When I was a child, I like to catch butterflies with a net. 
+555|較遠的 (adj2)|farther|The log cabin seems farther than I remembered. Let’s take a short break by the river before we continue! 
+556|姊妹 (n)|sister|My elder sister is my best friend. 
+557|纜繩 (n)|cable|There are three birds singing on the cable. 
+558|印表機 (n)|printer|Do you have a printer at home? How fast can it print? 
+559|德國 (n1)|Germany|Germany is best known for its people's prudent attitude at work and its beer of course! 
+560|有效的 (adj)|effective|Sometimes it is hard to find an effective way to help students with mental problems. 
+561|茶壺 (n)|teapot|I put some tea leaves in the teapot and poured hot water in to make some tea. 
+562|妖怪 怪物 (n)|monster|It is said that Shrek is a brutal monster. 
+563|突然 (adv)|suddenly|Suddenly, the door was slammed wide open by a strong wind. 
+564|收音機 (n)|radio|We heard the exciting news over the radio last Friday. 
+565|人 傢伙 朋友 同伴 (n)|fellow|This little fellow will sure be a handsome man in 10 years. 
+566|星期天 (n)|Sunday|I will visit my grandpa next Sunday. 
+567|清單 名冊 (n)|list|Mom has a long shopping list. 
+568|基礎的 基本的 (adj)|basic|The tour guide is explaining some basic rules that everyone should follow during the trip. 
+569|責任 義務 (n)|duty|The police are on duty 24 hours a day. 
+570|停車場 (n)|parking lot|There is a big parking lot near the park. 
+571|希望 願望 (v)|wish|I wish you a happy trip. 
+572|偷竊 (v)|steal|The thief sneaked into Mr. Lin’s room and stole his money. 
+573|允許 (v)|allow|Mom allowed me to go to the movies with my classmates. 
+574|習慣…的 (adj1)|used|I am not used to this hot and humid weather in Taiwan, especially in summer. 
+575|把...弄糊塗 使...困惑 (v)|confuse|Your question confused me. I couldn’t answer it. 
+576|英國 (n1)|England|England used to occupy South Africa, India, and Australia. 
+577|短褲 (n)|shorts|Wearing shorts, Mr. Ma is jogging. 
+578|拿 (v)|take|Don't take the book away. 
+579|結束的 (adj)|over|The football game will be over in ten minutes. 
+580|英國 (n1)|Britain|The industrial revolution started in Britain in the 18th century. 
+581|測驗 考查 (n)|quiz|The pop quiz is very easy for you. Don't worry too much. 
+582|否定的 負面的 (adj)|negative|Now put your negative feelings behind and face the reality. 
+583|黎明 拂曉 (n)|dawn|If you want to see the sunrise, you must get up at dawn. 
+584|失敗者 (n)|loser|If you study hard, you will never be a loser. 
+585|雙十節 (n1)|Double Tenth day|Marching bands performed on Double Tenth Day to celebrate the nationhood of the Republic of China. 
+586|男演員 (n)|actor|Bruce Lee was a famous kung-fu actor. 
+587|籃子 (n)|basket|There are five balls in the basket. 
+588|三 (num)|three|Three plus two is five. 
+589|廁所 洗手間 (n)|toilet|My son wants to go to the toilet. Please tell me where it is. 
+590|慢慢的 (adj)|slow|My watch is 5 minutes slow. 
+591|博物館 (n)|museum|Please keep quiet in the museum. 
+592|監獄 牢獄 (n)|prison|Mrs. Smith scared her son by telling him that if he doesn’t finish eating his dinner, the policeman will put him in prison. 
+593|情人節 (n)|Valentine|Valentine’s Day falls on February 14. 
+594|生活 (n)|life|In the USA, we lead a good life. 
+595|嫉妒的 (adj)|jealous|Teresa is not jealous of her rich sister. She knows she will be the same one day if she keeps working hard. 
+596|(長篇)小說 (n)|novel|Lucy always has a novel with her. She reads it whenever she has free time. 
+597|隧道 (n)|tunnel|The greatest railway tunnel in the world is located between England and France. 
+598|期間 期限 (n)|term|Mike knows he will make money in long term if he invests his money wisely. 
+599|任何事情 (pron)|anything|You can take anything you like as long as you pay for it. 
+600|瀑布 (n)|waterfall|On the trip to America, we visited Niagara Falls, one of the largest waterfalls in the world. 
+601|複製 抄襲 (v)|copy|Don't copy others' homework. 
+602|岸 (n)|shore|We usually take a walk along the shore of the lake. 
+603|祕密 (n)|secret|Scott can’t keep a secret. If you tell him, the whole world will know. 
+604|資料 數據 (n)|data|The secretary input all the data into the computer within only an hour, so her boss was impressed. 
+605|在...之間 (prep)|between|There is a lion between the trees. 
+606|海 (n)|sea|We go fishing by the sea. 
+607|石頭 石塊 (n)|stone|Please pick up the stone, or it will cause car accidents. 
+608|湖 (n)|lake|They went fishing on the lake. 
+609|尺寸 大小 (n)|size|Which size do you want, M or S? 
+610|磅(重量) 英鎊 (n)|pound|This package weights two pounds. 
+611|花園 (n)|garden|My grandpa grows roses and sunflowers in the garden. 
+612|比較 (v)|compare|Mom always compared me with my brother. 
+613|溫和的 輕柔的 (adj)|gentle|Be gentle when you hold the baby. 
+614|突然 (n)|sudden|All of a sudden, it rained cats and dogs. 
+615|老的 舊的 (adj)|old|Our car is old. We want to buy a new BMW. 
+616|磚塊 (n)|brick|The house is made of bricks. It’s not safe. 
+617|軍隊 陸軍 (n)|army|Commander in chief is in charge of troops, including the Army, the Navy, Air Force and Marine Corps. 
+618|未婚夫妻 情侶 (n)|couple|John and Mary make a good couple. They love each other very much. 
+619|特定的 特別的 (adj)|particular|Every piece of furniture at Eli's house needs to face toward a particular direction to have the right Feng Shui. 
+620|郵差 (n)|mail carrier|Joe's father has been a mail carrier since 2003. 
+621|陸地 (n)|land|Sailors are looking for the land. 
+622|餵食 飼養 (v)|feed|Grandpa feeds stray dogs every day. 
+623|吉普車 (n)|jeep|If you want to travel along the rough roads on the mountains, you should drive a jeep. 
+624|第一的 (adj)|first|Jordon won first prize in the race. 
+625|程度 (n)|level|My English level isn’t very high. I still need to practice a lot. 
+626|傻瓜 笨蛋 (n)|fool|What a fool I am to have loved you. 
+627|旅程 (n)|trip|We had a field trip last week. It was fun. 
+628|檸檬 (n)|lemon|The lemon is very sour. That's why I like it. 
+629|家事 (n)|housework|My brother and I share the housework, such as mopping the floor and washing the dishes. 
+630|充滿的 (adj)|full|The big tree is full of birds. They are busy building their nets. 
+631|捷運 (n)|MRT|Sam goes to school by MRT to save his time. 
+632|地方性的 當地的 (adj)|local|When Frank travels, he enjoys trying local dishes. There is nothing he wouldn’t try. 
+633|種類 (n)|sort|What sorts of vegetables do you need? 
+634|它的 (pron_adj)|its|The cat is licking its tail. 
+635|嘴唇 (n)|lip|John kissed Mary on her lips. 
+636|亞洲 (n1)|Asia|China is the largest country in Asia. 
+637|照片 相片 (n)|photograph|The photographs on the wall were sent by my brother when he was studying abroad. 
+638|某人 (pron)|someone|Someone broke into Ann's house and took her money. 
+639|聖誕節 (n)|Christmas|Christmas falls on December 25 every year. 
+640|舒適的 (adj)|comfortable|The sofa is comfortable. It helps me relax. 
+641|使…滿意 (v)|satisfy|None of the houses I saw satisfied me. They were either too small or too expensive. 
+642|噪聲 (n)|noise|We were awakened by the noise outside. 
+643|古典的 極好的 (adj)|classical|Lily studies classical musicians, for example Mozart and Bach. 
+644|圓形的 (adj)|round|Apples are big, round and yummy. 
+645|冬天 (n)|winter|It is cold in winter. 
+646|父親 (n)|father|When I was a kid, my father liked to hug me. 
+647|黃金 (n)|gold|Gold is the most precious metal. People like to buy gold as an investment. 
+648|游泳 (v)|swim|Sharks can swim very fast. 
+649|有信心的 (adj)|confident|Our homeroom teacher is confident that we will get good grades next time, but are we? 
+650|支付 付帳 (v)|pay|You have to pay in cash before you go. 
+651|生病的 (adj)|ill|Maggie looks ill. Let's take her to the hospital. 
+652|發光 (陽光)照耀 (v)|shine|Rain or shine, we go to school on foot. 
+653|飛機 (n)|plane|It's much faster to travel by plane than by bus. 
+654|藍色的 (adj)|blue|Mike's eyes are as blue as the sky. 
+655|筷子 (n)|chopsticks|My American friends have difficulty using chopsticks. They can only use forks and knives. 
+656|婚姻 (n)|marriage|Many couples go to see consultants to solve problems in their marriage. 
+657|相片 (n)|photo|Who is the pretty girl in the photo? 
+658|鳥 (n)|bird|Most birds can fly. 
+659|文化 (n)|culture|Culture shock happens when you live in a new country. 
+660|開(槍砲) (v2)|fire|The police rushed into the bank and fired three shots at the armed robbers. 
+661|直到 (conj)|till|Let’s wait till tomorrow! Be patient. 
+662|燈光 光線 (n)|light|Turn on the light. It is too dark in the room. 
+663|豬 (n)|pig|Pigs eat a lot, so they are very fat. 
+664|家庭作業 (n)|homework|I always do my homework at seven o'clock in the evening. 
+665|超級的 (adj)|super|If I could have a super power, I would want to fly. 
+666|樣品 樣本 (n)|sample|Would you like a sample of our newly baked cake? 
+667|推銷員 (n)|salesman|The salesman shows me the latest video game. 
+668|漫畫的 喜劇的 (adj)|comic|Most children love comic books. 
+669|電燈 (n)|lamp|The lamps in the living room are bright. 
+670|樂趣 娛樂 (n)|fun|It's fun to play on the seesaw. 
+671|表達 (v)|express|When Sally is upset, she expresses her emotions in her drawing. 
+672|三角形 (n)|triangle|There are four triangles and two squares in the picture. 
+673|人性的 人類的 (adj)|human|To err is human; to forgive (is) divine. 
+674|滑倒 失足 滑落 (v1)|slip|The bathroom floor is wet. Be very cautious or you might slip. 
+675|字彙 (n)|vocabulary|Reading a lot of books will increase your vocabulary. That is the only way. 
+676|把…浸入 為…洗澡 (v)|bathe|Cathy bathes her baby girl gently every day. 
+677|澆水 (v)|water|Would you help us water ours flowers when we go to Taipei? 
+678|品質 素質 (n)|quality|The quality of sleep is related to daily stress, exercise and diet. 
+679|沸騰煮沸 (v)|boil|The water is boiling, and you can turn off the fire. 
+680|脖子 (n)|neck|Giraffes are known for their long necks. 
+681|警察 (n)|police|The police are on duty 24 hours a day. 
+682|正式的 官方的 (adj)|official|The celebrity couple made an official announcement that they are getting a divorce. 
+683|幽默的 (adj)|humorous|Everyone likes to be with Tony because he is very humorous. And, he can make people laugh at his funny jokes. 
+684|安全的 (adj)|safe|It's not safe for kids to play on the roads. 
+685|撕開 撕裂 拆掉 (v)|tear|Shirley’s baby tore my college diploma apart! I have to apply for a new one. 
+686|確定的 既定的 (adj)|set|My plans for the weekend are not set. 
+687|完成 達成 達到(目標) (v)|achieve|Steve Jobs achieved a lot in the world of smart phones. 
+688|漢堡 (n)|burger|Burgers and French fries are regarded as typical American food. 
+689|公分 (n)|centimeter|Jack is 195 centimeters tall. No wonder he is called Giant Jack. 
+690|可愛的 (adj)|lovely|The little boy is so lovely that we want to hug him. 
+691|美國 (n)|USA|In World War II, the USA fought against Germany and Japan. 
+692|整個的 全部的 (adj)|entire|Jill was so hungry that she quickly finished eating the entire pizza. 
+693|你的東西 (pron_n)|yours|This is my cup and that is yours. 
+694|分數 (n)|score|What is your highest score in the game? 
+695|中文 華人 (n)|Chinese|We have English, Chinese, and PE classes on Monday. 
+696|結束 完成 (v)|finish|When you finish writing your report, be sure to check it again and again. 
+697|首領 機關首長 (n)|chief|Alex has been the chief of the marketing department for the last 25 years, so I believe that he can sell anything. 
+698|十月 (n)|October|Joan's birthday is October 10. 
+699|塔樓 (n)|tower|Fiona was kept in a tower, waiting for Shrek to save her. 
+700|攀登 攀爬 (v)|climb|The walls of the prison are too high to climb over. 
+701|寬的 廣泛的 (adj)|broad|Steve has very broad interests, including art and sports. 
+702|努力 盡力 (n)|effort|It takes much time, money and effort to get the job done. 
+703|領悟 了解 (v)|realize|As time goes by, I finally realize how much you love me. 
+704|中心的 中央的 (adj)|central|The park is in the central part of the city. 
+705|狗 (n)|dog|The dog barks at me. It's very bad. 
+706|較高的 上面的 (adj)|upper|Angela’s upper arms aren’t tanned because she always wears a T-shirt. 
+707|韓國 (n1)|Korea|Girl’s Generation comes from Korea. 
+708|城堡 (n)|castle|Elva visited a giant castle in England last summer. 
+709|他們 (pron_o)|them|The kids are lovely. Be nice to them. 
+710|褲子 (n)|pants|Your pants are dirty. You should have them washed. 
+711|在…之中 (prep)|among|Tom is the tallest among the boys. 
+712|英哩 (n)|mile|We walked for two miles without taking a rest. 
+713|副本 (n)|copy|Would you please make a copy for me? 
+714|拜訪 參觀 (v)|visit|I miss Grandma so much. I want to visit her next week. 
+715|涼快的 (adj)|cool|It's cool in fall. 
+716|粉末 (n)|powder|The yellow powder might be poison. Does it have a bad smell? 
+717|口袋 (n)|pocket|There are two pockets in my pants. 
+718|戰爭 (n)|war|Since the war broke out, we’ve suffered a lot. 
+719|公寓 (n)|apartment|I don't want to live in the apartment any more because my neighbors are really noisy. 
+720|十八 (num)|eighteen|At the age of eighteen, Caesar lived on his own. 
+721|腳踏車 (n)|bike|Chad goes to school by bike to save his time. 
+722|在...以前 (conj)|before|Brush your teeth before you go to bed. 
+723|活動 行動 (n)|action|Actions speak louder than words. 
+724|投遞 達成 (v)|deliver|The mail carrier delivers mail and packages on time every day. 
+725|危險的 (adj)|dangerous|It is very dangerous to go out alone at midnight. 
+726|外面的 (adj)|outside|Emily is outside playing on the swing. 
+727|鴨子 (n)|duck|This duck swam in the pond two days ago. 
+728|十 (num)|ten|Seven plus three is ten. 
+729|優勝者 (n)|winner|The winner of the contest will win 3 million dollars. All the players are very interested. 
+730|玩偶 洋娃娃 (n)|doll|Little girls like to play with dolls. 
+731|兒子 (n)|son|John has three sons: Jimmy, Dennis, and Johnson. 
+732|結果 (n)|result|Jordan missed the school bus this morning. As a result, he was late for school. 
+733|溫度 氣溫 (n)|temperature|In summer, the temperature in Kaohsiung is about 32°C. (= thirty-two degrees Celsius) 
+734|事情 問題 (n)|matter|What's the matter with Emily? She seems unhappy. 
+735|街道 (n)|street|Be careful when you walk on the street. 
+736|忙碌的 (adj)|busy|Johnson is busy writing his homework. 
+737|有關的 相對的 (adj)|relative|The relative ease of the exam surprised the students. It was much easier than the previous one. 
+738|西瓜 (n)|watermelon|The watermelon is much bigger than my head. 
+739|誰 (wh)|who|Who is the tall boy? 
+740|操場 (n)|playground|In PE class, we go to playground to exercise. 
+741|搜查 搜尋 (n)|search|The police have searched all the possible areas where the missing boy might go, but they still haven’t found him yet. 
+742|黃色的 (adj)|yellow|Bananas are yellow. 
+743|設置 安裝 (v)|set|The man sets a trap to catch lions. 
+744|距離 (n)|distance|Keep your distance from the big dog. It is not friendly to strangers at all. 
+745|相像的 類似的 (adj)|similar|My dress is similar to yours. They are both black and white. 
+746|關上 關閉 (v)|shut|It’s raining. You had better shut the door and the windows. 
+747|成長 發育 (n)|growth|The rapid growth of human population drastically shaped the world in the past century. 
+748|服務 (n)|service|The shop provides the best service at the lowest price. 
+749|肩膀 (n)|shoulder|The tired father carried his child and the responsibility on his shoulders. 
+750|整齊的 (adj)|tidy|Jane always keeps her room tidy. 
+751|新聞 消息 (n)|news|I have good news for you. 
+752|航空公司 (n)|airlines|Jimmy works as a pilot in China Airlines. 
+753|董事會委員會 木板 (n)|board|Miss Lin didn’t join the board of the company. Thus, she had no right to vote. 
+754|通過 (v)|pass|We all pass the test. It's a good news. 
+755|誠實 (n)|honesty|My grandfather is a person with honesty. He will tell you nothing but the truth. 
+756|十二月 (n)|December|Christmas falls on December 25th. 
+757|澳洲 (n1)|Australia|Koalas and Kangaroos are from Australia. 
+758|動物園 (n)|zoo|Let's go to the zoo to see the lions and the monkeys. 
+759|飢餓的 (adj)|hungry|When lions are hungry, they hunt. 
+760|許多(接可數名詞) (adj)|many|The boy has many toys, but he doesn't have much joy. 
+761|七十 (num)|seventy|Seventy plus ten is eighty. 
+762|傷心的 (adj)|sad|You look very sad. Are you OK? 
+763|州 (n)|state|How many states are there in America? 
+764|切 割 (v)|cut|Please cut the cake into ten pieces. 
+765|短暫的 簡短的 (adj)|brief|The nurse asked Julia to wait for a brief moment before the doctor became available. 
+766|似乎 (v)|seem|Dennis seemed to be tired after the exam. 
+767|元宵節 (n1)|Lantern Festival|During Lantern Festival, kids carry lanterns and walk around the neighborhood. 
+768|籠子 (n)|cage|The lion was caught by the hunters and kept in the cage. 
+769|戲劇 (n)|play|Adam acts a king in the play. 
+770|毀壞 破壞 (v)|damage|Your words will only damage your relationship, so shut up and let me do the talking. ? 
+771|維持 保持 保養 維修 (v)|maintain|For some people, it is hard to maintain a regular exercise when they need to work. 
+772|報告 紙張 (n)|paper|We must hand in our math papers today. 
+773|指控 充電 刷(卡) (v)|charge|Henry is being charged that he shoplifted several items in the store. 
+774|牙科醫生 (n)|dentist|The dentist will show you how to clean your teeth with dental floss. 
+775|八 (num)|eight|Two times four is eight. 
+776|我的東西 (pron_n)|mine|The cup is mine and that is yours. 
+777|聲稱 要求 (v)|claim|The scientists claimed that a comet will have a close contact with earth in 48 hours. 
+778|熱狗 (n)|hot dog|The vendor sells hot dog and fried chicken on the street. 
+779|桌球 (np)|table tennis|Table tennis is an indoor sport that everyone can play. It is easier than tennis. 
+780|拖鞋(尤指室內穿) (n)|slippers|When I saw a huge cockroach, I took off the slippers on my feet and hit it hard. 
+781|同樣的 (adj)|same|Those shoes are all in the same size. 
+782|校長 (n)|principal|Principal Wu is much loved by his students because he really cares about them. 
+783|銀行 堤岸 (n)|bank|Mia saves her money in the bank. 
+784|另外的 (adj)|else|I can't go with you today. Can you find someone else? 
+785|英語 (n)|English|Which subject do you like the most, English or Chinese? 
+786|粉筆 (n)|chalk|Chalk is pretty useful in the classroom. It's easy to write in and fast to be erased. 
+787|年輕的 (adj)|young|You are too young to drive a car. 
+788|假期 (n)|vacation|You cannot find Jane because she's on vacation in Japan. 
+789|建議 提議 (v)|suggest|The doctor suggested that I have a checkup again before the surgery. 
+790|祈禱 祈求 (v)|pray|The Lins pray to God before meals. 
+791|火雞 (n)|turkey|Americans eat turkeys on Thanksgiving. 
+792|平臺 月臺 (n)|platform|People can get on and off the train on a platform. 
+793|失敗 (v)|fail|Our game failed simply because that we didn't do our best. Now, it's too late. 
+794|萵苣 (n)|lettuce|Potatoes, onions and lettuce are vegetables. 
+795|冰 (n)|ice|Add some ice to my coffee. 
+796|海洋 大海 (n)|ocean|The biggest ocean in the world is the Pacific Ocean. 
+797|工人 (n)|worker|The workers are busy loading the truck. 
+798|自己 (pron)|own|I don't have a house of my own. 
+799|感謝 欣賞 (v)|appreciate|You help me a lot. I really appreciate your support. 
+800|洗滌槽 水槽 (n)|sink|Annie's mother always keeps the sink clean. 
+801|腳 (n)|foot|I go to school on foot, not by MRT. 
+802|流動 隨風飄動 (v)|flow|Anna's pink dress flows so elegantly in the air when she is dancing. 
+803|掘(土) 挖(洞) (v)|dig|The boy digs a big hole to hide his toys. 
+804|更多 更甚 (adv)|more|The more carefully you drive, the safer you will be. 
+805|繪製 描寫 (v)|draw|Draw a circle on the paper! 
+806|片 (n)|slice|Would you please give ten slices of toast? 
+807|充滿 (v)|fill|I want to fill my cup with hot milk. 
+808|最主要的 (adj)|chief|The chief element of the success in our company is being loyal. 
+809|野生的 (adj)|wild|It is dangerous to raise wild animals at home. 
+810|借(入) (v)|borrow|Can I borrow 100 dollars from you? 
+811|敵人 (n)|enemy|Cats are mice's natural enemy. 
+812|麵包店 (n)|bakery|Bread and desserts of this bakery are not only cheap but also delicious. 
+813|航空公司 (n)|airline|The China Airlines cancelled the flight to New York because of dense fog. 
+814|我們的 (adj)|our|We are busy with our work. 
+815|夢想 (n)|dream|It's my dream to be a great artist. 
+816|國王 (n)|king|The king and the queen are much loved. 
+817|在...附近 (prep)|around|The cats are running around my house. 
+818|要求 詢問 (v)|ask|Don't ask too much. What you have is more than enough. 
+819|在...下面 (prep)|under|The lion is sleeping under the tree. 
+820|卡通 (n)|cartoon|Why do kids like to watch cartoons? 
+821|啞的 沉默寡言的 (adj)|dumb|At the age of two, Helen Keller became blind, deaf and dumb. It was Anne Sullivan that taught her how to talk. 
+822|紅蘿蔔 (n)|carrot|Jessica loves eating carrots. She says they are good for eyes. 
+823|皇后 女王 (n)|queen|Elizabeth is the queen of England. 
+824|疲憊的 很累的 (adj)|tired|The long trip made us very tired. 
+825|池塘 (n)|pond|There are many fish in the lake. 
+826|三十 (num)|thirty|Jordan has lived in Canada for thirty years. 
+827|湯匙 (n)|spoon|Sam had soup with a big spoon. 
+828|工作 (n)|work|We are busy with our work. 
+829|有時候 (adv)|sometimes|Sometimes I take a bath after lunch. 
+830|檢查 檢驗 (v)|check|You should check your school bag before going to school. 
+831|舔 (v)|lick|The little boy licked his ice cream, trying to eat in large bites before it melted. 
+832|塞車 果醬 (n)|jam|I was stuck in a traffic jam on my way home. 
+833|青蛙 (n)|frog|There are many frogs making noise in the pond. 
+834|八十 (num)|eighty|My grandmother is eighty years old and she lives a healthy life. 
+835|鼻子 (n)|nose|Jacky has a big nose. 
+836|鹹的 (adj)|salty|The tofu soup tastes salty. I think you add too much salt. 
+837|瞎的 (adj)|blind|The blind man uses a guide dog to help him walk. 
+838|高爾夫球運動 (n)|golf|Joe is playing golf with his clients. 
+839|墨水 (n)|ink|There are some ink stains on your shirt. You should have it washed. 
+840|婦女兒童短衫 (n)|blouse|Why did you buy this purple-and-orange blouse? Do you have any taste in fashion at all? It’s really ugly! 
+841|到處 (adv)|everywhere|7-ELEVEN is everywhere in Taiwan. 
+842|筆記本 (n)|notebook|My mother buys me a notebook and asks me to take notes in class. 
+843|每個 (det)|each|No matter you win or lose. Each one can get a prize. 
+844|湯 (v)|soup|How does the fish soup taste? 
+845|司機 (n)|driver|When I got on our school bus, the driver smiled at me. 
+846|除夕 (n)|New Year's Eve|On New Year's Eve, people gather in Time Square to welcome the coming year. 
+847|班級 (n)|class|Don't talk to each other in class. 
+848|放下 下蛋 (v)|lay|Vicky laid her baby on the couch and changed his diaper. 
+849|我們自己 (pron_R)|ourselves|We must save ourselves because no one else will. 
+850|半夜的 (adj)|midnight|When Jane is preparing for an exam, she always has a midnight snack. 
+851|邊緣 (n)|edge|Don’t stand on the edge of the cliff. It is very dangerous. 
+852|南方的 南部的 (adj)|southern|Kenting is a beach town in southern Taiwan. 
+853|火車 (n)|train|The train to Taipei was delayed for an hour. 
+854|海島 (n)|island|Taiwan is a beautiful island, which was called Formosa. 
+855|鎮靜 沈著 (v)|calm|Calm down. Don't be so nervous. 
+856|臀部 屁股 (n)|hip|Ann pushed the door open with her hip because a pile of snacks were in her hands. 
+857|法官 (n)|judge|The judge can’t agree on the jury’s decision, so he asks for more evidence. 
+858|殺害 (v)|kill|The fox killed a sheep just for fun. 
+859|乳酪 (n)|cheese|The cheese cake is the most popular taste in our shop. 
+860|木製的 (adj)|wooden|The wooden desk in your room look nice. 
+861|窗簾 門簾 (n)|curtain|Please draw those curtains, so we can enjoy the scenes outside. 
+862|受傷 (v)|wound|The dog was wounded when it was walking on the road. There were pieces of shattered glass everywhere. 
+863|加拿大的 加拿大人 (n1)|Canadian|There is a maple leaf on the Canadian flag. 
+864|充足的 (adj)|enough|If you don't have enough cash, use your credit card. 
+865|自由的 免費的 (adj)|free|The book is free, so you don't have to pay. 
+866|阻塞 (v)|block|Something blocks the pipe, so we have no water to use. 
+867|燃燒 (v)|burn|The wild fire burned down the forest, leaving nothing behind. 
+868|一起 (adv)|together|Let's sing the song together, shall we? 
+869|雇用 (v)|employ|The factory employed one thousand workers. 
+870|真正的 (adj)|real|His love is real, but he is not. The boy is only a robot. 
+871|烤箱 (n)|oven|On Thanksgiving, Monica and Doreen roasted a delicious turkey in the oven for us! 
+872|世界 (n)|world|This is not the way the world has to be, but this is the way it is. So, live with it and you will be fine. 
+873|增加 (v)|add|If you add any sugar to the fish soup, you will spoil it. 
+874|悄悄放進 溜出 潛入 (v2)|slip|You can just slip that envelope under my door if I am not in my office. 
+875|糖果 (n)|candy|Kids like candies because they are so sweet. 
+876|他自己 (pron_R)|himself|Bill lives alone. He does everything himself. 
+877|列出來 (v)|list|I list what I must do on the paper. 
+878|感謝 (v)|thank|First, I want to thank my parents. 
+879|東方的 東部的 (adj)|eastern|The cities in the eastern part of China are more developed than those in the west. 
+880|門鈴 (n)|bell|When guests come to my house, the bell will ring and our dog will bark for sure. 
+881|球 (n)|ball|John hits the ball with his bat. 
+882|表面 水面 (n)|surface|The surface of this table is rough and it can't be sold at a good price. 
+883|浴室 (n)|bathroom|Billy is taking a shower in the bathroom. 
+884|打包 裝箱 (v)|pack|Helen packed her bag fast and left soon. 
+885|成為 變得 (v)|become|It became darker and darker when we went home. 
+886|深的 (adj)|deep|We can find different kinds of beautiful fishes in the deep sea. 
+887|爭論 吵架 (v)|argue|I don't want to argue with you, so I leave. 
+888|意思 涵義 (n)|meaning|I don’t understand the meaning of your words. I beg your pardon. 
+889|反對 (prep)|against|Running the red light is not only against the law but also very dangerous. 
+890|摘取 挑選 (v)|pick|My mom picks a red coat for me. 
+891|綿羊 (n)|sheep|The big bad wolf rushed into the farm and began to worry the sheep. 
+892|午夜 (n)|midnight|At midnight, there is no sound. 
+893|手機 (np)|cellphone|John's cellphone number is 0937671335, isn't it? 
+894|守衛 警衛 (n)|guard|The man was blocked by the guards when he approached the president. He was holding a shoe in his hand and was about to throw it at the president. 
+895|醒來 (v)|wake|I wake up at six a.m. to study. 
+896|袋子 (n)|bag|How many apples are there in the bag? 
+897|忘記 (v)|forget|My brother often forgets to bring his English textbook to school. 
+898|蜂蜜 (n)|honey|Add some honey to my tea, please. 
+899|文具 (n)|stationery|I went to a stationery store to buy 3 pencils and 2 staplers. 
+900|他們的東西 (pron_n)|theirs|The car belongs to them. So, it is theirs. 
+901|地鐵 (n)|subway|Do you know how to take the subway in New York? 
+902|好的 (adj)|nice|Be nice to me. And, I will be very happy. 
+903|昨天 (n)|yesterday|You shouldn't have said that to your father yesterday. 
+904|火爐 (n)|stove|My grandfather put a pot on the stove to boil some water for making tea. 
+905|親戚 親屬 (n)|relative|Uncle Jack is my relative. He is my father’s young brother. 
+906|雞肉 小雞 (n)|chicken|Kate ate fried chicken for dinner yesterday. 
+907|有能力的 (adj)|able|The rich man is able to save the sick child, and he is willing to do so. 
+908|流行的 時髦的 (adj)|fashionable|Jessica wears a pair of fashionable glasses. 
+909|指示 指出 (v)|indicate|Your health report indicates that your body has too much water. 
+910|旅遊 參觀 (n)|tour|The museum takes only 2 guided tours each day, since it's currently understaffed. 
+911|露營 (v)|camp|Anita and Andy will go camping next week. 
+912|簡單地 只是 (adv)|simply|To put it simply, you still owe me five hundred dollars. 
+913|政府 (n)|government|The government provided food and water for the people in the town after the earthquake. 
+914|照片 圖片 (n)|picture|Look at this picture. The girl sitting next to me is my elder sister. 
+915|創造 創作 (v)|create|Parker created an awesome song and can’t wait to sing it to his fans. 
+916|公共的 (adj)|public|The park is a public place, open to anyone. 
+917|適合 與...相稱 (v)|suit|I think the red scarf suits you well. You’re as passionate as its color. 
+918|一張(片、塊) (n)|piece|Please give me a piece of paper. 
+919|在…旁邊 除…以外 (prep)|besides|Besides Sara, I will also be there with you to support you, so don’t be nervous. 
+920|親愛的 (adj)|dear|Mr. Write wrote a letter to his dear son. 
+921|擁抱 (n)|hug|Every morning, Ruby’s mother always gives her a big hug before she goes to school. 
+922|然後 (adv)|then|I eat my breakfast and then go to school. 
+923|夜晚 (n)|night|Stay home at night. It's not safe outside. 
+924|官員 公務員 (n)|official|The officials at immigration office are so kind and nice. They always try their best to help people. 
+925|搶劫 (v)|rob|On his way home, my dad was robbed of his wallet by a gangster carrying a gun. 
+926|塑造 (v)|shape|Childhood experiences may shape a person's character. 
+927|取消 (v)|cancel|If it rains tomorrow, the field trip will be cancelled. 
+928|其他的 (adj)|other|Don't give up so soon. There are other ways. 
+929|鍋子 (n)|pot|It's your turn to wash the pots and plates. 
+930|無聲 寂靜 (n)|silence|A gunshot broke the silence of the night. 
+931|平的 (adj)|level|Michelle thinks that the floor is not level, because her chair keeps rolling to the right. 
+932|地下道 下交叉道 (n)|underpass|There are many homeless people sleeping in the underpass. I always worry that they would rob me! 
+933|狐狸 (n)|fox|Don't trust Bill. He's as sly as a fox. 
+934|圓 (n)|circle|Everyone, please stand in a circle. 
+935|巢 窩 (n)|nest|The mother bird lays some eggs in the nest. 
+936|四月 (n)|April|We will have a test in April. 
+937|明天 (n)|tomorrow|It will be a better day tomorrow. 
+938|鑽石 (n)|diamond|Kelly’s husband gave her a diamond ring as a symbol of his love. 
+939|愛人 情人 愛好者 (n)|lover|John and Mary don't want to get married even though they have been lovers for eight years. 
+940|病人 (n)|patient|Dr. Li takes good care of his patients, so they trust him. 
+941|金錢 (n)|money|John is rich. He has a lot of money. 
+942|書本 (n)|book|The book is for kid. It is easy to read. 
+943|賊 小偷 (n)|thief|The police caught the thief who stole my purse yesterday. 
+944|外國的 (adj)|foreign|Tina has been to many foreign countries. 
+945|火 (n)|fire|Paper is easy to catch on fire. 
+946|頻道 海峽 (n)|channel|When I have free time, I love watching Discovery Channel to gain some new knowledge about our world. 
+947|衣架 (n)|hanger|You can leave the hangers on my bed. I am about to hang my clothes up in the closet. 
+948|提供 提議 (v)|offer|On weekends, the restaurant offers free drinks for customers. 
+949|成年人 (n)|adult|Don’t be so childish. You are an adult. 
+950|腳踏車 (n)|bicycle|Rain or shine, Jane goes to school by bicycle. 
+951|知識 學問 (n)|knowledge|Prof. Lincoln has much knowledge of American history. He can tell you the some important events in detail. 
+952|計量單位 測量 措施 (n)|measure|A meter is a measure of length. 
+953|收集 聚集 (v)|gather|A rolling stone gathers no moss. 
+954|猴子 (n)|monkey|In general, monkeys like bananas. 
+955|雨衣 (n)|raincoat|Be sure to bring a raincoat or an umbrella with you. It might rain. 
+956|動手術 (v)|operate|The surgeon is carefully operating on a patient to remove a brain tumor. 
+957|散步 (v)|walk|Chad walks his dog after dinner. 
+958|肥胖的 (adj)|chubby|Our boss is a little chubby. He looks like Winnie the Pooh. 
+959|希望 (v)|hope|I hope that we can win the game. 
+960|那裡 何處 (wh)|where|Where is Jenny ? Please tell me where she is now. 
+961|親切的 (adj)|friendly|The clerk of this store is a friendly woman. 
+962|大象 (n)|elephant|A white elephant means something big and useless. 
+963|有用的 有益的 (adj)|useful|A hammer is a useful tool to fix desks and chairs. 
+964|機車 速克達 (n)|scooter|Mom rides her scooter to work to save her time. 
+965|兔子 野兔 (n)|rabbit|Rabbits like to eat carrots. 
+966|遺憾的 (adj)|sorry|I am very sorry that I am late for school. 
+967|一些 (adj)|few|Tom only has few good friends. 
+968|在…存活 (v)|survive|Fortunately, Adam survived the air crash. 
+969|背包 (n)|backpack|Remember to bring your backpack with you when you leave. 
+970|口罩 (n)|mask|I have to wear a mask because I have a cold. 
+971|公路 幹道 (n)|highway|Be very careful when driving on the highway. 
+972|舌頭 (n)|tongue|The frog uses its tongue to catch bugs. 
+973|惡名昭彰的 (adj)|notorious|This group of students are notorious for their poor respect for teachers. 
+974|十字架 (n)|cross|The Red Cross always helps the poor. 
+975|生氣的 發瘋的 (adj)|mad|Dad is so mad at me that he doesn't want to talk to me. 
+976|端午節 (n1)|Dragon-boat Festival|Dragon-boat Festival, Autumn Moon Festival and Chinese New Year are regarded as the three most important Chinese festivals. 
+977|蛇 (n)|snake|The snakes hunt rats for food. 
+978|朋友 (n)|friend|You are my best friend, aren't you? 
+979|理髮 (n)|haircut|Jessie had a very good haircut. 
+980|停留 留下 (v)|stay|Don't go out at night. Stay home with me. 
+981|處理 (v)|deal|Our boss is able to deal with any problems. 
+982|下午 (n)|afternoon|My brother eats snacks in the afternoon. 
+983|想法 思想 (n)|thought|The thought that you’ll never quit inspires the whole team, so we follow you. 
+984|正確的 (adj)|correct|All of your answers are correct. 
+985|運氣 機會 (n)|chance|You might have a chance to find the truth as long as you don't give up. 
+986|沐浴 (n)|bath|I like to take a bath before I go to bed. 
+987|孫女 (n)|granddaughter|Grandma always says that Amada is her favorite granddaughter. 
+988|根據 基礎 (n)|basis|What is the basis of this theory you just told me? It is not very convincing at all! 
+989|跳躍 (v)|jump|Out of joy, Tom jumps up and down on the bed. 
+990|否認 拒絕 (v)|deny|It is obvious that John has a crush on Mary, how could he even deny that? 
+991|茶杯的托碟 (n)|saucer|Take out some cups and saucers. Let’s drink coffee. 
+992|碗 (n)|bowl|At time like this, all I want is a bowl of rice and a bottle of water. 
+993|作者 作家 (n)|writer|Mark Twin was the writer who wrote The Adventures of Tom Sawyer (1876). 
+994|袋鼠 (n)|kangaroo|Both Kangaroos and koalas are from Australia. 
+995|努力的 (adj)|diligent|A diligent employee will work hard to get the job done. 
+996|善良 (n)|goodness|Would you show some goodness and donate 1 USD to support kids in Africa? 
+997|十七 (num)|seventeen|Three plus seventeen is twenty. 
+998|堂(表)兄弟姐妹 (n)|cousin|My cousin is two years older than I am. 
+999|毀滅 破壞 (v)|ruin|The big earthquake ruined the old house. 
+1000|進攻 襲擊 (v)|attack|Don't worry. The bears will not attack you. They are not that hungry. 
+1001|蹤跡 足跡 小徑 (n)|track|Follow the track and we will eventually find the bear. 
+1002|溫暖的 暖和的 (adj)|warm|It is warm in spring. 
+1003|減 (prep)|minus|10 minus 6 is 4. 
+1004|在...旁邊 除了…之外 (prep)|beside|Beside singing, Jordan also enjoys playing the violin. ` 
+1005|中華民國 (n)|ROC|I am from Taiwan, ROC. 
+1006|主要的 (adj)|major|The economy is the voters’ major concern this year. 
+1007|字典 (n)|dictionary|Look up a word in the dictionary and you will learn what it means. 
+1008|有幫助的 (adj)|helpful|The advice you give me is very helpful. Now, I can face myself. 
+1009|河馬 (n)|hippopotamus|The only hippopotamus at the zoo entertained the visitors by rolling in the mud today. 
+1010|唱歌 (v)|sing|The singer will sing three songs in the show. 
+1011|勇敢的 英勇的 (adj)|brave|Spider Man is so brave that he shows no fear in face of danger. 
+1012|談話 (v)|talk|Don't talk in a loud voice. 
+1013|男盥洗室 (np)|men's room|Our boss just went to the men’s room. Please wait for him in the office. 
+1014|高雄 (n1)|Kaohsiung|In my opinion, Kaohsiung has the most beautiful harbor in Taiwan. 
+1015|新的 (adj)|new|At last, my old cat has a new home. 
+1016|右邊的 正確的 (adj)|right|Turn right, and you will see 7-ELEVEN. 
+1017|護士 (n)|nurse|The nurse will give me a shot. 
+1018|麵條 (n)|noodle|I ate a bowl of beef noodles for dinner. 
+1019|槍 (n)|gun|Wayne, listen to me. Put your gun down! You don’t want to hurt anyone, right? 
+1020|原諒 寬恕 (v)|forgive|To err is human, to 
+1021|幫浦(抽水裝置) (n)|pump|The farmer set a pump to draw some water from the small well. 
+1022|七 (num)|seven|Seven is my lucky number. 
+1023|讀 (v)|read|We like to read storybooks. 
+1024|聾的 (adj)|deaf|If you are deaf, he can't hear any sounds. 
+1025|行動 移動 (v)|move|The box is so heavy that we can't move it. 
+1026|強迫 (v)|force|The tyrant forced his people to build the Great Wall of China and caused a lot of deaths. 
+1027|電話 (n)|phone|The phone is dead, so I use my cell phone. 
+1028|剛開始的 初級的 (adj)|beginning|The beginning level does not require any prior knowledge of the subject. 
+1029|英吋 (n)|inch|There are 12 inches in a foot. 
+1030|地址 (n)|address|Please write down your address here. 
+1031|獎賞 獎品 (n)|prize|Peter was very glad that he won first prize. 
+1032|王子 (n)|prince|The prince will be the king in the future. 
+1033|很棒的 好極了 (adj)|terrific|It’s a terrific party. Both the guests and the host had a good time. 
+1034|草蓆 (n)|mat|My dad put a mat in front of the door. 
+1035|公升 (n)|liter|The doctor told me to drink three liters of water every day, but I never drink that much. 
+1036|處罰 懲處 (v)|punish|Tom was punished for cheating in the exam. 
+1037|努力地 艱苦地 (adv)|hard|Mr. Brown works hard to make a living. 
+1038|在…的對面 (prep)|across|The bookstore is across from City bank. 
+1039|前往… (prep)|toward|Paul is walking toward the church, with a Bible in his hand. 
+1040|嬰孩 (n)|baby|The baby smiles at me. It is very cute. 
+1041|強壯的 (adj)|strong|Only a strong man can move the heavy box. 
+1042|影像 影片 (n)|video|Mr. White likes to watch the videos of his son. 
+1043|飲食 (n)|diet|I wish I could eat more, but I am on a diet. 
+1044|沈默的 (adj)|quiet|Mary lost his pet dog. No wonder she is quiet today. 
+1045|廚師 (n)|cook|Tim is a cook in a five-start hotel. What he cooks looks yummy, smells good and taste delicious. 
+1046|製做 泡(茶) (v)|make|I make tea with my dad, talking about my dream. 
+1047|巨人 (n)|giant|In the movie, I saw a giant, who was as tall as a tree. 
+1048|廣播節目 (n)|broadcast|I won’t miss the broadcast tonight because my favorite singer will be in the show. 
+1049|麵粉 (n)|flour|There are so many kinds of flours in the shop. I don't know which one is best for making noodles. 
+1050|檢查 診察 (v)|examine|The doctor examines his patient carefully to find out what’s causing the pain in his back. 
+1051|懶惰的 (adj)|lazy|Amy is a lazy girl. She can't hand in her homework on time. 
+1052|燈籠 (n)|lantern|Henry carried a paper lantern, walking with other kids. 
+1053|水龍頭 (n)|faucet|The boy was so thirsty that he turned on the faucet and drank directly from it. 
+1054|哈囉 (inter)|hello|Hello! This is John speaking. May I speak to Mr. Lin? 
+1055|鯨魚 (n)|whale|The whales are the largest animals in the ocean. 
+1056|誰的 (wh)|whose|Whose pencil is it? 
+1057|年長的 (adj)|elder|My elder brother is ten years older than me. 
+1058|親切的 友善的 (adj)|kind|It is kind of John to help others. 
+1059|助手 助理 (n)|assistant|While Brian was talking on the phone, his assistant answered another phone call. 
+1060|心臟 (n)|heart|From then on, I could only miss you from the bottom of my heart. 
+1061|小學 (np )|elementary school|There are only fifty students in Seediq Elementary School. 
+1062|報告 (n)|report|Dr. Wu explained my health report to me. 
+1063|感覺 覺得 (v)|feel|Mr. Wu is out of a job, so he feels so sad. 
+1064|理髮師 (n)|barber|My hair was too long, so I had the barber cut it short. 
+1065|修改 校正 (v)|revise|Because I made some mistakes in my report, the teacher asked me to revise it. 
+1066|成功 (v)|succeed|Keep working hard, and you will succeed some day. 
+1067|蟑螂 (n)|cockroach|Cockroaches can live anywhere. They are the best example of Survival of The Fittest. 
+1068|幽靈 鬼魂 (n)|ghost|The bad memory is like a ghost haunting me. 
+1069|新加坡 (n1)|Singapore|Chewing gum is forbidden in Singapore. 
+1070|臺灣 (n)|Taiwan|Taiwan is surrounded by the seas. 
+1071|從… (prep)|from|We are from Taiwan. Are you from Japan? 
+1072|是的 (adv)|yes|Are you very busy now? Yes, I am. 
+1073|晚餐 (n)|dinner|To lose weight, Nina doesn't eat anything after dinner. 
+1074|總統 (n)|president|In 2009, Barack Obama was elected to be President of the United States of America. 
+1075|蹺蹺板 (n)|seesaw|Children are playing on the seesaw. 
+1076|壓力 (n)|pressure|Faced with much pressure, Eve was so afraid that she kept screaming. 
+1077|樂隊 樂團 (n)|band|I like all the songs of the band. 
+1078|感到驚訝的 (adj)|surprised|I am surprised at the result. How can it be? 
+1079|三月 (n2)|March|Kevin's birthday is March 5. 
+1080|僕人 佣人 (n)|servant|There are 10 servants living with the family in this large mansion. Some look after the kids, some clean the rooms, and some make the garden look good. 
+1081|膝蓋 (n)|knee|Both my knees were hurt when I fell. 
+1082|孤單的 孤獨的 (adj)|alone|You should not leave young children alone at home. It’s illegal. 
+1083|休息 (v)|rest|Take a rest! It's almost midnight. 
+1084|投票者 (n)|voter|The voters were deeply touched by the speech the candidate gave and wanted to vote for him. 
+1085|木瓜 (n)|papaya|Kaohsiung is famous for papaya milk. 
+1086|甘藍菜 (n)|cabbage|Eat more cabbages, and it’s good for your health. 
+1087|申請 應徵 應用 (v)|apply|In America, some students apply for college and some don't. 
+1088|快速的 (adj)|quick|Alice took a quick look at the pictures and soon found her father. 
+1089|介紹 引見 (v)|introduce|Everyone has to introduce himself or herself in the first class. 
+1090|鼓 (n)|drum|Jenny plays the drums in the all-girl band. 
+1091|柵欄 籬笆 (n)|fence|Mr. Brown built a fence to keep sheep. 
+1092|令人乏味的 (adj)|boring|The movie was so boring that the audience felt sleepy. 
+1093|麥片 穀物 (n)|cereal|Dad bought a big box of cereal for breakfast. 
+1094|瘦小的 (adj)|thin|Johnson eats a lot, but he is still very thin. 
+1095|木頭 木材 (n)|wood|The log cabin on the hill is made of wood. 
+1096|今天 (adv)|today|Sooner or later, I must tell him the truth today. 
+1097|畫家 (n)|painter|Leonardo da Vinci was a very famous painter who painted Mona Lisa. 
+1098|風景 景色 (n)|scenery|The scenery of the mountain is fantastic. 
+1099|義大利麵條 (n)|spaghetti|It's said that spaghetti came from Italy. 
+1100|十二 (num)|twelve|It is twelve o'clock now. It is time for lunch. 
+1101|冰淇淋 (np)|ice cream|Kids like ice cream, which is cold and sweet. 
+1102|長褲 (n)|trousers|Jerry wore a white shirt to match his blue trousers. 
+1103|長的 (adj)|long|This table is too long to fit in this room! 
+1104|仇恨 憎恨 (v)|hate|I often call May a fat hippo. That's why she hates me. 
+1105|城市商業區 鬧區 (n)|downtown|Kelly went shopping with her friends at downtown. I saw her carrying bags of clothes into her room. 
+1106|女廁所 (np)|women's room|After dinner, Mrs. Obama went to the women’s room to put on make-up and lipsticks. 
+1107|繼續 (v)|continue|How long will they continue talking? 
+1108|外銷 輸出 (v)|export|Taiwan exports tea, fruits, bikes and other goods to other countries. 
+1109|廚房 (n)|kitchen|Mom is cooking dinner in the kitchen. 
+1110|簽名 (v)|sign|Please sign here to apply for the job. 
+1111|箱子 (n)|box|Peter puts his small cats in a big box. 
+1112|技工 修理師 (n)|mechanic|My brother is a mechanic. He fixes cars. 
+1113|人類 (n)|human|Robots will be as smart as humans some day. 
+1114|小河 溪流 (n)|stream|The water in the stream dried out during a drought. There were dead fish everywhere and they smelled awful. 
+1115|小提琴 (n)|violin|Violin sounds sad, but its melody comforts my soul. 
+1116|成績 年級 (n)|grade|My math grade is not good enough, so I am working on it. 
+1117|開放的 開著的 (adj)|open|7-Eleven is open 24 hours a day. 
+1118|解釋 說明 (v)|explain|The teacher explained the question to his students with examples. 
+1119|馬鈴薯 洋芋 (n)|potato|When watching TV, we like to eat lots of potato chips and drink several cups of cola. This is the way we enjoy ourselves. 
+1120|番石榴 (n)|guava|The guavas are from Taiwan, not Thailand. 
+1121|每年一次的 (adj)|yearly|The doctor recommends yearly check-ups for my grandma. 
+1122|計劃 企劃 (n)|project|I don't know why my boss asked me to take on this big project. It’s very demanding. 
+1123|解決 (v)|solve|The only way to solve the problem is to face it bravely. 
+1124|母雞 (n)|hen|The hen is looking for food. 
+1125|錢包 (女用)手提包 (n)|purse|Sherry put her credit cards and driver’s license in her purse. 
+1126|商店 (n)|shop|My father runs a toy shop. 
+1127|奶油 (n)|cream|Would you like cream on your bread? 
+1128|抽屜 (n)|drawer|There are some books and pencils in my drawer. 
+1129|旁邊 (n)|side|Both sides of the road were full of people. 
+1130|家 (n)|home|Mr. Smith went to Taipei. He is not at home. 
+1131|發音 (v)|pronounce|I turn on my electronic dictionary to check how the word is pronounced. 
+1132|責備 指責 (v)|blame|When David did something wrong, he often blamed himself. 
+1133|腳步 步驟 (n)|step|The staircase is dark and slippery. Watch your step! 
+1134|驚奇 詫異 令…驚訝 (v)|surprise|The magic show surprised us. In the end, the magician disappeared into thin air. 
+1135|內衣 (n)|underwear|Michelle’s mother took her to buy new underwear. 
+1136|同學 (n)|classmate|At school, classmates are supposed to help one another. 
+1137|孫子 (n)|grandson|Mr. Wang has five grandsons and six granddaughters. 
+1138|聲音 嗓子 (n)|voice|A-mei has a beautiful voice. She is a born singer. 
+1139|日期 (n)|date|What date will we go hiking? 
+1140|自從…以來 (prep)|since|I haven't seen Bruce since last month. 
+1141|堅固的 穩定的 堅定的 (adj)|firm|The foundation of this building is not very firm. Nobody knows if it will survive the earthquake. 
+1142|失去 喪失 (v)|lose|Mr. Chen lost his family in the air crash. 
+1143|壞的 (adj)|bad|Lucky is a bad dog. It barks at me all day. 
+1144|書店 (n)|bookstore|Sue likes to read some new books in the bookstore. 
+1145|符號 標誌 (n)|sign|The sign by the lake reads, “No fishing!” 
+1146|生產 (v)|produce|Mr. Wang runs a factory that produces cups. 
+1147|老鼠 滑鼠 (n)|mouse|There is a tiny mouse in our big house. 
+1148|快遞的 快速的 (adj)|express|Oh, we are running late. We need to take the express shuttle to the concert. 
+1149|水缸 貯水槽 坦克 (n)|tank|The workers cracked the fish tank when they were moving it. The owner of the house was very angry. 
+1150|鹽 (n)|salt|I think you added too much salt. The fish soup tastes salty. 
+1151|藝術家 (n)|artist|The works created by the artist are so abstract that no one can understand them. 
+1152|甜瓜 (n)|melon|I love eating various fruits, but melon is not one of them. 
+1153|皇室的 (adj)|royal|There are many problems in the royal family itself. For example, the king has no son. 
+1154|分擔 分享 (v)|share|If you don't share the work, you can't share the cake. 
+1155|牧師 神父 (n)|priest|You can confess to the priest if you do something bad. 
+1156|領帶 (n)|tie|Dad's blue tie matches his shirt. 
+1157|廁所 (n)|restroom|The restroom is far away from our camp site, so we need to walk for a while to go there. 
+1158|感官 感覺 (n)|sense|Jason’s jokes are not funny at all because he has no sense of humor. 
+1159|窗口 (n)|window|I saw a bird flying out of the window and stop in the tree. 
+1160|龍 (n)|dragon|In China, the dragon was used as a symbol of the emperor. 
+1161|英俊的 (adj)|handsome|Tell me who you really are, an ugly frog or a handsome prince? 
+1162|甜甜圈 (n)|doughnut|Mr. Donut is a Japanese chain store that sells all kinds of doughnuts. 
+1163|費用 (n)|fee|If you apply for two credit cards, the bank will charge you an extra fee. 
+1164|愉快 高興 (n)|pleasure|I found great pleasure in learning English. 
+1165|部門 分隔 區分 (n)|division|There could be multiple divisions in a company, for example the human resource and marketing divisions. 
+1166|玩(遊戲) 扮演 (v)|play|Kids like to play with each other. 
+1167|柔軟的 (adj)|soft|When the fruit turns soft, it is ripe. 
+1168|貓 (n)|cat|Cats like to eat rats. 
+1169|認為 視為 (v)|regard|We regard John as a tough guy because he never quits. 
+1170|字 (n)|word|In other words, the book is worth reading. 
+1171|不可能的 (adj)|impossible|It is impossible for Tom to get up at six a.m. 
+1172|工作日 (n)|weekday|We go to work on weekdays, and stay home on weekends. 
+1173|實例 事例 情況 (n)|instance|Instance like this always reminds Alicia of her sad childhood memories. 
+1174|線 (n)|line|Johnson draws a line on the paper. 
+1175|西方 西邊 (n)|west|The sun sets in the west. 
+1176|學院 (n)|college|He is a freshman at the medical college. 
+1177|醬油 (n)|soy-sauce|The Japanese like to eat sashimi, raw fish, dipped in wasabi and soy-sauce. 
+1178|令人驚歎的 (adj)|marvelous|The landscape of this park is marvelous! It feels like a totally different world in here! 
+1179|田地 牧場 (n1)|field|There are sheep, chickens and horses running around the field. 
+1180|衣櫃 壁櫥 (n)|closet|Many women need big closets to store their clothes. 
+1181|簡單的 容易的 (adj)|plain|John is too busy to have a plain life. 
+1182|芒果 (n)|mango|Mangoes, pineapples are tropical fruits. 
+1183|購買 (v)|buy|Buy me a toy and I will be very happy. 
+1184|規則 規定 (n)|rule|We should follow school rules. 
+1185|蚊子 (n)|mosquito|I hate mosquitoes a lot. They always disturb me when I want to sleep. 
+1186|接受 (v)|accept|Please accept my sincere apology. I didn’t mean to hurt you. 
+1187|倒退的 落後的 (adj)|backward|The teacher was patient with backward students. She taught them the basic course. 
+1188|磨擦 (v)|rub|If you don't stop insulting me, I will rub your mouth with a sponge! You hear me? 
+1189|差別 差異 (n)|difference|It makes no difference whether you or your father comes. I only need one member from your family at the event. 
+1190|進行曲 行軍 (n1)|march|The soldiers were very tired because of a four-day march. 
+1191|出現 外貌 (n)|appearance|The sudden appearance of Super Junior made the fans scream and shout. 
+1192|角色 性格 (n)|character|Confidence is just one of John’s character traits. The more time you spend with him, the more you get to know him. 
+1193|想像 (v)|imagine|I can't imagine what Henry had gone through in his life. He lost both his parents at 8, her grandparents at 13, and got kicked out of an orphanage at 16. 
+1194|早餐 (n)|breakfast|I had an egg for breakfast. 
+1195|水蒸氣 (n)|steam|Steam is rising from the hot spring. 
+1196|事實 (n)|fact|In fact, we met three years ago. 
+1197|小的 (adj)|small|The baby bear is much smaller than the mother bear. 
+1198|點心 (n)|snack|He is eating snacks because he didn't eat anything at lunch. 
+1199|一打 十二個 (n)|dozen|Please buy a dozen eggs on your way home. 
+1200|地下室 (n)|basement|There is a large supermarket in the basement of the department store. 
+1201|健康 (n)|health|Health is much more important than wealth. 
+1202|轉角處 街角 (n)|corner|There's a big supermarket at the corner. 
+1203|美髮師 (np)|hairdresser|My aunt goes to the hair dresser every week to have her hair washed and styled. 
+1204|直昇機 (n)|helicopter|The rich man took a helicopter to a small island on vacation. 
+1205|卡車 (n)|truck|The child played on the street and was suddenly hit by a truck. 
+1206|最好的 (adj)|best|He is the best man for the job. 
+1207|同伴的 (adj)|fellow|My fellow partner decided to quit the job simply because he did not like our manager. 
+1208|離開 (v)|leave|Tom will leave his hometown to work in a big city in two weeks. 
+1209|很可能的 (adj)|likely|It is likely to rain. Be sure to bring an umbrella with you when you go out. 
+1210|困難的 堅硬的 (adj)|hard|It is very hard to get along with our boss. 
+1211|收入 所得 (n)|income|Spend your money more wisely. You shouldn’t have spent more than our income. 
+1212|領導 (v)|lead|Our class leader leads us to clean our classroom. 
+1213|姪女 外甥女 (n)|niece|My sister gave birth to my niece yesterday. I am an uncle now! 
+1214|消息 資訊 (n)|information|He got a lot of information from the website. 
+1215|小山丘 (n)|hill|There is a small house on the hill. 
+1216|恐龍 (n)|dinosaur|Dinosaurs were extinct long time ago. 
+1217|精力充沛的 (adj)|energetic|With a definite goal, Bill is always energetic to realize his dream. Day and night, he always works with delight. 
+1218|擁擠的 (adj)|crowded|The restaurant is always crowded with people because of its delicious food and excellent service. 
+1219|蝴蝶 (n)|butterfly|There is a butterfly on the flower. 
+1220|滑稽的 (adj)|funny|Only few students laugh because the joke isn't very funny. 
+1221|鑰匙 關鍵 (n)|key|Dr. Lin lost his car keys, so he went home by MRT. 
+1222|打獵 捕捉 (v)|hunt|When cats are hungry, they hunt rats for food. 
+1223|高興的 (adj)|pleased|I’m quite pleased with what you have done for Alison. 
+1224|避開 躲開 (v)|avoid|To avoid getting lost on your trip, you should take a map and a cell phone with you. 
+1225|沿著 順著 (prep)|along|On the weekend, I enjoy riding a bike along the lake. 
+1226|洩了氣的輪胎 (np)|flat tire|We got a flat tire on our way home, and Dad had to change the tire by the side of the road. 
+1227|漂亮的 (adj)|pretty|I think you look prettier without any makeup. 
+1228|餅乾 (n)|cookie|We had some cookies when we watched TV. 
+1229|九月 (n)|September|School begins in September. 
+1230|花費 (v)|cost|The book costs us a lot of money. 
+1231|聽見 (v)|hear|I can't hear you. Please speak more loudly. 
+1232|頭昏眼花的 (adj)|dizzy|I feel dizzy after spinning with my dog for 60 seconds, but it wants more. 
+1233|西方的 (adj)|western|There is a tornado on the western hemisphere that's about to hit Mexico. 
+1234|愛 (n)|love|Mom takes care of me because she loves me very much. 
+1235|讚揚 稱讚 (n)|praise|Laura still deserves some praise even if she didn’t put all her effort in this project. 
+1236|機器 (n)|machine|The machine can make popcorn. It's amazing.
+1237|傑出的 (adj)|excellent|Mark is excellent on the job. He will be promoted soon. 
+1238|鐵鍋 (n)|wok|Mom uses the wok to fry eggs for lunch. 
+1239|傳統 (n)|tradition|The father has tried to keep the family tradition alive, but his kids aren’t interested in learning it and think it meaningless. 
+1240|碟盤 (n)|dish|I want to buy a white dish. 
+1241|因此 所以 (adv)|therefore|Mike did not prepare well for the math test; therefore, he failed. 
+1242|高興的 (adj)|glad|Mr. Chen was glad that his son came back safe and sound. 
+1243|隱形眼鏡 (np)|contact lens|Remove your contact lenses before you go to bed. 
+1244|區域 (n)|area|This is the only area that remains untouched, but the government wants to turn it into an amusement park. 
+1245|十四 (num)|fourteen|I'm fourteen years old. 
+1246|珍貴的 值錢的 (adj)|valuable|In Sahara Desert, the most valuable thing is water. 
+1247|胃痛 (n)|stomachache|Mary was so nervous that she had a terrible stomachache. 
+1248|茶 (n)|tea|The tea is very hot. You have to wait. 
+1249|流行性感冒 (n)|flu|Because of the flu, Lily was too weak to go to school. 
+1250|不含酒精的 (adj)|soft|This restaurant only offers soft drinks, so if you want beer, you need to go somewhere. 
+1251|歌曲 (n)|song|Jeff sings a song about the sea. 
+1252|開除 (v)|fire|Mr. Li was fired by his boss. Therefore, he had to find another job. 
+1253|位置 姿勢 立場 (n)|position|Poor sleeping position causes your backache. 
+1254|英國的 英國人 (n1)|British|Jason speaks with a British accent, but he is actually an American. 
+1255|鐵路 (n)|railroad|Taipei Station is the most modern railroad station in Taiwan. 
+1256|肉 (n)|meat|I don't like to eat meat. 
+1257|直直的 (adj)|straight|Jack can draw a straight line without using a ruler. 
+1258|衝突 (n)|conflict|Wilson can't make it to your bachelor party because there is a time conflict with his business trip. 
+1259|簡報 摘要 (n)|brief|If you want us to buy your product, you at least need to give us a brief on it. 
+1260|便利商店 (np)|convenience store|Convenience stores are everywhere in Taiwan, and they serve us 24 hours a day. 
+1261|訓練 (v)|train|Our class teacher trains us to clean up our classroom and keep it tidy. 
+1262|海岸 沿海地區 (n)|coast|People along the coast make a living by fishing. 
+1263|詢問 (v)|question|Don't question your order. Just carry it out. 
+1264|因為 (conj)|because|I lead a happy life because my family all love me. 
+1265|後悔 悔恨 (v)|regret|Maria regretted that she spent too much money buying something she didn’t need. 
+1266|熊 (n)|bear|There are three bears living in the woods. 
+1267|拍手 (v)|clap|We clapped for Jimmy since he won first prize again. 
+1268|分鐘 (n)|minute|I'll be back in ten minute. Please wait. 
+1269|不同的 (adj)|different|Peter and John are twin brothers, but they look very different. 
+1270|帳篷 帳棚 (n)|tent|We have to learn how to pitch a tent before going camping. 
+1271|個人 (n)|person|A strange person stood at the door, looking at me. 
+1272|重大打擊 (n)|blow|The death of Henry's parents gave him a big blow. 
+1273|紫色的 (adj)|purple|If you mix red and blue, you will see purple. 
+1274|酒吧 飲食販賣店 (n2)|bar|Foreigners love hanging around at night bars after work. 
+1275|新奇的 (adj)|novel|Professor Wu asked his students to come up with novel ideas, which must be new and different. 
+1276|教育常用單數 (n)|education|People in Taiwan must receive a twelve-year compulsory education. 
+1277|有趣的 (adj)|interesting|Five silly fishermen is an interesting story. 
+1278|關著的 (adj)|off|The lights were off in order to save power. 
+1279|慢跑 (v)|jog|We jog at the park after school. 
+1280|俄國的 俄國人 俄語 (n1)|Russian|The Russian nesting doll is very interesting because you can place one doll inside the other. 
+1281|語言 (n)|language|I can speak two languages; namely, Chinese and English. 
+1282|郡 縣 (n)|county|Nantou county was severely damaged during the earthquake of 921. 
+1283|系統 (n)|system|The traffic system stopped working after the lightning and thunder. 
+1284|欺詐 作弊 欺騙 (v)|cheat|It is not right to cheat in the exam. 
+1285|早晨 (n)|morning|I missed the bus this morning. That's why I was late for school. 
+1286|嘴巴 (n)|mouth|The dentist told me to open my mouth. 
+1287|陷阱 (n)|trap|Those farmers set many traps on the fields in order to catch mice. 
+1288|農夫 (n)|farmer|The farmers work hard on the farm to make a living. 
+1289|鹿單複數同形 (n)|deer|We saw some deer running on the path. 
+1290|感到興奮的 (adj)|excited|I was excited when the team which I supported won the game. 
+1291|接觸 感動 (v)|touch|People can't touch the art works in the museum. 
+1292|客人 來賓 (n)|guest|The guests at the party are dancing happily. 
+1293|添加 此外 (n)|addition|In addition to working, a healthy life also demands regular exercise and outdoor activities. 
+1294|重要性 (n)|importance|If you understand the importance of friends, you would cherish them more. 
+1295|派 (n)|pie|My mom baked an apple pie. 
+1296|生意 事情 (n)|business|Mind your own business. Keep your hands off. 
+1297|襪子 (n)|socks|Your socks smell awful. You should wash them. 
+1298|刷子 (n)|brush|I need a brush to paint my fence. 
+1299|邀請 招待 (v)|invite|Tina invites us to her birthday party. 
+1300|到達 到來 (v)|arrive|As soon as I arrive at the airport, I will call you. 
+1301|牙痛 (n)|toothache|I must go to see the dentist because I have a terrible toothache. 
+1302|主演 行動 (v)|act|I act Shrek in the play. 
+1303|價格 (n)|price|The price of the car is too high. 
+1304|已經 (adv)|already|I have done my part already. 
+1305|認為 (v)|think|Don't think any more. We must act now. 
+1306|發生 出現 突然浮現 (v)|occur|The car accident occurred when I was waiting for the green light on the sidewalk. 
+1307|死的 (adj)|dead|The telephone is dead. I have to use my cell phone. 
+1308|特別 尤其 縮寫為 (adv)|especially|Steve especially loves sweets. He puts so much sugar in every drink, and he has desserts after each meal. 
+1309|直到...時 (prep)|until|Apple products weren't popular until 2000. 
+1310|轉動 (v)|turn|Turn down the TV. It is too loud. 
+1311|油煎 油炸 炒 (v)|fry|Mom is busy frying fish. 
+1312|任何人 (pron)|anyone|I don't know anyone in this room. 
+1313|洋裝 (n)|dress|What a beautiful dress! You look very pretty. 
+1314|學期 (n)|semester|Hey, we are graduating after this semester! I hope we can keep in touch forever. 
+1315|賺得 掙得 (v)|earn|Jenny took a part-time job at 7-ELEVEN and earned 500 dollars. 
+1316|橡皮擦 (n)|eraser|You can use an eraser to erase the words you don't want. 
+1317|新鮮的 (adj)|fresh|The fruits at the store are really fresh. 
+1318|虛弱的 (adj)|weak|The old man is too weak to stand up. 
+1319|類型 (n)|type|My blood type is A, which is common. 
+1320|保護 防禦物 保護物 (n)|protection|Don't forget to wear helmet for protection when you ride a motorcycle. 
+1321|承認 准許進入 (v)|admit|Helen admitted that she had stolen a box of chocolates from the store. 
+1322|汽車 (n)|car|Our car is old. We need a new Benz. 
+1323|鈕扣 按鈕 (n)|button|Push the button on the back of the robot if you want it to dance. 
+1324|電冰箱 (n)|refrigerator|We put the vegetables in the refrigerator to keep them fresh. 
+1325|在...期間 (prep)|during|Willy plans to take a day off during this week. 
+1326|長沙發 (n)|couch|We like to sit on the couch watching TV. 
+1327|花(錢) 花費 (v)|spend|My sister spent three hundred NT dollars on her new shoes. They were cheap. 
+1328|可能 也許 (adv)|maybe|Maybe you don't care about the show tonight, but I do. 
+1329|瘋狂的 (adj)|crazy|What you said sounds crazy, but it's worth trying. 
+1330|記錄器 錄音機 (n)|recorder|Sony recorders provides best voice quality. 
+1331|小狗 (n)|puppy|Waving its tail, the puppy is begging for food. 
+1332|任何地方 (adv)|anywhere|As long as you have enough money, you can go anywhere you like. 
+1333|驕傲的 (adj)|proud|Arthur won first prize in the contest. His parents were proud of him. 
+1334|減少 減弱 (v)|decrease|Many drivers only decrease their car speed when they see a camera on the road. 
+1335|大聲地 (adv)|aloud|If you have something to say, speak aloud. 
+1336|吠叫(狗、狐等) (v)|bark|The dog barks at me for no reason. 
+1337|停止 中斷 (v)|stop|Our bus will stop in Kaohsiung. 
+1338|帶來 (v)|bring|It looks like rain. Be sure to bring an umbrella with you when you go out. 
+1339|欣賞 欽佩 仰慕 (v)|admire|I really admire Richard for his great talent for music. 
+1340|公平的 (adj)|just|The victim's family are still waiting for a just decision from the judge. 
+1341|還有 也是(會) (adv)|also|We also want to give you a gift. 
+1342|店主 (n)|shopkeeper|The shopkeeper has run the grocery store for forty years. 
+1343|鐵鎚 鎯頭 (n)|hammer|I need to fix my chair. Can you get a hammer and nails? 
+1344|當…的時候 (wh)|when|When the cat goes away, the rats will stay. 
+1345|工作 任務 (n)|task|The first task of the secretary is to sort out the files on her boss' desk. 
+1346|現金 現款 (n)|cash|I have no cash on me. May I pay by credit card? 
+1347|鍛鍊 運動 練習 (v)|exercise|Don't just sit in front of your computer. You should exercise more. 
+1348|契約 合同 (n)|contract|If you don’t follow what the contract says, you will be fined 5000 dollars. 
+1349|單位 單元 (n)|unit|Do not forget to put down the unit in your final answer, for example 5 kilograms. If you just write 5, the answer is wrong. 
+1350|洞 (n)|hole|There was a big hole in front of Dina, but she didn’t see it. Guess what happened? 
+1351|T恤杉 (n)|T-shirt|My elder brother has 100 T-shirts. 
+1352|上述的, 上面的 (adj)|above|The above paragraph is a pretty good summary of the story. 
+1353|勤勉的 (adj)|hard-working|Be hard-working, and it will pay off. 
+1354|爆米花 (n)|popcorn|We like to eat some popcorn when we see a movie. 
+1355|眼鏡 (n)|glasses|Alice can't see clearly without wearing her glasses. 
+1356|有把握的 (adj)|sure|Are you sure you can come home on time in rush hour? 
+1357|放慢 (v)|slow|Slow down! You are driving too fast. 
+1358|划(船) (v)|row|We rowed a boat across the river. 
+1359|移動 動作 (n)|motion|The Earth spins in clockwise motion if you look at it from the north pole. 
+1360|傳統的 (adj)|traditional|Eating rice dumplings on Dragon Boat Festival is our traditional custom. 
+1361|曾經 (adv)|ever|Iron Man is the best movie I've ever seen. 
+1362|清洗 (v)|clean|Clean your room before I come back. 
+1363|信念 想法 信仰 (n)|belief|It is my strong belief that all men are created equal. 
+1364|輔助器具幫忙 (n)|aid|The hearing impaired can use hearing aid to help them hear what people say. 
+1365|數學 (n)|mathematics|Nick majored in mathematics in college. 
+1366|日曆 (n)|calendar|I am not sure if I am available that day. Let me check my calendar and get back to you later. 
+1367|小姐 (n)|Miss|Miss Chen works in City Bank. 
+1368|愚蠢的 糊塗的 (adj)|silly|It's silly of John to go out alone at midnight. 
+1369|麻煩 困擾的事 (n)|trouble|I am in trouble. Please help me. 
+1370|酸的 (adj)|sour|The lemonade tastes very sour. That’s why I like it. 
+1371|最新的 (adj)|latest|If we are too busy to read the newspaper, we can find the latest news online. 
+1372|那個 (det)|that|This is my pen; that is yours. 
+1373|稀有的 罕見的 (adj)|rare|The flowers are rare. We seldom see them. 
+1374|手段 方法 (n)|means|There are different means to succeed, but whatever you do, do not lose your conscience. Don’t you ever believe that the end will justify the means. 
+1375|摩托車 (n)|motorcycle|Junior high school students are not allowed to ride a motorcycle. 
+1376|報紙 (n)|newspaper|I read the news in the newspaper. 
+1377|角色 (n)|role|Joe played the role of a waiter in the show. 
+1378|同意 (v)|agree|I can't agree on what you say because it is nothing but a lie. 
+1379|零 (num)|zero|One minus one is zero. 
+1380|針 (n)|needle|Don’t put the needle in the trash can. Leave it in that bottle. 
+1381|進入 (v)|enter|Dogs are not allowed to enter the restaurant. 
+1382|表現 行為舉止 (v)|behave|Some kids behave themselves at home, but they act like devils at school. 
+1383|鸚鵡 (n)|parrot|The parrots like to repeat what people say, but they don’t understand what it means. 
+1384|鼓勵 鼓舞 (v)|encourage|Sometimes employees would work harder if their boss encourages them in person. 
+1385|兩者都不 (adj)|neither|Neither Sandy nor Mike can dance. 
+1386|成功 (n)|success|Hard work brings success. So, try your best! 
+1387|近的 (adj)|near|The park is near my friend's home, so he goes there often. 
+1388|降落 (v)|land|The plane is going to land. Fasten your seatbelt. 
+1389|醫生 (n)|doctor|You look pale. You'd better see a doctor at once. 
+1390|喜悅 (n)|joy|The baby gives us joy. 
+1391|膠水 (n)|glue|We don't have glue, so we use paste instead. 
+1392|曬乾 烘乾 變乾 (v)|dry|The sun will dry the clothes quickly. 
+1393|直接地 (adv)|straight|Go straight home after school. Don't hang around the Internet Cafe. 
+1394|長方形 (n)|rectangle|Kids are learning how to recognize shapes, such as rectangles and circles. 
+1395|夫人 太太 (n)|madam|When addressing an older woman, the children call them madams. 
+1396|妒忌 羨慕 (v)|envy|Instead of envying what other people have, why don't you work harder to have a better life? 
+1397|以前 (adv)|ago|I wish I hadn't met you two years ago. 
+1398|事故 意外 (n)|accident|The traffic is moving very slowly because there is an accident ahead. 
+1399|車票 入場券 (n)|ticket|The ticket to the ball game is hard to buy. 
+1400|一致的 不變的 (adj)|uniform|The uniform size of the furniture makes the space look neat. 
+1401|看見 (v)|see|Can you see the bird in the tree? 
+1402|女人 (n)|woman|The woman is nice to the kids, so they love her very much. 
+1403|神 上帝 (n)|God|May God bless you, my dear friends. 
+1404|下定決心 決定 (v)|determine|Life is about what you choose and what you determine to do; once you know what you want to do, go for it. 
+1405|大叫 呼喊 (v)|shout|It is rude to shout at others for no reason. 
+1406|秋天 (n)|autumn|In autumn, the maple leaves turn red. 
+1407|寺廟 神殿 (n)|temple|The temple lies in the distant mountain. 
+1408|因此 (adv)|thus|Sharon hasn’t heard from her sister for a long while; thus, she decides to visit her to make sure everything is OK. 
+1409|有技巧的 (adj)|skillful|Sam is a skillful worker. He does his work well and fast. 
+1410|烏龜 (n)|turtle|There are five turtles swimming in the pond. 
+1411|沒什麼 (pron)|nothing|There's nothing in the box. 
+1412|注意力 (n)|attention|Pay attention to what teachers say in class. 
+1413|故事 (n)|story|When I was a kid, Mom used to tell me a story at night. 
+1414|空調 (n)|air conditioner|As summer is approaching, we have to buy a new air conditioner that cools the air and saves energy. 
+1415|橄欖球(美) 足球(英) (n)|football|Football has been a popular sport for a long time. 
+1416|最後的 最終的 (adj)|final|John’s decision is final. In other words, he won’t change his mind. 
+1417|亞洲的 亞洲人 (n1)|Asian|Many westerners are very interested in Asian culture and cuisine. 
+1418|喉嚨 (n)|throat|I don't feel like talking or eating because I have a sore throat. 
+1419|空的 (adj)|empty|I walked along the empty path in the woods, enjoying myself. 
+1420|女演員 (n)|actress|The actress plays the witch very well because she looks like one. 
+1421|四十 (num)|forty|Forty times two is eighty. 
+1422|當前的 現行的 (adj)|current|The current price of oil is too high. 
+1423|告訴 (v)|tell|Don't lie to us any more. Tell the truth. 
+1424|和...一樣 (prep)|like|Peter looks like his dad. They are both tall and handsome. 
+1425|律師 (n)|lawyer|My cousin is a lawyer. He can give you legal advice. 
+1426|包裹 (n)|package|You can send the package in the post office. 
+1427|寒冷的 (adj)|cold|It was very cold, but Tony still went swimming. 
+1428|真的 真實的 (adj)|true|The new movie is based on a true story. 
+1429|到…裡面 (prep)|into|The boy jump into the pool to swim. 
+1430|關心的事 關切的事 (n)|concern|Who I love is not your concern. Just mind your own business. 
+1431|驢 (n)|donkey|In the past, farmers used donkeys to carry their goods to the market for sale. 
+1432|較好的 (adj)|better|You have to do your best this time. There is no better chance. This is it. 
+1433|令人興奮的 (adj)|exciting|The basketball game is very exciting. 
+1434|腿 (n)|leg|Lions have 4 legs, and they run very fast. 
+1435|雇用 (v)|hire|When Mrs. Li went to work, she hired a babysitter to take care of her kids. 
+1436|法國的 法國人 法語 (n1)|French|French horns and trumpets are both brass instruments. 
+1437|星期 (n)|week|I watch TV for three hours every week. 
+1438|好的 (adj)|good|Mom is very good at cooking. She is a good cook. 
+1439|無尾熊 (n)|koala|Do you see the koalas in the tree? 
+1440|最初的 (adj)|primary|The primary plan was to build a dam across the river. 
+1441|作用 效果 影響 (n)|effect|Pharmacists need to make sure the patients are aware of the side effects of the medicines they will be taking. 
+1442|手套 (n)|glove|The workers put on their gloves and began to work. 
+1443|普通話 國語 (n)|Mandarin|Mandarin is one of the hardest yet the most commonly spoken languages in the world. 
+1444|孔子 (n)|Confucius|Confucius is considered the greatest philosopher in Chinese culture. 
+1445|落後的 向下的 (adj)|down|The home team was down by two points at halftime. 
+1446|使…驚恐 讓…害怕 (v)|frighten|After the explosion, many bodies were buried under the collapsed buildings. This horrible scene frightened me. 
+1447|盤子 (n)|plate|The child ate a plate of cookies. 
+1448|成員 (n)|member|There are forty members in the tennis club. 
+1449|特別的 (adj)|special|The gift you gave me is very special. I will cherish it forever. 
+1450|拉回 拖著 (v)|pull|In the tug-of-war, we will seize hold of the rope and pull as hard as we could 
+1451|好奇的 (adj)|curious|Tony is curious about everything, so he keeps asking questions. 
+1452|帳單 票據 (n)|bill|Billy found that he had no money when he wanted to pay the bill for his lunch. 
+1453|為什麼 (wh)|why|Do you know why Mike was late? 
+1454|或許 可能 (adv)|perhaps|Perhaps your elder brother will give you a surprise. 
+1455|從未 (adv)|never|I have never been to Japan. 
+1456|一 (num)|one|One is red, and the others are blue. 
+1457|課本 (n)|textbook|Did you see my English textbook? 
+1458|畫底線 (v)|underline|While taking notes in class, we can underline the main ideas with a ruler. 
+1459|每件事情 (pron)|everything|Not everything you see is true. 
+1460|把…分成 (v)|divide|A year can be divided into four seasons; namely, spring, summer, fall and winter. 
+1461|物品 文章 條款 (n)|article|The professor assigns us an English article to read every week. 
+1462|筆 (n)|pen|My red pen writes well. 
+1463|強調 (v)|stress|The clock is ticking. I have to stress again how crucial it is to get this mission done on time! 
+1464|弄壞 (v)|break|Don't touch the vase, or you may break it. 
+1465|修理 補救 (v)|repair|James is a mechanic who repairs cars. 
+1466|加拿大 (n1)|Canada|Canada is influence by England and France. Therefore, both English and French are official languages. 
+1467|十三 (num)|thirteen|Some people believe that thirteen is a bad number. 
+1468|霧 霧氣 (n)|fog|When you see fog in the woods, you should come back, or you might get lost easily. 
+1469|灰色的 (adj)|gray|The sky is gray. It looks like rain. 
+1470|她自己 (pron_R)|herself|Gina hates herself because she doesn't have any friends. 
+1471|打架 奮鬥 (v)|fight|The boys are fighting over a toy car. 
+1472|藥物 (n)|medicine|The Chinese herbal medicine tastes bitter, but it is effective. 
+1473|每週一次 (adv)|weekly|The magazine provides a summary of important world news weekly. 
+1474|陌生人 (n)|stranger|Don't talk to strangers. They might hurt you. 
+1475|錯誤的 (adj)|wrong|It's wrong to cheat on the exam. 
+1476|美女 美麗 (n)|beauty|Julia is a beauty. Every breath she takes always attracts me. 
+1477|怎麼 (adv)|how|I don't know how to say it. 
+1478|國家 (n)|nation|India is a big nation with a large population. 
+1479|慶祝 (v)|celebrate|We celebrate the New Year with a party. 
+1480|機場 (n)|airport|I will meet my American pen pal at the airport in one hour. 
+1481|唯一的 僅有的 (adj)|only|Mr. Li is the only person on duty tonight. 
+1482|來 (v)|come|Jane will not come here because she is busy. 
+1483|第四 (num)|fourth|The fourth of July is a national holiday in the United States of America. 
+1484|睡覺 (v)|sleep|Jane cannot sleep well because she is out of work. 
+1485|留意 介意 (v)|mind|Do you mind helping me mop the floor? 
+1486|樓層 地板 (n)|floor|Mr. Wu lives on the second floor, so he always takes the stairs instead of taking the elevator. 
+1487|水果 果實 (n)|fruit|Bananas and oranges are both fruits. 
+1488|拇指 (n)|thumb|After winning the game, the coach raised his thumb, with a big smile on his face. 
+1489|多雲的 (adj)|cloudy|The sky was cloudy, so I took my umbrella with me. 
+1490|厚的 (adj)|thick|All the books are so thick that I can't move them. 
+1491|人群 (n)|crowd|It’s easy to see Johnson in a crowd because he is very tall. 
+1492|四分之一 (n)|quarter|It's a quarter after eight. 
+1493|害怕的 (adj)|afraid|Are you afraid of snakes? 
+1494|和平 和睦 (n)|peace|Doves are regarded as a symbol of peace. 
+1495|房子 (n)|house|What a big house! 
+1496|體育 (np)|physical education|Meg enjoys exercising. That's why her grades in physical education are good. 
+1497|計算 (v)|count|The little boy can count from one to ten. 
+1498|落下 跌倒 (v)|fall|A small monkey falls from the tree. 
+1499|舉行 抓住 (v)|hold|In May, we will hold a party. 
+1500|好看的 (adj)|nice-looking|Here comes a nice-looking girl wearing a red dress. She is so beautiful! 
+1501|我自己 (pron_R)|myself|I keep telling myself that I can make it. 
+1502|奶奶 (n)|grandma|The old lady in red dress is my grandma. 
+1503|力氣 權力 威力 (n)|might|The great might of emperor terrified the farmers. In fact, the whole village could be easily destroyed by his command. 
+1504|三明治 (n)|sandwich|Nick ate an apple, two sandwiches, and a cup of milk for breakfast. 
+1505|骯髒的 (adj)|dirty|Your hands are very dirty. You have to wash them at once. 
+1506|雲 (n)|cloud|Dark clouds gather before a heavy rain. 
+1507|自由 獨立自主 (n)|freedom|Many people enjoy living by themselves because it gives them more freedom to do what they want. 
+1508|比 (conj)|than|John is much taller than Peter. 
+1509|回答 回覆 (v)|reply|Kierra does not know how she should reply Mark's message after all the lies. 
+1510|非常地 (adv)|pretty|After working for hours, I was pretty tired. 
+1511|骨瘦如柴的 (adj)|skinny|The model is so tall and skinny. She should eat more. 
+1512|只是 (adv)|just|I just want to say hello. 
+1513|有風的 (adj)|windy|On a windy day, Alice rode a bike along the bank, with her hair blowing in the wind. 
+1514|橡膠 (n)|rubber|This new door mat is made of rubber, so it smells. However, its smell will go away tomorrow. 
+1515|　一流的 (adj)|classic|Jim is a classic magician, so he is invited to perform around the country. 
+1516|開始 (v)|start|We start a fire to keep warm. 
+1517|門 (n)|door|Mr. Postman delivered mail door to door. 
+1518|社會的 (adj)|social|My boss takes part in social event. He will meet some people from other companies. 
+1519|天空 (n)|sky|On a sunny day, the sky is blue. 
+1520|蝙蝠 (n)|bat|The bats can fly in the sky. 
+1521|投擲 丟出 (v)|throw|The naughty boy is throwing a ball at a dog. 
+1522|兄弟 (n)|brother|My elder brother take care of us, when my parents go to work. 
+1523|壘球 (n)|softball|The students enjoy playing softball at the park after school. 
+1524|啤酒 (n)|beer|Which do you like, beer or coke? 
+1525|血 血液 (n)|blood|What blood type do you have? 
+1526|二 (num)|two|There are two tigers in the zoo. 
+1527|包含 (prep)|including|The package comes with many things, including 2 discs, a manual, a tiny tool kit and some coupons. 
+1528|工具 (n)|tool|A hammer is a good tool for fixing desks. 
+1529|傢伙 人(口語) (n)|guy|Who is that handsome guy? 
+1530|豬肉 (n)|pork|Is pork on the menu for dinner? 
+1531|保齡球 (n)|bowling|Lily can’t go bowling with us tonight because her arms feel sore. 
+1532|放下 流下來 (v)|drop|Someone dropped a bag of trash at the school gate. 
+1533|我們的東西 (pron_n)|ours|The books belong to us. So, they are ours. 
+1534|歌手 (n)|singer|The fans of the singer are crazy about her new songs. 
+1535|水準 標準 (n)|standard|As the society evolves, our standard of living becomes higher. 
+1536|藥品 (n)|drug|With the doctor’s prescription, we can buy drugs at drugstores. 
+1537|失蹤的 (adj)|missing|A rescue team finally found the missing airplane after three days. 
+1538|相同地 (adv)|alike|The twin sisters really look alike, but they have very different personalities. 
+1539|學習 研究 設置 (v)|study|We have to study hard for the test. 
+1540|什麼 (wh)|what|What book are you reading? 
+1541|顏色 (n)|color|There are seven colors in the rainbow. 
+1542|兩方 (pron)|both|Both Joe and Ken are my good friends. 
+1543|棋 (n)|chess|Let's play chess, shall we ? 
+1544|狂風暴雨的 (adj)|stormy|On the stormy night, I couldn’t sleep tight. 
+1545|哭 叫 喊 (v)|cry|The little boy is crying for candies. 
+1546|在…之上 在…上面 (prep)|upon|Once upon a time, there was a kingdom far away. 
+1547|射擊 (n2)|shot|The victim had a shot on his arm and two went through his skull. 
+1548|組織 (n)|organization|There are many non-profit organizations all over the world, such as the Red Cross and Tzu Chi Foundation. 
+1549|舞台 講台 (n2)|stage|Kyle is too shy to perform on stage. 
+1550|(太陽)升起 (v)|rise|The sun rises in the east. 
+1551|害怕 恐懼 (n)|fear|Naomi has fear of heights, so she has never been on a roller coaster. 
+1552|八月 (n)|August|Father's Day falls on August 8. 
+1553|幼稚園 (n)|kindergarten|Please tell me how to choose a good kindergarten for my kids. 
+1554|國際的 (adj)|international|Diana made international news and had many interviews after she discovered a new marine species when she went scuba diving. 
+1555|兩倍的 加倍的 (adj)|double|Make my order double. My friend will join me for dinner within 10 minutes. 
+1556|健康的 良好的 (adj)|fine|How are you today? I am fine. 
+1557|教室 (n)|classroom|We do our best to keep our classroom tidy. 
+1558|匆忙的 (adj)|rush|It will take two hours to get to the airport during rush hour. 
+1559|敲 擊 打 (v)|knock|Remember to knock at the door before you come in. 
+1560|激勵 啟發 (v)|inspire|The story of the one-armed basketball player inspires us to overcome difficulties. 
+1561|教堂 (n)|church|Some people go to church on Sunday. 
+1562|飲料 (n)|drink|Do you need some drinks? 
+1563|長笛 (n)|flute|I play the flute in our band. 
+1564|負責任的 (adj)|responsible|When I went home last night, the living room was in a mess. Who should be responsible for it? 
+1565|拼寫 (v)|spell|I know how to spell that word “apple”: a-p-p-l-e. 
+1566|台灣的 台灣人 台語 (n1)|Taiwanese|Simon told me there is a Taiwanese restaurant nearby this neighborhood. I will give it a try next weekend. 
+1567|奇妙的 (adj)|fantastic|Vincent felt fantastic and relaxed after the massage. He wants to go back there again tomorrow. 
+1568|一對 一雙 (n)|pair|I need a new pair of glasses to see clearly. 
+1569|新年 (n)|New Year's Day|We don't have class on New Year's Day. Do you have any plan for your vacation? 
+1570|杯子 (n)|cup|My mom buys a set of cups. 
+1571|控制力 (n)|control|Everything here is under control, isn’t it? 
+1572|堅果 核果 (n)|nut|It’s good for our health to eat some nuts. 
+1573|星 (n)|star|There are many stars in the sky. 
+1574|十九 (num)|nineteen|At the age of nineteen, Mary came to Canada. 
+1575|生病的 (adj)|sick|Tim did not go to school this morning because he was sick. 
+1576|她的東西 (pron_n)|hers|That book belongs to Jane, so it is hers. 
+1577|倒退地 (adv)|backward|My mother looked backward to see what my little brother was doing. 
+1578|單身的 (adj)|single|To enjoy freedom, Linda leads a single life. 
+1579|香港 (n1)|Hong Kong|The best night scene in Hong Kong is at Victoria Harbour, so you should visit there someday. 
+1580|鎖 (n)|lock|My bike lock is so strong that it can’t be destroyed by a hammer. 
+1581|重擊 敲打 (v)|pound|The angry boy is pounding his table with a hammer. 
+1582|時鐘 (n)|clock|The clock is five minutes slow. 
+1583|看 注意 小心 手錶 (v)|watch|Don't spend too much time watching TV. 
+1584|文件 文獻 (n)|document|The patient swapped his document with others so he could see the nurse he liked. 
+1585|毯子 (n)|blanket|My dog sleeps on the blanket. 
+1586|小費 秘訣(竅門) 尖端 (n)|tip|Rich people are used to giving a tip to the waiter or waitress. 
+1587|和平的 (adj)|peaceful|You can sit down and settle the dispute in a peaceful way. 
+1588|任何的 (adj)|whatever|Whatever Ruth wears, she always look graceful. 
+1589|信件 (n)|letter|I seldom write letters to my friends because I use e-mail a lot. 
+1590|演說 演講 (n)|speech|The shy boy is afraid to make a speech in front of his classmates. 
+1591|月 (n)|month|There are 12 months in a year. 
+1592|懷疑 不相信 (n)|doubt|I don’t want to leave with any doubts, so I will ask you all the questions on my mind. 
+1593|合法的 法定的 (adj)|legal|The driver’s blood alcohol level greatly exceeded the legal limit. 
+1594|會痛的 (adj)|sore|I have a sore throat and I need to take a day off to see the doctor. 
+1595|嗜好 (n)|hobby|Collecting foreign coins is my hobby. 
+1596|貿易 交易 (n)|trade|Illegal trade was made between companies, but no one dared to say anything in public. 
+1597|證明 證實 結果為… (v)|prove|Sometimes the simplest things are the hardest to prove. 
+1598|目標 標靶 (n)|target|You only have one shot, so please aim at the target. 
+1599|廣場 正方形 (n)|square|The concert was held in the town square. 
+1600|救護車 (n)|ambulance|The injured person was taken to the nearest hospital by ambulance. 
+1601|每月的 按月的 (adj)|monthly|The cellphone bill is my biggest monthly expense. 
+1602|曲線 (n)|curve|Many girls exercise to maintain good body curves, so they look good in all kinds of clothes. 
+1603|壁櫃 內閣 (n)|cabinet|The little girl believes there is something hiding in her cabinet. 
+1604|信用卡 (np)|credit card|I bought an HTC Butterfly 2, and the store charged my credit card. 
+1605|缺點錯誤 過失 (n)|fault|Lisa’s only fault is that she can’t keep a secret. You’d better not tell her anything. 
+1606|前夕 (n)|eve|We will hold a party on Christmas eve. 
+1607|超重的 超載的 (adj)|over-weight|Ronny is over-weight! He looks like a fat hippo. 
+1608|足踝 (n)|ankle|Clare sprained her left ankle while she was running. 
+1609|遵守 跟隨 (v)|follow|Everyone should follow the traffic rules. 
+1610|東西 事物 (n)|thing|Today, I have many things to do. 
+1611|在...以後 (prep)|after|Let's go home after school. 
+1612|較少的 (adj)|less|John makes less money than I do. 
+1613|原諒 體諒 (n)|pardon|Troy asked my pardon for showing up at my door before calling me. 
+1614|是否 (wh)|whether|I have no idea whether or not Mr. Lin will help me this time. 
+1615|較晚 (adv)|later|I am sorry that I am busy now, can we talk about it later? 
+1616|宇宙 全世界 (n)|universe|So far we have not detected aliens in the universe, but I am sure they are somewhere. 
+1617|舉起 抬起 (v)|raise|Please raise your hand before you ask any questions. 
+1618|程式 節目 (n)|program|Which TV program do you love the best? 
+1619|吞下 嚥下 (v)|swallow|The frog swallowed ten flies and waited quietly for more. 
+1620|頭痛 (n)|headache|I have a headache. Give me a painkiller. 
+1621|巨大的 龐大的 (adj)|huge|The mudflow resulted in a huge rock blocking the road. 
+1622|成功的 (adj)|successful|To be a successful businessman, Edward works very hard. 
+1623|指揮(權) 領導能力 (n)|leadership|Ben lost his leadership in boy scouts because he couldn’t discipline himself. 
+1624|(研究)領域 (n2)|field|What fields of science are you most interested in, physics, chemistry, astronomy, or biology? 
+1625|服從 遵守 (v)|obey|Everyone should obey the traffic rules. It’s safer that way. 
+1626|它自己 (pron_R)|itself|Our cat hunts itself, looking for mice everywhere. 
+1627|遍及 到處 從頭到尾 (prep)|throughout|The anxious mother went looking for her son throughout the village. 
+1628|六月 (n)|June|My brother's birthday is June 18. 
+1629|某處 (adv)|somewhere|The purse must be somewhere in the house. 
+1630|追逐 追捕 (v)|chase|The policemen are chasing the robber. 
+1631|漁夫 (n)|fisherman|In order to make a living, fisherman go fishing at sea. 
+1632|海鮮 (n)|seafood|Sophie loves seafood, especially lobsters! She ate three whole lobsters at the restaurant last week. 
+1633|寵物 (n)|pet|Cats and dogs are our pets. They stay with us all the time. 
+1634|速率 速度 (n)|speed|Don’t drive too fast. You are supposed to drive under the speed limit. 
+1635|電扇 歌迷 粉絲 (n)|fan|It's hot. Please turn on the fan. 
+1636|事實上 (adv)|actually|Actually, health is as important as wealth. 
+1637|山 (n)|mountain|The top of the mountain is covered with snow. 
+1638|設計 構思 (v)|design|In my dream, I designed a computer that could be folded and put in my pocket. 
+1639|聰明的 (adj)|intelligent|Does talking to intelligent people make me smarter? 
+1640|四 (num)|four|Four plus one is five. 
+1641|命令 秩序 (n)|order|Don't question your order. Just carry it out. 
+1642|進口 (v)|import|Because Taiwan does not have many natural energy resources, we have to import coal and petroleum from other nations. 
+1643|襯衫 (n)|shirt|How much is the shirt? Is it cheap? 
+1644|追蹤 留下腳印 (v)|track|We need to track down the criminal before he commits another crime. 
+1645|美味可口的 (adj)|delicious|The sandwich is delicious. Take a bite and you will like it. 
+1646|百萬 (num)|million|Millions of people suffered a lot at war. 
+1647|供應 (n)|supply|Water supply in this part of country is unstable because it does not rain very frequently. 
+1648|餃子 (n)|dumpling|Keep your hands clean when making dumplings. 
+1649|油畫 繪畫 油漆 (n)|painting|Leonardo da Vinci painted Mona Lisa, which is a world-famous painting. 
+1650|腦 智力 (n)|brain|Peter tends to say whatever he wants without thinking with his brains first. 
+1651|拒絕 (v)|reject|Their strange idea was rejected, because it was not practical. 
+1652|頁 (n)|page|Turn to page 10, please. 
+1653|更多的 (adj)|more|We need more water to put out the fire. 
+1654|椅子 (n)|chair|Shirley sat on a chair, reading a letter. 
+1655|滾動 打滾 (v)|roll|Children roll eggs on Thanksgiving. 
+1656|座位 (n)|seat|The seat is not taken. You may take it. 
+1657|烘 烤 (v)|bake|Mrs. Chen baked a big cake to celebrate Mr. Chen's birthday. 
+1658|國外的 (adj)|overseas|The students raise money for the overseas earthquake victims. 
+1659|問題 (n)|problem|I'll offer you a solution to the problem. 
+1660|糖 (n)|sugar|You added too much sugar to the coffee. 
+1661|烘乾機 (n)|dryer|The dryer will dry clothes in ten minutes. 
+1662|勝利 贏得 (v)|win|The team is too weak to win the game. 
+1663|橡皮的 橡膠的 (adj)|rubber|The giant rubber duck has become so popular in this country, but I don't know why. 
+1664|主人 (n)|host|We had a very good time. You are really the best host. 
+1665|回答 答覆 (n)|answer|The answer is wrong. Try again! 
+1666|沙漠 (n)|desert|There is little water in the desert. 
+1667|拖(地) (v)|mop|Alice mops the floor every day. 
+1668|以…為目標 (v)|target|The bullies always target the small kids at school. 
+1669|收集 (v)|collect|Johnson finally collected his thirtieth stamp, which made him very excited. 
+1670|產品 產物 成果 (n)|product|Now that you have given us a presentation, can you show us your newest product? 
+1671|綠色的 (adj)|green|Year after year, the grass is still green. 
+1672|粉紅色的 (adj)|pink|Pink roses are very cheap, but white roses are not. 
+1673|花蓮 (n1)|Hualian|Hualian is famous for its magnificent coast line. 
+1674|跳過 躍過 (v)|hop|The rabbit hops fast. It's hard to catch. 
+1675|巧克力 (n)|chocolate|The chocolate in the shape of a heart sells well, especially on Valentine's Day. 
+1676|蟲子 (n)|bug|Bugs are very ugly. I don't like them. 
+1677|高的 (adj)|tall|How tall is Peter? 
+1678|無 (pron)|none|Isn’t it weird that none of Johnny’s friend came to his birthday party? He always says that he has many good friends. 
+1679|系統 (adj)|systematic|Our boss always carries out his plans in a systematic way. That’s why he is so successful. 
+1680|有霧的 (adj)|foggy|London is known for its foggy weather and the Big Ben. 
+1681|地點 (n)|spot|Sun Moon Lake is one of the beautiful spots in Taiwan. 
+1682|污染 (n)|pollution|The smoke released from the factories causes serious air pollution. 
+1683|保佑 祝福 (v)|bless|May God bless you, my dear friends. 
+1684|早午餐 (n)|brunch|Lacey and Joe are having a brunch at 10:30, so she won't eat lunch with us. 
+1685|牙刷 (n)|toothbrush|The dentist showed us the right way to use a toothbrush to brush teeth. 
+1686|可愛的 (adj)|cute|With a big smile, the baby is very cute. 
+1687|後面的 後半的 (adj)|latter|After closely studying the two projects, I decide to present the latter to my boss. 
+1688|記號 (n)|mark|Steven puts a mark on the book. 
+1689|黑暗的 (adj)|dark|It is dark at night. 
+1690|有苦味的 (adj)|bitter|Coffee without sugar tastes a little bitter. That’s why I like it. 
+1691|螃蟹 (n)|crab|My mom loves eating crabs despite their hard shells and pointy claws. 
+1692|圖表 (n)|chart|Please answer the following two questions according to the chart. 
+1693|末端 結束 (n)|end|A rope has two ends. 
+1694|工廠 (n)|factory|My father works at a factory in our town. 
+1695|重大的 不錯的 (adj)|great|What Peter says sounds great. 
+1696|漿糊 (n)|paste|You can stick the pictures together with paste. 
+1697|鐵路 (n)|railway|In England, "the railway station" means the train station. 
+1698|一餐 膳食 (n)|meal|We eat three meals in a day. 
+1699|餐巾 (n)|napkin|Pass me some napkins please. I got some ketchup on my chin. 
+1700|另一個 (adj)|another|I failed this time, so I must wait for another chance. 
+1701|植物的 疏菜的 (adj)|vegetable|Mr. Lin has a vegetable garden in his backyard. He grows tomatoes, lettuces and cabbage. 
+1702|治療(法) (n)|treatment|Mr. Wu accepted the terms to be tested with the new treatment. 
+1703|種族 (n2)|race|We shouldn't judge a person on grounds of race, sex or religion. 
+1704|刀子 (n)|knife|With the sharp knife, you can easily cut the carrot into pieces. 
+1705|點頭 (v)|nod|Don't stay up late, or you'll nod off in class. 
+1706|紅色的 (adj)|red|Apples are big, red, and juicy. 
+1707|感到興趣的 (adj)|interested|I am interested in science, not in Chinese. 
+1708|這個 (det)|this|This is a book about a boy and his donkey. 
+1709|教練 (n)|coach|The boys respect their coach and follow his orders without any complaints. 
+1710|幾乎 差不多 (adv)|nearly|The old man is nearly eighty years old. 
+1711|那裡 (adv)|there|Do you see the small house? Mr. Li lives there. 
+1712|浮出水面 浮現 出現 (v)|surface|The problem in this plan surfaced as they talked about budget. In fact, they didn’t have enough money. 
+1713|俄國 (n1)|Russia|Moscow Kremlin is a popular tourist destination in Russia. 
+1714|損失 (n)|loss|Jack’s wife passed away. The tragic loss makes him realize how precious life is. 
+1715|腳趾 (n)|toe|You have ten toes. 
+1716|生氣的 (adj)|angry|Dad is so angry with me that he doesn't want to talk to me. 
+1717|原料 材料 (n)|material|The materials used to build the log cabin are so expensive that the designer has to quit. 
+1718|鄉村 鄉下 (n1)|countryside|Living in the countryside allows Paul to appreciate the wonders of nature. 
+1719|爵士樂(舞) (n)|jazz|Besides jazz, I also like classical music. 
+1720|願意的 樂意的 (adj)|willing|Jessica is willing to do whatever it takes to succeed in her career. 
+1721|進步 (n)|progress|The nurse told the old lady that she was making great progress and would be able to leave the hospital soon. It was a white lie. 
+1722|倫敦 (n1)|London|There is a famous Ferris wheel in London called The London Eye. 
+1723|視野 風景 意見 (n)|view|In winter, we go to Mt. Ali to enjoy the snow views. 
+1724|科學家 (n)|scientist|Leonardo da Vinci is not only a scientist but also an artist. 
+1725|教師節 (n)|Teacher's Day|Mina sent a card to her teacher on Teacher's Day to show her gratitude. 
+1726|方向 指引 (n)|direction|Read the guidebook and follow the directions, and you can operate the machine. 
+1727|筆記 摘要 (n)|note|Taking notes in class is good for you. 
+1728|錯誤 差錯 (n)|error|There is an error in this program. It can’t run. 
+1729|蓋子 (n)|lid|Open the lid with a can opener. 
+1730|完成 (v)|complete|To complete the task on time, John works day and night. 
+1731|開始 (v)|begin|Summer vacation usually begins on July 1. 
+1732|球員 選手 (n)|player|The player next to the coach is my brother. 
+1733|鄰居 (n)|neighbor|Mr. Brown is my neighbor. We help each other. 
+1734|圖書館 (n)|library|My father went to the library to borrow books. 
+1735|歷史 (n)|history|It's history now. We should move on. 
+1736|提醒 使…想起 (v)|remind|This photo reminds me of those good old days. 
+1737|你們自己 (pron_R)|yourselves|Now, you have to save yourselves. 
+1738|金黃色的 (adj)|golden|Cinderella has golden hair, as bright as the sunlight. 
+1739|獨特的 唯一的 (adj)|unique|With its unique design and reasonable price, the new HTC cell phone attracts me a lot. 
+1740|電腦 (n)|computer|Computers are used to send e-mail, write homework, and surf the Internet. 
+1741|新聞界 新聞媒體 (n)|press|The CEO of the company decided to release the news that he would resign to the press. 
+1742|經理 (n)|manager|After working hard for many years, Bill finally becomes the manager of this company. 
+1743|聰明的 (adj)|clever|Robin always beats me at chess. He is clever at tricking my mind. 
+1744|信任 信賴 (v)|trust|You can fully trust me. I will do my best. 
+1745|求婚 提議 (v)|propose|Last weekend, Jerome proposed to his fiancee, and they are getting married in three months. 
+1746|丈夫 老公 (n)|husband|When Stephanie's husband left her for another woman, she was free again. 
+1747|白色的 (adj)|white|The girl in the white dress is my younger sister. 
+1748|練習 (v)|practice|We have to practice more. After all, practice makes perfect. 
+1749|浴缸 澡盆 (n)|tub|Mary baths her dog in a tub. 
+1750|巴黎 (n1)|Paris|Paris is the fashion capital of the world. 
+1751|發現 (v)|discover|A dead body was discovered in the lake, but it is still unidentified. 
+1752|商人 (n)|businessman|Being a successful businessman, Bill knows how to make and promote his products. 
+1753|嚴寒的 結冰的 (adj)|freezing|When the temperature drops below the freezing point, a layer of ice forms slowly on the lake's surface. 
+1754|臥室 (n)|bedroom|Kate has a wonderful bedroom, so she sleeps tight every night. 
+1755|戲劇 (n)|drama|Sally likes dramas, such as Romeo and Julia. 
+1756|敬重 尊敬 (n)|respect|Linda has no respect for her parents. She yells at them when they don’t buy what she wants. 
+1757|客廳 (np)|living room|I'm watching TV in the living room. 
+1758|想睡的 (adj)|sleepy|Sometimes, I really feel sleepy in class. 
+1759|長度 一段 (n)|length|What is the length of A-Mei’s newest music video? 
+1760|踢 (v)|kick|Joe is so mad that he keeps kicking the door. 
+1761|豆 (n)|bean|Most beans are green. 
+1762|見面 遇見 開會 (v)|meet|We must meet before Friday. 
+1763|台南 (n1)|Tainan|Tainan was once ruled by the Dutch in the 17th century. 
+1764|稻米 (n)|rice|Mom grows rice on the farm. 
+1765|日本 (n1)|Japan|Japan is one of the countries that lost Second World War. 
+1766|沙子 (n)|sand|On the beach, the kid used sand to build sandcastles. 
+1767|小羊 (n)|lamb|The lamb walked slowly toward us and we fed it with milk. 
+1768|外交官 (n)|diplomat|Eddie loves to interact with foreigners. He wants to become a diplomat in the future. 
+1769|幾個的 數個的 (adj)|several|Several students went to Classroom 301. 
+1770|排 列 (n)|row|I sit in the first row in the classroom. 
+1771|音量 容積 (n)|volume|The baby is sleeping. Could you please turn down the volume of the speaker? Actually, you’d better turn it off. 
+1772|需要 (v)|need|We need your help more than ever. 
+1773|塗上顏色 油漆 作畫 (v)|paint|Mr. Brown painted the fence white. 
+1774|六 (num)|six|There are six dogs in the box. 
+1775|化學物品 (n)|chemical|Toxic chemicals need to be kept safely and out of reach of students. 
+1776|不快樂的 (adj)|unhappy|Kevin looks unhappy today. Leave him alone. 
+1777|九 (num)|nine|Three times three is nine. 
+1778|叉子 (n)|fork|It's my job to put the forks and the knives neatly on the table. 
+1779|屬於 (v)|belong|The house belongs to Mr. Smith. 
+1780|放棄 退出 (v)|quit|With strong determination, I will never quit. 
+1781|改變 (v)|change|I won't change my mind. Say no more. 
+1782|計程車 (n)|taxi|I came out of the station and hailed a taxi. 
+1783|能力 (n)|ability|His ability to communicate with foreigners got himself hired in this company. 
+1784|確定地 (adv)|certainly|As your best friend, I will certainly help you out when you are in trouble. 
+1785|將軍 (n)|general|Faced with a strong army, the general ordered his troops to fight to the last man. 
+1786|大廳 (n)|hall|I will meet you in front of the city hall. 
+1787|海豚 (n)|dolphin|Dolphins are mammals living in the ocean. They are very friendly to humans. ` 
+1788|地理 地形 (n)|geography|The geography of this country is simple. It is located on a broad plain. 
+1789|菲律賓 (n1)|Philippines|Philippines is struck by strong typhoons every year, leaving many people homeless. 
+1790|抵達 達到 (v)|reach|When I reach Kaohsiung, my classmates will pick me up at the HSR station. 
+1791|適合 與...相稱 (v)|fit|Your shoes are too big. They don't fit you. 
+1792|法律 (n)|law|Speeding is against the law. 
+1793|震驚 打擊 電擊 休克 (n)|shock|Sylvia was so in such shock when she found out that her boyfriend is dating with her best friend. 
+1794|美國 (n)|America|Susan comes from New York, the United States of America. 
+1795|惡毒的 小氣的 (adj)|mean|How could you say such mean words to your young sister? Never ever call her an ugly frog again. 
+1796|綁住 (v)|tie|Kevin tied up ten books with string. 
+1797|說 講 (v)|say|Don't say goodbye! 
+1798|細目 項目 (n)|item|There are several items we can't find in Carrefour so we have to go to another mall. 
+1799|那些 (det)|those|Those cats are hungry. They are looking for mice. 
+1800|好運的 (adj)|lucky|I am so lucky to have won the singing contest. 
+1801|說謊 (v)|lie|Don't lie to me. Tell me the truth. 
+1802|吃 (v)|eat|Don't eat too much. Save some for me 
+1803|網球 (n)|tennis|Danny is a good tennis player. He's been playing tennis for over 5 years. 
+1804|分公司 樹枝 支流 (n)|branch|The department store has ten branches in Taiwan. 
+1805|裝飾 (v)|decorate|Christmas is coming. We can decorate the house together. 
+1806|範圍 幅度 射程 (n)|range|What is the shooting range of this rifle? 
+1807|地毯 (n)|carpet|My uncle’s living room is covered with a beautiful Persian carpet. 
+1808|優良的 上等品質的 (adj)|quality|Being wealthy does not guarantee a quality life. 
+1809|打電話 (v)|phone|I am driving right now, but I will phone you as soon as I get back home. 
+1810|船員 水手 (n)|sailor|In order to live, the sailors fought the storm at sea. 
+1811|選舉 推選 (v)|elect|Morris was elected as our class leader. 
+1812|自助餐館 (n)|cafeteria|The cafeteria offer drinks and soup for the customers. 
+1813|經常 (adv)|often|We often take a walk by the river. 
+1814|寬的 (adj)|wide|With eight lanes, the road is very wide. 
+1815|郵局 (np)|post office|My sister went to the post office to send four packages. 
+1816|現在的 出席的 (adj)|present|In PE class, every student was present. 
+1817|方便的 便利的 (adj)|convenient|I live near my school, so it's convenient for me to go to school on foot. 
+1818|伯父 叔叔 (n)|uncle|My uncle cooks when my aunt goes out. 
+1819|廣告 (n)|advertisement|NIKE puts up huge advertisements on newspapers and magazines to make the new sneakers known to everyone. 
+1820|怕羞的 (adj)|shy|Amy is a shy girl. She seldom talks to boys. 
+1821|植物 (n)|plant|There are many plants in my garden. 
+1822|僅有的 只是 (adv)|only|Now, we can only wait for him. 
+1823|打擊 襲擊 (v)|hit|Tom hits a ball with his new bat. 
+1824|腰部 (n)|waist|Did you put on more weight? Your waist is getting bigger! 
+1825|鐵 (n)|iron|Strike while the iron is hot. 
+1826|相簿 專輯 (n)|album|I like to browse Calvin's photo album on Facebook. He took many amazing pictures of common things. 
+1827|誠實的 (adj)|honest|You had better be honest when you are asked by the police. 
+1828|街道 (n)|block|Walk along two blocks and turn left. You will see City Bank. 
+1829|相信 (v)|believe|We believe that the girl is telling the truth. 
+1830|訪客 遊客 (n)|visitor|Jason, you have some visitors, would you like them to come in, or should I tell them to wait for a moment? 
+1831|根 (n)|root|The root of the tree was completely pulled out of the soil by the tornado. 
+1832|隨身聽 (n)|Walkman|Walkman is now replaced by cell phones, which look great and can store more songs. 
+1833|平底鍋 (n)|pan|Angela is frying fish in a pan. 
+1834|天資 才華 天才 (n)|genius|Beethoven had a genius for music. 
+1835|飢餓 (n)|hunger|The little baby cried aloud because of hunger. 
+1836|工程師 (n)|engineer|Uncle Henry is a computer engineer. He designs APPs for smart phones. 
+1837|可樂 (n)|cola|The cup of cola is too large for me to drink up. 
+1838|坐 (v)|sit|You have to sit at your desk in class. 
+1839|快速的 急促的 (adj)|rapid|The rapid changes of the world confuse me a lot. 
+1840|遠足 健行 (n)|hike|Mr. Wu goes on a hike with his family every two weeks. 
+1841|有禮貌的 (adj)|polite|Ivan is a polite man, and he always smiles at everyone. 
+1842|醫院 (n)|hospital|Laura works as a nurse in that big hospital. 
+1843|台中 (n1)|Taichung|Taichung is located in the central area of Taiwan. 
+1844|漢堡 (n)|hamburger|Hamburgers are for kids, not for you. 
+1845|作業簿 習作本 (n)|workbook|Our English teacher asked us to write page four in the workbook. 
+1846|囚犯 俘虜 (n)|prisoner|After the war was over, the general let all enemy soldier go instead of keeping them as prisoners of war. 
+1847|一百 (num)|hundred|The castle was built two hundred years ago. 
+1848|鵝 (n)|goose|There are five geese and three ducks swimming in the pond. 
+1849|電影院 (n)|theater|The theater is filled with people who want to see the latest movie. 
+1850|骨頭 (n)|bone|Sticks and stones may break my bones, but words will never hurt me. 
+1851|小販 攤販 (n)|vendor|There are many street vendors around the park, selling almost everything. 
+1852|消失 不見 (v)|disappear|Suddenly, the magician became a puff of smoke and disappeared in the air. 
+1853|房間 (n)|room|Nancy likes to watch TV in her room. 
+1854|手勢 (n)|gesture|The actor always speaks with gestures. 
+1855|熱的 (adj)|hot|The tea is very hot. You must wait! 
+1856|束 (n)|bundle|Mark gave Julia a bundle of red roses to show his love. 
+1857|準備好的 (adj)|ready|I've packed all the clothes, and I'm ready 
+1858|愛好 迷戀 (n)|fancy|Charles has fancy for a flight attendant. He hopes he can get her cell phone number. 
+1859|第六的 (num)|sixth|I'm a sixth grader. 
+1860|人們 (n)|people|There are many people at the MRT station. 
+1861|勸告 忠告 (v)|advise|Dr. Chen strongly advised Jason to drink less alcohol, but he never listens. ? 
+1862|舞蹈 (v)|dance|Let's dance, shall we? 
+1863|屋頂 車頂 (n)|roof|The dog is barking at the cat on the roof. 
+1864|非常地 (adv)|quite|It's quite a sunny day. Let's take a walk outside, shall we? 
+1865|頭 (n)|head|Bill hits me on the head. It really hurts. 
+1866|慷慨的 (adj)|generous|Sharon is very generous. She usually spends much money helping the poor children. 
+1867|星期五 (n)|Friday|Alvin had a serious car accident last Friday. 
+1868|觀眾 聽眾 (n)|audience|At the end of the performance, the audience cheered and clapped for 5 minutes non-stop. 
+1869|點燃 (v)|light|Light the torch, so we can see the way. 
+1870|十一月 (n)|November|I was born on November 12th in 2003. 
+1871|一點點 (adj)|little|I still have a little water. 
+1872|錢包 (n)|wallet|My wallet is gone. Someone might have stolen it last night. 
+1873|五十 (num)|fifty|Lisa buys fifty pencils as gifts for her students. 
+1874|導演 指導者 (n)|director|The director was so angry that he stormed out of the studio due to the actor's poor acting. 
+1875|老鼠 (n)|rat|The rat is on the mat. 
+1876|滑梯 (n)|slide|There is a giant slide in the park. 
+1877|河流 (n)|river|Slowly, the river is flowing through the small village. 
+1878|餐廳 (np)|dining room|We are eating dinner in the dining room. 
+1879|蛋 (n)|egg|Mom cooks two eggs for me every day. 
+1880|雜誌 (n)|magazine|There is a lot of gossip in the magazine. It’s not worth reading. 
+1881|泳裝 (n)|swimsuit|As soon as we reached the beach, the kids couldn’t wait to put on their swimsuits and jump into the sea. 
+1882|傍晚 (n)|evening|I walk my dog at the park in the evening. 
+1883|政策 方針 (n)|policy|If the government does not enforce this policy, the citizens will come out and strike. 
+1884|乾淨的(無污染的) (adj)|clean|The world is still looking for more options of clean energy to ease global warming. 
+1885|為…服務 (v)|serve|The new waitress serves the customers very well. Her boss is very pleased. 
+1886|公斤 (n)|kilogram|Jason's backpack is as heavy as thirty kilograms. 
+1887|皮膚 (n)|skin|Beauty is only skin deep. 
+1888|來源 出處 (n)|source|According to a reliable source, Prof. Li will resign in three days. 
+1889|會議 集會 (n)|meeting|Our homeroom teacher is in a meeting. You have to wait. 
+1890|保護 防護 (v)|protect|To protect the screen of your cellphone from scratches, you’d better put a plastic sheet on it. 
+1891|前面的 正面的 (adj)|front|Our neighbor is making tea under the big tree in her front yard. 
+1892|物品 物體 目標 (n)|object|UFO means unidentified flying object. 
+1893|過去的 以前的 (adj)|past|Leo's past job was a cook. 
+1894|飛機 (n)|airplane|The airplane will land in three minutes. Please fasten your seatbelt. 
+1895|生物學 (n)|biology|Mary majors in biology because she likes to study animals and plants. 
+1896|散佈 傳播 (v)|spread|Kelly loves spreading rumors and gossip about people. I was a victim once, too! 
+1897|到國外 (adv)|abroad|Mary plans to go abroad in July of 2019. 
+1898|二月 (n)|February|Valentine's Day falls on February 14. 
+1899|一代 世代 (n)|generation|Our generation can enjoy the convenience brought by technology and transportation. 
+1900|小聲的 低的 (adj)|low|Please talk in a low voice. 
+1901|下巴 (n)|chin|Kevin’s chin hit the table when he fell. 
+1902|自然科學 (n)|science|I like science class better than social studies. 
+1903|權利 (n)|right|In the past, women have no right to vote. 
+1904|科目 主題 (n)|subject|Math is the subject that I like best. 
+1905|等級 規模 (n)|scale|On a scale from 1 to 10, how pretty do you think Abby is? 
+1906|標題 書名 頭銜 (n)|title|The title of the book is Twilight. 
+1907|水池 池塘 (n)|pool|Frogs live in the pool. 
+1908|沙發 (n)|sofa|My dog likes to sleep on the sofa. 
+1909|天橋 (n)|overpass|This new overpass really cuts the time it takes to go across the street! I don’t have to wait for the green light any more. 
+1910|分開 隔開 分居(手) (v)|separate|I need your help to separate these files into three piles before lunch break. 
+1911|抬起 舉起 (v)|lift|Please lift the box down from the shelf. 
+1912|黑板 (n)|blackboard|I write my name in chalk on the blackboard. 
+1913|罪 罪行 (n)|crime|The man committed several serious crimes, such as arson, rape, robbery and murder. Now, he is on the run. 
+1914|然而 但是 (adv)|however|Writing is not easy. However, I never change my mind to be a writer. 
+1915|離開 (adv)|away|The man is far away from home. 
+1916|向下 (adv)|down|Write down my cell phone number, so you can call me anytime. 
+1917|車庫 (n)|garage|The Smith family bought a new house with a big garage. 
+1918|藥局 (n)|drugstore|Mom asked me to go to the drugstore to buy some painkillers. 
+1919|自己(反身代名詞) (pron_r)|oneself|Jennifer enjoys looking at herself in the mirror. 
+1920|新聞記者 (n)|journalist|The journalist from CNN was allowed to ask the first question. 
+1921|照相機 (n)|camera|I bought a new digital camera at a very low price. 
+1922|煙霧 (n)|smoke|There is some smoke in the kitchen. What happened? 
+1923|例子 (n)|example|This is a good example, which helps us understand. 
+1924|蘇打 (n)|soda|Drinking soda is not good for our health. 
+1925|意志 (n)|will|With strong will, Tom will get well soon. 
+1926|事件 (n)|event|From the above events, all of us learn that following traffic rules is very important. 
+1927|進步 進展 (v)|advance|Technology advances in a faster pace now than a decade before. 
+1928|出口 通道 (n)|exit|We left the gym from the nearest exit. 
+1929|發明 (v)|invent|If you can’t think creatively, you won’t be able to invent anything. 
+1930|貯存 (v)|store|The ants store food for winter 
+1931|穿著 戴著 (v)|wear|John is wearing a jacket. He is so cool. 
+1932|過去 (n)|past|In the past, women had no right to vote. 
+1933|連接 (v)|link|My computer isn’t linked to the Internet yet. Can I check email on your computer? 
+1934|樓梯 (n)|stair|Mary does not like to take the stairs, so she takes the elevator. 
+1935|詩 (n)|poem|The poet showed talent for writing poems at the age of ten. 
+1936|每日的 (adj)|daily|It is Bill’s daily routine to get online every night before he goes to bed. 
+1937|早的 (adj)|early|We have to get up early tomorrow. 
+1938|有空的 可得到的 (adj)|available|This dress isn’t available in your size now, would you like to order it? 
+1939|家鄉的 國內的 (adj)|home|I miss home cooking when I'm abroad. 
+1940|也(不) (adv)|either|You don't like the cover of the book. I don't like it, either. 
+1941|星期三 (n)|Wednesday|Andy went to Tainan last Wednesday. 
+1942|中國人民共和國 (n)|China|The Great Wall lies in China . 
+1943|卡式磁帶 (n)|cassette|The cassettes are now replaced by DVDs, which last longer and take less space. 
+1944|把...藏起來 (v)|hide|Helen hides herself in an empty house. 
+1945|王國 (n)|kingdom|A king is the ruler of a kingdom. 
+1946|橘色的 (adj)|orange|They have the weirdest taste of color. They painted their ceiling orange and floor blue! 
+1947|團隊 (n)|team|Your team is too weak to win. 
+1948|醋 (n)|vinegar|The cook added some vinegar to the chicken soup to make it taste sour. 
+1949|掙扎 努力 奮鬥 搏鬥 (v)|struggle|In order to get the cocaine, the drug addict is struggling to sit up from bed and walk to the bathroom on his own. 
+1950|讓 (v)|let|I can't help you. Let me go. 
+1951|關節 (n)|joint|Jogging on a flat road is better for our knee joints. 
+1952|自然的 天生的 (adj)|natural|Judy is a natural beauty. She still looks beautiful without makeup. 
+1953|回收 (v)|recycle|We should recycle all the paper to save the forests. 
+1954|玉米 (n)|corn|When I go to that steakhouse, I always order corn chowder. 
+1955|使…困惑 (v)|puzzle|AIDS has puzzled the doctors all over the world for decades. So far, there is still no cure for the deadly disease. 
+1956|五月 (n)|May|Mother's day falls on the second Sunday of May. 
+1957|知道 (v)|know|I don't know what time it is. 
+1958|注意聽 (v)|listen|I like to listen to classical music. 
+1959|說溜嘴 (v3)|slip|The gossip slipped out of David’s mouth when he was at the party. 
+1960|遲到的 (adj)|late|Jack is late for school. Do you know why? 
+1961|桃子 (n)|peach|Peaches and apples are both fruits. 
+1962|頂部 頭頂 陀螺 (n)|top|Look at my top. It spins very fast. 
+1963|他們自己 (pron_R)|themselves|God helps those who help themselves. 
+1964|兩次 兩回 (adv)|twice|You must study twice before the test. 
+1965|抓住 趕上 (v)|catch|Hurry up! You have a plane to catch. 
+1966|大的 (adj)|big|Your hat is too big. I can't see your eyes. 
+1967|會話 談話 (n)|conversation|Did the teachers mention about how to punish me in their conversation? 
+1968|前面的 (adj)|forward|When you are driving, please keep your eyes on the forward view. 
+1969|直排輪 (n)|roller-blades|I had a pair of roller-blades when I was a kid. 
+1970|贊成 支持 (n2)|favor|The senators are in favor of government's new policy to increase income tax. 
+1971|圍巾 (n)|scarf|The scarf was a birthday present for Mary. 
+1972|形成 塑造 (v)|form|When spring is in the air, the trees will form. 
+1973|回答 回覆 (n)|reply|I lost my patience waiting for your reply. Tell me now. Do you or do you not love me? 
+1974|感恩節 (n)|Thanksgiving|Thanksgiving is a holiday to express your thanks to your family. 
+1975|週末 (n)|weekend|On the weekend, there are many kids playing in the park. 
+1976|貪婪的 (adj)|greedy|Don’t be so greedy. Be satisfied with what we have. 
+1977|籃球 (n)|basketball|We like to play basketball a lot. 
+1978|烹調 (v)|cook|Mom cooks dinner for us every day. 
+1979|最小的 (adj)|least|John has done so much for you. At least, you should help him this time. 
+1980|再見 (inter)|goodbye|Goodbye, my friends! I will miss you. 
+1981|危機 緊要關頭 (n)|crisis|The economic crisis several years ago greatly jeopardized Russia, and it has not been able to recover from it. 
+1982|功課 課業 (n)|lesson|Lesson 2 is a story about love. 
+1983|打擊 敲打 (v)|beat|The killer was caught and beaten with sticks by the angry people. 
+1984|飛盤　 (n)|Frisbee|The boy likes to throw a Frisbee for his dog to catch. 
+1985|著名的 (adj)|famous|The town is famous for its beautiful lake. 
+1986|對…做簡報 (v)|brief|Before your final presentation, would you like to brief us first? 
+1987|平坦的 洩了氣的 (adj)|flat|The earth was once thought to be flat, until Nicolaus Copernicus proved it wrong in 1542. 
+1988|主席 董事長 (n)|chairman|At a meeting, the chairman asked Tom to leave because he was so impolite. 
+1989|中部的 中間的 (adj)|middle|There once was a beautiful fountain in the middle of the park. 
+1990|要素 成分 (n)|element|Being respectful and well-rounded are the key elements of my success. 
+1991|奇怪的 (adj)|strange|It is strange to me that the panda is eating bananas. 
+1992|租 (v)|rent|I need to rent a house near my school. 
+1993|音樂家 作曲家 (n)|musician|Beethoven was a very famous musician. The music he composed comforts our hearts. 
+1994|南方 (n)|south|Kenting lies in the south of Taiwan. 
+1995|炸薯條 (np)|French fries|My brother likes to eat French fries when he goes to a movie. 
+1996|調查 研究 (v)|investigate|The case will be investigated again as the suspect is proven innocent. 
+1997|一部份 (n)|part|There are three parts in the story. 
+1998|確定的 可靠的 (adj)|certain|Dennis is certain that Kevin will be on his side. After all, they are best friends of twenty years. 
+1999|許多的 (adj)|much|Don't talk too much. 
+2000|鋼琴 (n)|piano|The melody of the piano remains in my heart. 
+2001|感覺 感受 (n)|feeling|Susan doesn’t show her feelings to others. She always keeps silent. 
+2002|星期一 (n)|Monday|Cindy came back from America last Monday. 
+2003|這些 (det)|these|These shirts are new. They come in different sizes. 
+2004|兩者任一的 (adj)|either|Could either of you take out the trash? 
+2005|忽略 (v)|ignore|Rachel tried to reach Nick by calling him, but he ignored her calls. He is definitely still mad at her. 
+2006|疼痛的 引起痛苦的 (adj)|painful|My stomach is so painful that I have to see the doctor at once. 
+2007|更進一步的 另外的 (adj1)|further|After the brief, you can call us at 0937671335 for further information. 
+2008|以…為範圍 延伸 (v)|range|The ages of the students in this class range from 18 to 35. 
+2009|螢幕 (n)|screen|To save the power, remember to turn off the computer screen. 
+2010|清洗 (v)|wash|It's your turn to wash the dishes today. 
+2011|緊張的 (adj)|nervous|Alice got really nervous when her boyfriend introduced her to his family. 
+2012|關於 (prep)|about|Tell me something about your new friends. 
+2013|簡單的 (adj)|simple|It's simple to copy other's idea, but it's illegal. 
+2014|輔助的 (adj)|assistant|No one likes our assistant coach because all he does is yell at us. 
+2015|樓下的 (adj)|downstairs|Our downstairs neighbor makes a lot of noise at night. 
+2016|韓國的 韓國人 韓語 (n1)|Korean|Kimchi and Korean BBQ are popular even in western societies now. 
+2017|中等的 中間的 (adj)|medium|Please give me a medium-sized pineapple. 
+2018|初學者 (n)|beginner|When I first began learning English, I took a basic course for beginners. 
+2019|人口 (n)|population|The population of Taipei grows fast. 
+2020|樓下 (adv)|downstairs|Dad is fixing the table downstairs in the basement. 
+2021|雪人 (n)|snowman|The White family made a snowman in front of their house. 
+2022|數量 (n)|amount|I spent a large amount of money on the house. 
+2023|數學 (n)|math|Debby is good at numbers, so she always gets good grades on math tests. 
+2024|復活節 (n)|Easter|Easter is a school holiday in America. 
+2025|小貓 (n)|kitten|The female cat gave birth to five kittens. 
+2026|教 (v)|teach|Mom teaches us how to tell right from wrong. 
+2027|地圖 (n)|map|I can't find the way on the map. 
+2028|菜單 (n)|menu|What's on the menu for dinner tonight ? 
+2029|香蕉 (n)|banana|Monkeys like to eat bananas, don't they? 
+2030|太陽 (n)|sun|The sun rises in the east. 
+2031|禮物 (n)|gift|This nice watch was a gift from my mom. 
+2032|德國的 德國人 德語 (n1)|German|German cars such as Audi, BMW, and Volkswagen sell well around the world. 
+2033|快速地 (adv)|fast|Do not run too fast. I cannot follow you. 
+2034|郵件 (n)|mail|If you want to send mail, you have to go to the post office. 
+2035|好吃的 (adj)|yummy|The red and juicy apple looks yummy. 
+2036|理解 (v)|understand|If you don't understand, please raise your hand and feel free to ask any questions. 
+2037|明信片 (n)|postcard|On my trip to Korea, I sent my family postcards from Seoul. 
+2038|第五的 (adj)|fifth|It’s the fifth schoolbag of his son. His son has five schoolbags. 
+2039|花 (n)|flower|Alan gave me some flowers he grew in the garden. 
+2040|在…之上 (prep)|over|There are clouds over the hill. 
+2041|供應 供給 提供 (v)|supply|Andrew's parents told him that they won’t supply him with anything once he graduates from college. He will be on his own. 
+2042|清楚的 (adj)|clear|What Robin said was very clear. We understood every step. 
+2043|活力 能源 (n)|energy|Those teenagers still have so much energy after playing basketball for 4 hours in the sun. 
+2044|衣物櫃 置物櫃 (n)|locker|When Derek opened his locker, a letter slipped out. He had a secret admirer. 
+2045|命令 (n)|command|The soldiers received the command to blow up a bridge at any costs. 
+2046|銀器 銀幣 (n)|silver|This ring is not made of pure silver; it's just coated with silver. 
+2047|第三的 (num)|third|March is the third month of the year. 
+2048|健康的 安好的 (adj)|well|I didn't feel well, so I took a day off. 
+2049|個人的 私人的 (adj)|private|Those books are for my private use. 
+2050|前面 正面 (n)|front|A stranger is standing in front of my house, which makes me nervous. 
+2051|活著的 (adj)|alive|After the air crash, Fred was still alive. He survived the accident. 
+2052|象徵 標誌 (n)|symbol|Red roses are a symbol of love, while doves symbolize peace. 
+2053|憤怒 (n)|anger|The woman shouted at her son in anger because he stole money again. 
+2054|流行的 受歡迎的 (adj)|popular|AKB48 is the most popular team in Japan. 
+2055|把...掛起 (v)|hang|Hang your wet socks outside. They smell. 
+2056|可怕的 嚇人的 (adj)|terrible|Typhoons often bring terrible winds and heavy rain. 
+2057|在外 向外 (adv)|out|It's late. Don't go out. 
+2058|穿過 透過 (prep)|through|The cat jumped through the window. 
+2059|債務 債款 (n)|debt|In order to pay off his debt sooner, Joe takes another part-time job. 
+2060|受傷 (v)|hurt|Be careful! Don't hurt yourself while using the knife. 
+2061|支撐 支持 (v)|support|I will support you whatever you do. 
+2062|改善 提高 (v)|improve|To improve my English, I listen to English programs on the radio every morning. 
+2063|西邊的 (adj)|west|The west side of the city is not safe at night. 
+2064|長輩 (n)|elder|We should learn to respect the elders. 
+2065|欠缺 不足 缺少 沒有 (n)|lack|Roses in the garden died for lack of water. 
+2066|北方 (n)|north|This is the bus going north. Don't take the wrong one. 
+2067|抉擇 (n)|choice|Life lies in the choices you make. 
+2068|瓶子 (n)|bottle|There are still three bottles of milk on the table. 
+2069|以為 假定為 (v)|assume|Since you didn’t pick up the phone, I assumed that you were still busy. 
+2070|警報 (n)|alarm|As soon as the fire alarm went off, the firefighters were on their way to put out the fire. 
+2071|一半 (n)|half|Only half of the students passed the test. 
+2072|記得 想起 (v)|remember|Remember to call your mom and ask her to pick you up after school. 
+2073|船 (n)|boat|We need a boat to enjoy the lake. 
+2074|體貼的 (adj)|considerate|John is so considerate that he brings his mother a glass of water whenever she comes back home. 
+2075|牢房 細胞 (n)|cell|The suspect of murder is identified by a witness and is put in a cell. 
+2076|殘忍的 (adj)|cruel|If you can’t be cruel to Helen, let me tell her the truth. I don’t really care how she feels. 
+2077|讓…覺得不好意思 (v)|embarrass|When the boy found that he wore two socks of different colors, his face turned red and he felt very embarrassed. 
+2078|桶子 (n)|bucket|Do you see the bucket on the hook? Go get it. I am about to milk the cow. 
+2079|混和 攙和 (v)|mix|If you mix red and white, you will see pink. 
+2080|汽油 (n)|gasoline|The gas tank is almost empty. I need to get some gasoline before we hit the road. 
+2081|停車 (v)|park|Don't park your car here. 
+2082|開始 (n)|beginning|In the beginning, Susan believed everything David told her. However, gradually, she understood David was nothing but a liar. 
+2083|空間 (n)|space|Can you leave some space for my bike? 
+2084|正方形的 (adj)|square|Alice likes the square tiles more than the triangular ones. 
+2085|肥皂 (n)|soap|Be sure to wash your hands with soap before you eat. 
+2086|較喜歡 寧願 (v)|prefer|On weekends, Michael prefers hiking on the hill to watching TV at home. 
+2087|他們的 (pron)|their|Our house is small, but their house is big. 
+2088|裙子 襯裙 (n)|skirt|Cindy likes to wear a skirt. 
+2089|城市 (n)|city|Taipei is a big city with many wide roads. 
+2090|重量 (n)|weight|Some girls stop eating to control weight. 
+2091|皇家 王室 (n)|royal|The British are excited to see the royals, and they all put on the best clothes they have to impress them. 
+2092|最後 終於 (adv)|finally|After working 3 days, Nick finally finished writing his report. 
+2093|秋天 (n)|fall|We pick up maple leaves in fall. 
+2094|聯合的 共同的 (adj)|joint|The joint performance by Novak and Roger got the crowd very excited. 
+2095|全體的 所有的 (adj)|whole|Helen spent the whole day reading a novel. 
+2096|在...的後面 (prep)|behind|The bike is right behind the tree. 
+2097|和...一起 (prep)|with|I will go to school with you. 
+2098|雪 (n)|snow|A little girl was lying in the snow, with matches in her hands. 
+2099|戒指 (n)|ring|The ring Judy is wearing looks very nice. 
+2100|未來 將來 (n)|future|It's difficult to decide what I want to be in the future. 
+2101|精神 (n)|spirit|Show me some spirits, boys! We are going camping trip tomorrow! Aren’t you excited? 
+2102|健康的 (adj)|healthy|David leads a healthy life. He seldom gets sick. 
+2103|完美的 理想的 (adj)|perfect|What Randy did was so perfect that we couldn’t find any faults. 
+2104|嚴重的 (adj)|serious|Armed robbery is a serious crime. 
+2105|晚餐 (n)|supper|What are we going to eat for supper? 
+2106|恩惠 幫忙 (n1)|favor|Frank did me a favor by picking me up at the airport and drove me home. 
+2107|困難 艱難 (n)|difficulty|If you have difficulty studying English, I am willing to help you. 
+2108|火柴 (n)|match|When it snowed, the poor little girl lit matches to get warm. 
+2109|低熱量的 (adj)|diet|I don't like diet coke. It just doesn't taste right. 
+2110|蜘蛛 (n)|spider|There is a spider spinning a web on the wall. 
+2111|靈魂 (n)|soul|Grandma is dead, but I firmly believe that her soul is in heaven. 
+2112|十一 (num)|eleven|7-ELEVEN is everywhere in Taiwan. 
+2113|幽默感 (n)|humor|What Kyle says is full of humor, so we laugh. 
+2114|九十 (num)|ninety|Forty plus fifty is ninety. 
+2115|地方 (n)|place|The child had no place to live in. 
+2116|船艦 (n)|ship|Ryan went to the Penghu by ship last year. 
+2117|可以 可能 (aux)|may|May I leave now? 
+2118|關鍵的 (adj)|key|Jeremy Lin is the key player on his team. 
+2119|軍事的 軍人的 (adj)|military|Military service in Taiwan has been shortened from 2 years to 1 year. 
+2120|認為 視為 (v)|view|The general viewed this action as a threat from his enemy. 
+2121|發現 (v)|find|They can't find their way home. They are lost. 
+2122|眼睛 (n)|eye|Kelly has beautiful big eyes. 
+2123|物理學 (n)|physics|I learn physics in the kitchen. For example, a layer of oil floats on my mom's chicken soup because of the difference in density. 
+2124|熊貓 (n)|panda|The pandas at the zoo have enough bamboo leaves to eat. 
+2125|加入 連結 (v)|join|Join us, the golf club, and you won't regret. 
+2126|部門 科系 (n)|department|Alison went to the English department to discuss with Prof. Porter about her report. 
+2127|目的 目標 (n)|goal|Many young people don’t know what their goals are, so they just fool around all day and waste their time. 
+2128|老師 (n)|teacher|Teachers are supposed to teach students how to tell right from wrong. 
+2129|短的 (adj)|short|I am tall, but my sister is short. 
+2130|棉花 (n)|cotton|All clothes in the store are made of cotton. 
+2131|期望 (v)|expect|Parents expect their children to study hard and have bright future. 
+2132|但是 (conj)|but|Joe's dad is tall, but Joe is short. 
+2133|行銷 上市 (v)|market|If you expect your new product to sell well, you should market it well. 
+2134|蘋果 (n)|apple|An apple a day keeps the doctor away. 
+2135|南方的 (adj)|south|Please leave from the south exit at once. 
+2136|痕跡 (n)|trace|Why were some criminals so stupid? They left obvious traces, such as footprints and cell phones on the crime scenes. 
+2137|紳士 (n)|gentleman|William is such a perfect gentleman that many ladies admire him. 
+2138|逮捕 拘捕 (v)|arrest|The police finally arrested the bank robbers after a long chase. 
+2139|胡椒 (n)|pepper|Please add some pepper to the soup. 
+2140|安心 輕鬆 (n)|ease|The old woman leads a life of ease, because she is very satisfied with what she has. 
+2141|葉子 (n)|leaf|The leaves fall to the ground in autumn. 
+2142|幾乎 差不多 (adv)|almost|They have almost solved all the problems. 
+2143|可怕的 恐怖的 (adj)|horrible|I’m afraid to see horrible movies, especially the bloody ones. 
+2144|一分 (n)|cent|The bread only costs me fifty cents. 
+2145|感到無聊的 (adj)|bored|Kate was bored with the long and hard class. So, she took out her cellphone and played. 
+2146|第九的 (num)|ninth|Only my ninth girlfriend loves me. The other eight girls hate me. 
+2147|衝突 (v)|conflict|Our experimental result conflicts with yours, which is correct? 
+2148|安全 平安 (n)|safety|For your safety, please fasten your seatbelt until the airplane comes to a complete stop. 
+2149|番茄醬 (n)|ketchup|The red sauce on the hamburger is ketchup, which tastes sour and sweet. 
+2150|液體 (n)|liquid|When the temperature is zero degree Celsius, water is no longer a liquid. It becomes ice. 
+2151|承諾 保證 (n)|promise|Dad made a promise to buy a robot for me. 
+2152|森林 (n)|forest|In summer, there are forest fires in the area. 
+2153|重複 重做 (v)|repeat|Don't repeat the same mistake. 
+2154|愉快的 (adj)|happy|I was so happy on my tenth birthday. 
+2155|傘 (n)|umbrella|Don't forget to bring an umbrella with you. It might rain. 
+2156|顯示 露出 (v)|show|The picture shows that we were happy last year. 
+2157|條(麵包) (n)|loaf|There are two loaves of bread in the bag. 
+2158|大量 大眾 (n)|mass|Masses of files were piled up on my desk when I came into the office this morning. 
+2159|每月地 按月地 (adv)|monthly|The housekeeper gets only 2 days off monthly. 
+2160|天使 (n)|angel|The baby is cute, like a sweet angel. 
+2161|電影 (n)|movie|This movie Seediq Bale is worth seeing. 
+2162|前進 轉寄 (adv)|forward|As soon as Mary entered the classroom, Jason went forward to greet her. 
+2163|往樓上 (adv)|upstairs|As the door bell rang, Sue ran upstairs and hid. She didn't want to see her boyfriend. 
+2164|癌症 惡性腫瘤 (n)|cancer|Scientists have been finding a way to cure cancer. 
+2165|鬍鬚 (n)|beard|The old man has a big beard that almost covers his whole face. I can only see his eyes and nose. 
+2166|使用者 (n)|user|The janitor reminded the computer users to log off after they are done using it. 
+2167|大部份的 (adj)|most|Most kids enjoy watching TV. 
+2168|辯論 爭論 討論 (n)|debate|I will never want to be in a debate with Julia. She is always sharp-tongued and she thinks fast. She is as good as a lawyer. 
+2169|中心 中央 (n)|center|Puli is in the center of Taiwan. 
+2170|母親 (n)|mother|My mother has taken care of me since I was born. 
+2171|年長的 資深的 (adj)|senior|On the bus, you should give your seat to senior citizens. 
+2172|影響 對...發生作用 (v)|affect|TV advertisements 
+2173|手 (n)|hand|Wash your hands before you eat. 
+2174|秒 (n)|second|Hannah took thirty seconds to eat the cake. 
+2175|女性的 雌性的 (adj)|female|Some female models eat very little to remain slim. That’s what it takes to be a beauty. 
+2176|警察 (n)|policeman|Policemen are supposed to maintain law and order in our society. 
+2177|解決(方法) 解答 (n)|solution|There is no solution to our crisis, if we don’t hire an expert to help us out. 
+2178|租金 房租 (n)|rent|How much is the rent for the house? 
+2179|婚禮 (n)|wedding|Claudia hopes to have a wonderful wedding and lives with Daniel happily ever after. 
+2180|靜止的 (adj)|still|Stand still. Don’t move. 
+2181|草莓 (n)|strawberry|My sister likes to eat strawberries because they are soft, juicy and easy to swallow. 
+2182|頑皮的 (adj)|naughty|The naughty girl poured water all over her brother and laughed aloud. 
+2183|通常的 平常 (adj)|ordinary|You can’t wear ordinary clothes, such as T-shirt and shorts, for the formal party. 
+2184|點鐘 (adv)|o'clock|We go to school at six o'clock every morning. 
+2185|意見 主張 (n)|opinion|In my opinion, I think it is a good idea to listen to what Mr. Lin says. He is an expert. 
+2186|點餐 命令 (v)|order|I would like to order a hot cup of coffee. 
+2187|為…乾杯 (V)|toast|Let's toast the victory of our team. 
+2188|重要的 (adj)|important|For the players, the game was too important to lose. 
+2189|果汁 (n)|juice|Tomato juice tastes sweet. 
+2190|擔心 發愁 (v)|worry|Don't worry about your friends. You don't have any. 
+2191|栽種 (v)|plant|My father plants some flowers in the backyard. 
+2192|紐約 (n1)|New York|Wall Street in New York is the center of economy in the world. 
+2193|羽毛球 (n)|badminton|I think badminton is easier to learn than tennis. 
+2194|笑 嘲笑 (v)|laugh|Why are you laughing? I have done something wrong again, haven't I? 
+2195|學校 (n)|school|I always go to school on foot. 
+2196|環境 (n)|environment|Much garbage is polluting our environment. 
+2197|物主 所有人 (n)|owner|As the owner of the clothing shop, Becky tries her best to memorize her customers’ names and taste, so they will come again. 
+2198|女兒 (n)|daughter|Mrs. Wu has two daughters and a son. 
+2199|小徑 小路 (n)|path|There is a beautiful bike path along Love River in Kaohsiung. 
+2200|睡著的 (adj)|asleep|Lily was so tired that she fell asleep on the sofa. 
+2201|以下的 (adj)|following|The following example shows how to solve this math problem. 
+2202|大叫 (v)|yell|Yelling at others for no reason is impolite. 
+2203|比賽 (n)|race|The girl with long hair will win the race. She is running so fast. 
+2204|小圓麵包 (n)|bun|The bun is as small as a coin. 
+2205|實話 事實 實情 (n)|truth|Many people don't like to know the truth because they can’t bear it. 
+2206|牛仔 (n)|cowboy|The cowboy in the western film wears a big hat and rides his horse around to fight the bad guys. 
+2207|除...之外 (prep)|except|Everyone except me went to the zoo. 
+2208|考試 (n)|exam|The final exam will be held next Tuesday. 
+2209|天氣 (n)|weather|My father watches the weather report on TV every day. 
+2210|功能 機能 (n)|function|Cellphones nowadays have more functions than the ones in the past. 
+2211|記者 (n)|reporter|The reporter from New York Time was allowed to enter the crime scene to take pictures. 
+2212|(書籍)篇 章 (n)|chapter|The English teacher said that she will start Chapter III of the story tomorrow. 
+2213|沈默的 (adj)|silent|The man at the door is always silent. 
+2214|說話 講話 (v)|speak|Would you please speak more loudly? 
+2215|完全 全部 (adv)|altogether|Maria will take care of our dinner altogether. Come by our house tonight! 
+2216|自私的 (adj)|selfish|Be generous to others. Don’t be so selfish. 
+2217|高中 (np)|senior high school|There are over 600 senior high schools in Taiwan. 
+2218|考慮 細想 (v)|consider|Considering you are my best friend, I will do this for you as a favor. 
+2219|氣球 (n)|balloon|Max likes to pop his sister’s balloons with a pin to make her cry. 
+2220|颱風 (n)|typhoon|Typhoons hit Taiwan almost every year. 
+2221|問候 打招呼 (v)|greet|The host greeted his guests, with a big smile on his face. 
+2222|魔術師 (n)|magician|Children believe the magicians really have magic powers to make things disappear. 
+2223|法國 (n1)|France|France is considered to be the most romantic place in the world. 
+2224|聲音 (n)|sound|At midnight, there is no sound. 
+2225|制服 (n)|uniform|We have to wear uniforms on Thursday. 
+2226|注意到 告知 (v)|notice|Did you notice that Larry was sad yesterday? 
+2227|機器人 (n)|robot|Your robot is cool. It can talk. 
+2228|化學的 (adj)|chemical|Students are required to wear goggles while observing chemical reactions in a beaker. 
+2229|打電話 (v)|call|I'll call you again later. 
+2230|帽子 (n)|hat|The man in the hat is Ted. 
+2231|公主 (n)|princess|The princess was the only child of the king. 
+2232|動物 (n)|animal|The lions are meat-eating animals. When they are hungry, they hunt. 
+2233|決定 決心 (n)|decision|At the age 18, Robin Williams made a decision to become an actor. 
+2234|外國人 (n)|foreigner|A lot of foreigners think shopping at night markets in Taiwan is interesting. 
+2235|牛肉 (n)|beef|My friends from India don't eat beef. 
+2236|睡衣褲 恆為複數 (n)|pajamas|Before going to bed, the children put on their pajamas and brushed their teeth. 
+2237|亦不用於否定 (conj)|nor|Jane is not tall, nor am I. 
+2238|穿著講究者 梳妝檯 (n)|dresser|Sandy is a fancy dresser. She likes to wear fashionable clothes to work. 
+2239|點 (n)|dot|At night, the sky is dotted with stars. You can see many small dots. 
+2240|煩擾 打攪 (v)|bother|Don't bother me. I need to be alone. 
+2241|測試 小考 (n)|test|The math test is too easy for me. It's only a piece of cake. 
+2242|震驚 給予打擊 使受電擊 (v)|shock|The news that Karen was in an accident shocked her parents. 
+2243|牆壁 (n)|wall|There is nothing on the walls of the house. 
+2244|滑雪屐 (n)|ski|Wearing skis, we slid down the slope. 
+2245|坦白的 直率的 (adj)|frank|To be frank with you, I don’t have enough money to buy a cell phone. 
+2246|洋蔥 (n)|onion|Kelly bought two onions and some tomatoes to make green salad. 
+2247|毒物 (n)|poison|The king was killed by a deadly poison. 
+2248|全部的 完全的 (adj)|total|What is the total cost of all the food you bought today? 
+2249|躺下 (v2)|lie|Ted lay on the bed, watching TV. 
+2250|採納 採用 收養 (v)|adopt|Because the couple could not have a child of their own, they adopted one. 
+2251|一點點 (n)|bit|If Carl studies bit by bit next month, I am sure his next exam grades will be greatly improved. 
+2252|旅館 飯店 (n)|hotel|On our trip to Japan, we lived in a five-star hotel. 
+2253|一些 (det)|some|Some are rich, and some are poor. 
+2254|青草 (n)|grass|I feel comfortable to lie on the grass, watching the blue sky. 
+2255|人行道 (n)|sidewalk|Walking on the sidewalk is safer than riding a bike on the road. 
+2256|意象 影像 形象 (n)|image|The image of the woman carrying one child on her back and one in front while picking trash up teaches us a lesson. 
+2257|甚至 連 (adv)|even|Kate can't even sing The Two Tigers. 
+2258|公尺 (n)|meter|Dubai tower is about 828 meters tall! 
+2259|程度 度數 (n)|degree|Summer in Taiwan is killing me! It is 35 degrees Celsius outside. 
+2260|拼(字) (n)|spelling|You need to check your spelling before you turn in your essay. 
+2261|治療 對待 看待 (v)|treat|Doctors treat Bill with a new drug. 
+2262|吹 隨風飄動 (v)|blow|Now, you should blow out the candles and make a wish. 
+2263|五 (num)|five|Five plus five is ten. 
+2264|單獨地獨自地 (adv)|alone|It is very dangerous for girls to go out alone at midnight. 
+2265|證實 確定 (v)|confirm|We have to confirm the result with our professor at the end of the class. 
+2266|邀請 (n)|invitation|People without invitation cards cannot enter the lobby. 
+2267|分開的 個別的 (adj)|separate|After graduation, we went to our separate ways. 
+2268|法院 (n)|court|The court found David guilty of theft. He had to spend 3 years in jail. 
+2269|咳嗽 (v)|cough|My grandmother caught a cold. She kept coughing. 
+2270|數字 (n)|number|Seven is my lucky number. 
+2271|發展 (v)|develop|It is important for children to develop good habits when they are still little. 
+2272|蜜蜂 (n)|bee|Bees make honey to serve the queen. 
+2273|固定 修理 (v)|fix|Dad helps me fix my bike. 
+2274|有耐心的 (adj)|patient|Mr. Moss is not a very patient man when it comes to waiting. 
+2275|形狀 (n)|shape|My friend gave me a necklace in the shape of a heart. 
+2276|昆蟲 (n)|insect|Bees, ladybugs, and dragonfly are insects. 
+2277|正好是 (adj)|very|This is the very book that I've been looking for. 
+2278|價值 評價 (n)|value|I finally learned the value of friends. 
+2279|改正 (v)|correct|The teacher made us correct the faults on the test papers. 
+2280|味覺 (n)|taste|The taste of chicken soup is great. You should try some. 
+2281|擁有 (v)|own|Ray owns a nice car. He buys it himself. 
+2282|英雄 勇士 (n)|hero|Andy became a hero after he caught the lions which invaded the village. 
+2283|玫瑰花 (n)|rose|For many women, roses stand for love. 
+2284|傢俱 (n)|furniture|Peter bought me two pieces of furniture: a wooden desk and a big bed. 
+2285|火腿 (n)|ham|Mary likes to eat ham and eggs for lunch. 
+2286|彩虹 (n)|rainbow|There are seven colors in a rainbow. 
+2287|勸告 忠告 (n)|advice|Please give me a piece of advice, and tell me who I should love. 
+2288|雄性的 男子的 (adj)|male|Generally speaking, the male lions are much bigger than the female ones. 
+2289|巨大的 (adj)|giant|This giant log is too heavy to move. I'm afraid we'll need to cut it into smaller pieces. 
+2290|在...的上面 (prep)|above|There is an eagle flying above the tree. 
+2291|烤肉 (n)|barbecue|How about having a barbecue this weekend? 
+2292|推 推動 (v)|push|Jane pushed the door open with her hands. 
+2293|站立 站著 (v)|stand|If you don't stand up for your rights, no one else will. 
+2294|駕駛 (v)|drive|John drove the car so fast and was soon stopped by the police. 
+2295|也(肯定句) (adv)|too|I want to go with you, too. 
+2296|以前的 前任的 (adj)|former|The former owner of this house took good care of it, so it still looks very new. 
+2297|天鵝 (n)|swan|The swans in the lake look relaxed. They rest their heads on their backs in the sun. 
+2298|想法、主意 (n)|idea|It is a good idea to finish the job on time. 
+2299|保持 保留 (v)|keep|Keep quiet. The baby is sleeping. 
+2300|微波 (n)|microwave|We can use the microwave oven to cook the beef. 
+2301|很少 難得 (adv)|seldom|I seldom take a bath in the morning. 
+2302|多雨的 (adj)|rainy|It's rainy today. I don't feel like going out. 
+2303|嘗試 (v)|try|I will try my best to get my work done. 
+2304|沙拉 (n)|salad|Please give me a plate of salad. 
+2305|一年一度地 每年地 (adv)|yearly|They hold this event yearly in memory of the heroes who fought for their freedom. 
+2306|字母表 (n)|alphabet|There are 26 letters in the English alphabet. 
+2307|夾克 (n)|jacket|It's cold. Put on your jacket. 
+2308|愚笨的 (adj)|stupid|It is stupid of the thief to run away with a small bike. 
+2309|車站 (n)|station|Excuse me. How can I get to the train stations? 
+2310|苗條的 (adj)|slender|Many girls envy Tina’s slender body, but she is trying really hard to gain weight. 
+2311|抱怨 訴說(病痛) (v)|complain|Some people complain about their life, but they don't do anything to make it better! 
+2312|星期二 (n)|Tuesday|We don't have math class and social study on Tuesday. 
+2313|鳳梨 (n)|pineapple|Are there any pineapples in the kitchen? 
+2314|桌子 (n)|table|Ants are looking for food on the table. 
+2315|喝 (v)|drink|They get some water to drink from the water well. 
+2316|行星 (n)|planet|The Earth is a beautiful planet with blue seas. 
+2317|管子 (n)|pipe|The water pipe was broken. We need to find a plumber to fix it. 
+2318|機會 時機 (n)|opportunity|When you see the opportunity, you need to rise up and take it because you never know if there is another one. 
+2319|蓋(房子) (v)|build|The female bird builds a nest to protect the baby birds. 
+2320|額外的 外加的 (adj)|extra|The boss paid a lot for asking David to do extra work. 
+2321|複習 回顧 (n)|review|If you want to get good grades on the exam, remember to review the lessons. 
+2322|收到 接到 (v)|receive|Did you receive my package last night? 
+2323|交通 (n)|traffic|Police control the traffic during rush hour. 
+2324|梳 (v)|comb|My 2-year-old daughter can comb her hair. 
+2325|購物中心 大賣場 (n)|mall|These modern shopping malls sell everything that people can use in their homes. 
+2326|幫助 (v)|help|Would you help me this time?
+2327|雨水 (n)|rain|We don't have much rain in winter. 
+2328|必要的 (adj)|necessary|Cash is necessary because some stores don't take credit cards. 
+2329|打擊 攻擊 (v)|strike|The lightning struck Joseph. It’s a miracle that he survived. 
+2330|膽量 勇氣 (n)|courage|All you do is talking behind people's backs. Do you have the courage to say it in front of them, coward? 
+2331|投入 (v)|put|Don't put your toys in my box. 
+2332|組織 成立 主辦 籌辦 (v)|organize|Gina and Sheldon are responsible to organize the graduation ceremony this year. 
+2333|治癒 (n)|cure|There seems to be no cure for Ebola. 
+2334|雄偉的 壯麗的 (adj)|grand|The grand architecture of this museum attracts my attention. 
+2335|現代的 (adj)|modern|Taipei 101 is the most modern building in Taiwan. 
+2336|每一個 (det)|every|Every guest has to prepare a gift to exchange with others. 
+2337|月亮 (n)|moon|The moon in the sky is bright. 
+2338|溜直排輪 (v)|roller-skate|The children roller-skated and played with one another in the park. 
+2339|豔陽高照的 (adj)|sunny|What a sunny day! There is no cloud in the blue sky. 
+2340|飲料(無酒精) (np)|soft drink|In summer, I usually buy two cups of soft drinks, such as soda and black tea. 
+2341|旅行 (n)|travel|Roger doesn’t enjoy foreign travel as much as Cindy does because he can’t speak languages other than Mandarin. 
+2342|陽臺 (n)|balcony|My mother is on the balcony, enjoying the outside view. 
+2343|氣候 (n)|climate|I don't want to live in the terribly hot climate. 
+2344|樹 (n)|tree|There are many birds in the tree. 
+2345|年 (n)|year|Year after year, the tree is still green. 
+2346|地區 區域 (n)|region|This region is known for its abundance of natural resources, for instance forest, waterfalls, and natural gas. 
+2347|極好的 (adj)|wonderful|You have done a wonderful job. Our boss likes it very much 
+2348|危險 (n)|danger|The boy hit by the truck was out of danger. 
+2349|課程 路線 (n)|course|The course is for kids, so it's very easy. 
+2350|鋒利的 尖的 (adj)|sharp|You should be very careful when using the knife because it's so sharp. 
+2351|試驗 審判 考驗 (n)|trial|All medicines need to go through clinical trials before they can be released to the market. 
+2352|國中 (np)|junior high school|The students in junior high schools are under a lot of pressure. 
+2353|爺爺 (n)|grandpa|Grandpa is old. I should take care of him. 
+2354|蕃茄 (n)|tomato|The tomato is so yummy. It's red and juicy. 
+2355|一滴 ( n)|drop|Drops of tears came from form eyes when Alice heard her grandpa passed away. 
+2356|喜愛 享受 欣賞 (v)|enjoy|In fall, people enjoy watching maples. 
+2357|鴨舌帽 (n)|cap|Ted's cap is too big for him. 
+2358|身體 (n)|body|Winnie's body is fat and round. 
+2359|仍然 (adv)|still|Year after year, the old tree is still green. 
+2360|錯誤 過失 (n)|mistake|I didn't make the mistake on purpose. Can I have a second chance? 
+2361|公園 (n)|park|We take a walk in the park after dinner. 
+2362|獅子 (n)|lion|Lions hunt zebras for food. 
+2363|猜測 (v)|guess|Stop guessing! Think twice for the correct answer. 
+2364|雷 (n)|thunder|Thunder is heard after the lightning. 
+2365|祝賀 (n)|congratulation|We wrote a card to send our congratulations to Mike on his job promotion. 
+2366|藝術 (n)|art|I draw a hat in art class. 
+2367|打包 背部 (n)|back|My back aches because I work too hard. 
+2368|預先 事先 (n)|advance|We need to book our flight in advance for summer vacation. 
+2369|管子 (n)|tube|The water is leaking from the crack in the tube on the roof. It needs to be replaced as soon as possible. 
+2370|向前 (adv)|ahead|Just go ahead. There is no time to look back. 
+2371|暫停 間歇 (n)|pause|There is brief pause after each question for you to write your answer. 
+2372|孩子 (n)|kid|The kid is Ted. He is ten years old. 
+2373|淑女 女士 (n)|lady|The lady in the blue dress is my mother. 
