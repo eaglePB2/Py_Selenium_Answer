@@ -1,7 +1,10 @@
 # Selenium 全自動答案輸入系統 （100%準確率）
+
+written in ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 可以把它當成針對[http://etabc.tw/etest/](http://etabc.tw/etest/)的漏洞來自動輸入的測試系統，但目前沒有想要把它做到很完美的意思，僅供參考用，本人不對因使用該系統而發生的各種事情（包括但不限於：被其他人發現，因某問題導致你成績直接爆炸等）負責，我只是以教育性質和回報漏洞為目的而寫這份程式的。
 
-**當然，等相關部門想到怎麼防這個系統的時候，我自然會直接存檔處理。 **
+**當然，等相關部門想到怎麼防這個系統的時候，我自然會直接存檔處理。**
 
 ## 假設範圍
 介於本人不是要把所有範圍都抓上來（畢竟漏洞捕捉方式也都差不多一摸一樣），因此這個系統只針對以下範圍：
@@ -11,7 +14,7 @@
 
 ## 前置安裝
 你需要pip 安裝兩個bundle：  
-Selenium — 就是這個程式的重大核心，也是用來打開網頁，找關鍵字，輸入答案，按按鈕的重要工具  
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) — 就是這個程式的重大核心，也是用來打開網頁，找關鍵字，輸入答案，按按鈕的重要工具  
 ```
 pip install selenium
 ```
